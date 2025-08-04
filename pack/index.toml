@@ -168,6 +168,11 @@ hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
 file = "mods/styledplayerlist.pw.toml"
 hash = "2c6a4c59ce4b99a35b28d97c3a8137ec74728d1671ec92f73d58a1e7c3f37da9"
 metafile = true
