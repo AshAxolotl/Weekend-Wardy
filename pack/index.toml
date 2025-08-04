@@ -138,6 +138,16 @@ hash = "ee7786026fb270b31b018efd166afff9f91de67369a50832ca33644d2bc32722"
 metafile = true
 
 [[files]]
+file = "mods/lodestonelib.pw.toml"
+hash = "3dce7f2be23f7a342547aa023d8b5bf0155849548f854c8692b14c160fbf7426"
+metafile = true
+
+[[files]]
+file = "mods/malum.pw.toml"
+hash = "1858795b29ea460ed655c1981cd738e1faa94176584e4bd6b58e471ae627b6db"
+metafile = true
+
+[[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "0b9153f74bbb1f69639e95267f548169cbcbb8d4a3812fa27ef1aa8b248abe56"
 metafile = true
