@@ -10,6 +10,11 @@ hash = "6a87c6e5ead4431ad3ac84d7a81a7f13b88c2d9d598a830a04295096e6efd9f5"
 metafile = true
 
 [[files]]
+file = "mods/almanac.pw.toml"
+hash = "6b1de417a7fa934847bf002b75acd00d48637bb3484ea468799354b612658775"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "293ec22e4e8342a9bd0f338505a14e3794b44cd7ca1e5278a86f41f99c69a3af"
 metafile = true
@@ -65,6 +70,11 @@ hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
+metafile = true
+
+[[files]]
 file = "mods/figura-0.1.5+1.21.1-neoforge-mc-tweaked.jar"
 hash = "b65e2ee83ce6d7f62786f82725ddaaeec919a6323fd9b1fd352cb585456dc0c6"
 
@@ -83,8 +93,28 @@ hash = "e00b467d81fc5f35bf7432bc3b5d371281b0719eeae4377854a5f8ca33968190"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "a55fe659bff4772919b0e3f7a64d79df053556cb16cf8e5a186e20d6b3945dc1"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "6c4d9be9d042e5a1028a420fa2f4aa435e6406445207a4d600700efbf037c35a"
+metafile = true
+
+[[files]]
 file = "mods/lavender.pw.toml"
 hash = "7dc27df21d8bd6b4e5387592063817c7de24a7e3ce8c90bb6bf3a9e22199d5e5"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "edc75ace846ae34c1cb4cf4a44106e1fb035b1eee0432765a716098c9a4b5823"
 metafile = true
 
 [[files]]
