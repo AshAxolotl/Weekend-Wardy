@@ -30,6 +30,11 @@ hash = "9f920c5f1df2577cf374285e4aad4f2982a30ea2a3da1cf7ddaf25e04b3a2e31"
 metafile = true
 
 [[files]]
+file = "mods/custom-fov-illusive.pw.toml"
+hash = "0ff7eab4de21d8e8697c0c53c82e8423fe9d0278df9c407a6eb61198ad5f6803"
+metafile = true
+
+[[files]]
 file = "mods/default-files.pw.toml"
 hash = "55078861f033521e0b31923e0ed415f44a48600718e806b0aeaac4bd3df6733c"
 metafile = true
