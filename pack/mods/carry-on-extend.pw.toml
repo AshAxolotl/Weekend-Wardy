@@ -1,0 +1,13 @@
+name = "Carry On Extend"
+filename = "CarryOnExtend-1.4-hotfix-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JbqjOoQj/versions/WvkIoGLO/CarryOnExtend-1.4-hotfix-1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "bb81c00540b3729e715ad9872c91b540d7af8b21306328861d2807579684f761b281a6845cd8c704e54a8c25e6f22e9c48fffef49e9d29569ebd9ee894659361"
+
+[update]
+[update.modrinth]
+mod-id = "JbqjOoQj"
+version = "WvkIoGLO"

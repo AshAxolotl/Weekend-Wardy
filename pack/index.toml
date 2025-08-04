@@ -25,6 +25,16 @@ hash = "293ec22e4e8342a9bd0f338505a14e3794b44cd7ca1e5278a86f41f99c69a3af"
 metafile = true
 
 [[files]]
+file = "mods/carry-on-extend.pw.toml"
+hash = "441ccd90f461146fbeb65818fe4f42dc055c6dc85f41e052f525ac193a7daa66"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "8fde54624913d86f1176cd1086fa485f1a872573dac144347c57cab76596b715"
+metafile = true
+
+[[files]]
 file = "mods/cicada.pw.toml"
 hash = "93a630545090420997588464bd281ae7b38a3eff80e203fbd065b548407748a1"
 metafile = true
