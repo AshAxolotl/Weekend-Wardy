@@ -1,0 +1,13 @@
+{
+    "replace": true,
+    "values": [
+        "cataclysm:kobolediator_skull",
+        "cataclysm:aptrgangr_head",
+        "cataclysm:draugr_head",
+        "create:goggles",
+        "raccoons-rabies:raccoon",
+        "trickster:top_hat",
+        "trickster:witch_hat",
+        "trickster:fez"
+    ]
+}

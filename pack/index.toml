@@ -5,6 +5,11 @@ file = "config/openloader/options.json"
 hash = "b5ba0c42a2d5aff3746372fc027261b9d1f1e05104cc97bd3a74893f1106fcf9"
 
 [[files]]
+file = "mods/accessories-cc-layer.pw.toml"
+hash = "8f90a500df28d497fe7e323b40ee55640bc63141284ce2189a7766c976a91378"
+metafile = true
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "6a87c6e5ead4431ad3ac84d7a81a7f13b88c2d9d598a830a04295096e6efd9f5"
 metafile = true
@@ -22,6 +27,11 @@ metafile = true
 [[files]]
 file = "mods/cicada.pw.toml"
 hash = "93a630545090420997588464bd281ae7b38a3eff80e203fbd065b548407748a1"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
@@ -128,6 +138,11 @@ hash = "ee7786026fb270b31b018efd166afff9f91de67369a50832ca33644d2bc32722"
 metafile = true
 
 [[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "0b9153f74bbb1f69639e95267f548169cbcbb8d4a3812fa27ef1aa8b248abe56"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
 metafile = true
@@ -140,6 +155,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
+metafile = true
+
+[[files]]
+file = "mods/pastel-mod.pw.toml"
+hash = "e6c4eb25d8fad02757c61e47b0390c1210c9ea2fc5d199ea81f8e73cbd5ba49f"
 metafile = true
 
 [[files]]
@@ -186,6 +206,38 @@ metafile = true
 file = "mods/trickster.pw.toml"
 hash = "6a6a033c60c2aab3c52d11d0f8ad55f81e3156f1a3f11ca1e1a84fb9d3081844"
 metafile = true
+
+[[files]]
+file = "resources/pack_resources/assets/custom/lang/en_us.json"
+hash = "2809bc0ee302993bb166d97370d55c26858084f5d79fe3c174cacbb55c21b0e0"
+
+[[files]]
+file = "resources/pack_resources/assets/custom/textures/gui/slot/circlet.png"
+hash = "e5f118d0abb207377eac59063234498130089c7501acce4c8c3ff6e6652fd9e0"
+
+[[files]]
+file = "resources/pack_resources/data/accessories/tags/item/circlet.json"
+hash = "05ed43ff302550ca48dc23cd384f0587680d6c4fb1c28b4fc42f6e024c9240f9"
+
+[[files]]
+file = "resources/pack_resources/data/accessories/tags/item/face.json"
+hash = "25a01c627f09c16e5316ba5407136db1931de720d75d3a6de5fc66c5efd6e3a0"
+
+[[files]]
+file = "resources/pack_resources/data/curios/tags/item/head.json"
+hash = "ba885c0662c5d9310e9d0841e1b843147aefb57369013e66af1cc98e312a734e"
+
+[[files]]
+file = "resources/pack_resources/data/custom/accessories/entity/default.json"
+hash = "138c1004223a36ad6dd91f3a2e03d4c3f323a086cde1a6720b27c04b054573e1"
+
+[[files]]
+file = "resources/pack_resources/data/custom/accessories/group/circlet.json"
+hash = "f78cc729bb3affb55b1d7ed49ed3e7eeb4a7f561bac076d561aedf8f8c00acd9"
+
+[[files]]
+file = "resources/pack_resources/data/custom/accessories/slot/circlet.json"
+hash = "6801a7a5dcf7645c6f0a4da7871a264102841b3d5329dda98428211c6277cca6"
 
 [[files]]
 file = "resources/pack_resources/pack.mcmeta"
