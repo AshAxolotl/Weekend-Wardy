@@ -11,7 +11,7 @@ metafile = true
 
 [[files]]
 file = "mods/almanac.pw.toml"
-hash = "6b1de417a7fa934847bf002b75acd00d48637bb3484ea468799354b612658775"
+hash = "cb96cee37aeb38e012b1b85b10f0aa888b3875c84103e6981b13df389cbd8074"
 metafile = true
 
 [[files]]
@@ -98,6 +98,16 @@ hash = "a55fe659bff4772919b0e3f7a64d79df053556cb16cf8e5a186e20d6b3945dc1"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "297eb75ce1aedc28f183a8891fde9c67318953e6c8adf3d7531a17b211f9349d"
+metafile = true
+
+[[files]]
+file = "mods/krypton-fnp.pw.toml"
+hash = "0b785ad2b4b9672adad4da0a11a76b242fe994f040662c816f6d2dfaf6868fef"
+metafile = true
+
+[[files]]
 file = "mods/ksyxis.pw.toml"
 hash = "6c4d9be9d042e5a1028a420fa2f4aa435e6406445207a4d600700efbf037c35a"
 metafile = true
@@ -114,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/lmd.pw.toml"
-hash = "edc75ace846ae34c1cb4cf4a44106e1fb035b1eee0432765a716098c9a4b5823"
+hash = "ee7786026fb270b31b018efd166afff9f91de67369a50832ca33644d2bc32722"
 metafile = true
 
 [[files]]
@@ -155,6 +165,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "2c6a4c59ce4b99a35b28d97c3a8137ec74728d1671ec92f73d58a1e7c3f37da9"
 metafile = true
 
 [[files]]
