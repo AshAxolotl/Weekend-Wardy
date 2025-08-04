@@ -1,0 +1,13 @@
+name = "Weekend Wardy"
+author = "AshAxolotl"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "12dced1d7ff6627534e8190d8650ae32fdb9e89b1e3e161d4aa09e20474b48a2"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.197"

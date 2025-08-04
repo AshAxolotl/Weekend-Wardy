@@ -1,0 +1,106 @@
+[flavor_groups.fog]
+name = "Fog"
+description = "Pretty Fog :D"
+side = "client"
+choices = ["fog_on", "fog_off"]
+
+[flavor_groups.aurae]
+name = "Aurae!"
+description = "More ambient effects"
+side = "client"
+choices = ["aurae_on", "aurae_off"]
+
+[flavor_groups.particle_rain]
+name = "Particle Rain"
+description = "Pretty Rain :D"
+side = "client"
+choices = ["particle_rain_on", "particle_rain_off"]
+
+[flavor_groups.particular]
+name = "Particular"
+description = "More visual effects"
+side = "client"
+choices = ["particular_on", "particular_off"]
+
+[flavor_groups.explosive_enhancement]
+name = "Explosive Enhancement"
+description = "Makes the explosion animation look cooler."
+side = "client"
+choices = ["explosive_enhancement_on", "explosive_enhancement_off"]
+
+[flavor_groups.dynamic_lights]
+name = "LambDynamicLights"
+description = "Dynamic lights for example holding torch in hand gives light"
+side = "client"
+choices = ["dynamic_lights_on", "dynamic_lights_off"]
+
+[flavor_groups.better_clouds]
+name = "Better Clouds"
+description = "Pretty Clouds!!!"
+side = "client"
+choices = ["better_clouds_on", "better_clouds_off"]
+
+[flavor_groups.sound]
+name = "Sound (Mod)"
+description = "Adds a wide range of new and improved sound effects"
+side = "client"
+choices = ["sound_on", "sound_off"]
+
+[flavor_groups.sound_physics_remastered]
+name = "Sound Physics Remastered"
+description = "Dynamic lights for example holding torch in hand gives light"
+side = "client"
+choices = ["sound_physics_remastered_on", "sound_physics_remastered_off"]
+
+[flavor_groups.presence_footsteps]
+name = "Presence Footsteps"
+description = "Dynamic lights for example holding torch in hand gives light"
+side = "client"
+choices = ["presence_footsteps_on", "presence_footsteps_off"]
+
+[flavor_groups.iris]
+name = "Iris"
+description = "Shaders!"
+side = "client"
+choices = ["iris_off", "iris_on"]
+
+[flavor_groups.sodium]
+name = "Sodium"
+description = "Disable if it breaks things for you but it shouldnt"
+side = "client"
+choices = ["sodium_on", "sodium_off"]
+
+
+
+
+
+[metafile.fog]
+flavors = "fog_on"
+[metafile.aurae]
+flavors = "aurae_on"
+[metafile.pretty-rain]
+flavors = "particle_rain_on"
+[metafile.particular-reforged]
+flavors = "particular_on"
+[metafile.explosive-enhancement-forge]
+flavors = "explosive_enhancement_on"
+[metafile.lambdynamiclights-unofficial-neoforge]
+flavors = "dynamic_lights_on"
+[metafile.better-clouds]
+flavors = "better_clouds_on"
+[metafile.sound]
+flavors = "sound_on"
+[metafile.sound-physics-remastered]
+flavors = "sound_physics_remastered_on"
+[metafile.presence-footsteps]
+flavors = "presence_footsteps_on"
+[metafile.iris]
+flavors = "iris_on"
+[metafile.iris-flw-compat]
+flavors = "iris_on"
+[metafile.sodium]
+flavors = "sodium_on"
+[metafile.sodium-extra]
+flavors = "sodium_on"
+[metafile.reeses-sodium-options]
+flavors = "sodium_on"

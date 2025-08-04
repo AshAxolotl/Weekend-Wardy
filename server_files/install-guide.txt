@@ -1,0 +1,8 @@
+1. copy data and the docker compose file
+2. cd data 
+3. wget https://git.sleeping.town/unascribed/unsup/releases/download/v1.1.4/unsup-1.1.4.jar
+4 cd ..
+5. docker compose up
+6. it will crash because figura will be on the server (dont know how to fix)
+7. delete the figura jar in data/mods/
+8. docker compose up again

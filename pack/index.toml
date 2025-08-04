@@ -1,0 +1,68 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "6a87c6e5ead4431ad3ac84d7a81a7f13b88c2d9d598a830a04295096e6efd9f5"
+metafile = true
+
+[[files]]
+file = "mods/cicada.pw.toml"
+hash = "93a630545090420997588464bd281ae7b38a3eff80e203fbd065b548407748a1"
+metafile = true
+
+[[files]]
+file = "mods/connector-extras.pw.toml"
+hash = "52e2cb54ee2933bf00e9b7886f47938a2dce1bf998293be2b38552083ffa5f9a"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "9f920c5f1df2577cf374285e4aad4f2982a30ea2a3da1cf7ddaf25e04b3a2e31"
+metafile = true
+
+[[files]]
+file = "mods/figura-0.1.5+1.21.1-neoforge-mc-tweaked.jar"
+hash = "b65e2ee83ce6d7f62786f82725ddaaeec919a6323fd9b1fd352cb585456dc0c6"
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "5b34f5aff5000de94ed9e132315bad7288a72a9cbb8f902df2799a579433b7af"
+metafile = true
+
+[[files]]
+file = "mods/frogserverpackmod-1.0.0.jar"
+hash = "a324a658fc571778094c256da6436bb5a99b31928541ecc4091245c904b3db5e"
+
+[[files]]
+file = "mods/lavender.pw.toml"
+hash = "7dc27df21d8bd6b4e5387592063817c7de24a7e3ce8c90bb6bf3a9e22199d5e5"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "a1fb713df668ed21dda0602e99cb23b991c8faff841e130d7aae46258c3d6a45"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+metafile = true
+
+[[files]]
+file = "mods/trickster.pw.toml"
+hash = "6a6a033c60c2aab3c52d11d0f8ad55f81e3156f1a3f11ca1e1a84fb9d3081844"
+metafile = true
+
+[[files]]
+file = "unsup.toml"
+hash = "c4ed734dac3b8110dd2c930bf4739767f5962bd453c18ae64ce88ae75c4fac18"
