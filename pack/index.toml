@@ -124,6 +124,16 @@ hash = "44a4412c7b0ff261645ea9da8c00b1e46cfdb84407a5c991eb60b226b1cb3fa9"
 metafile = true
 
 [[files]]
+file = "mods/enders-delight.pw.toml"
+hash = "a693f3ca25b4b4ece785887d5a095abb1ab959804fbf6c89f119100f1de1df4b"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "c4027b8071cc6dfc7f0d49e702a5e25b1e36841e50acba1e699f308be156b8f2"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
 metafile = true
@@ -199,6 +209,11 @@ metafile = true
 [[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "0b9153f74bbb1f69639e95267f548169cbcbb8d4a3812fa27ef1aa8b248abe56"
+metafile = true
+
+[[files]]
+file = "mods/my-nethers-delight.pw.toml"
+hash = "0cd80499ad61c0617dfee679bb5dcd37870fd2895fd6f2f5fa0ed00b716a84ff"
 metafile = true
 
 [[files]]
