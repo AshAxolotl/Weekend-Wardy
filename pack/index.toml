@@ -20,11 +20,6 @@ hash = "cb96cee37aeb38e012b1b85b10f0aa888b3875c84103e6981b13df389cbd8074"
 metafile = true
 
 [[files]]
-file = "mods/beans-backpacks-3.pw.toml"
-hash = "6d76eb6c0c1ae3da599d74de7a2b158c503b5cff5b632b4732dc0bedc32789cf"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "293ec22e4e8342a9bd0f338505a14e3794b44cd7ca1e5278a86f41f99c69a3af"
 metafile = true
@@ -108,16 +103,6 @@ hash = "e00b467d81fc5f35bf7432bc3b5d371281b0719eeae4377854a5f8ca33968190"
 metafile = true
 
 [[files]]
-file = "mods/geckolib.pw.toml"
-hash = "9e80e6f2a680b052f2a66ade20a5abbd98a0abbebde6f30472d6ae6b993e9464"
-metafile = true
-
-[[files]]
-file = "mods/hexalia.pw.toml"
-hash = "9bdc8bc871d91ffda26ac5edaa82141d9ccb5f6173ddb6a00b0335f4a2a9a31d"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "a55fe659bff4772919b0e3f7a64d79df053556cb16cf8e5a186e20d6b3945dc1"
 metafile = true
@@ -178,8 +163,8 @@ hash = "e6c4eb25d8fad02757c61e47b0390c1210c9ea2fc5d199ea81f8e73cbd5ba49f"
 metafile = true
 
 [[files]]
-file = "mods/patchouli.pw.toml"
-hash = "04ba8a8c91a6c25c42321493a2d233762bb01169fac5fd834e434887cdbf8596"
+file = "mods/polymorph.pw.toml"
+hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
 metafile = true
 
 [[files]]
@@ -225,11 +210,6 @@ metafile = true
 [[files]]
 file = "mods/styledplayerlist.pw.toml"
 hash = "2c6a4c59ce4b99a35b28d97c3a8137ec74728d1671ec92f73d58a1e7c3f37da9"
-metafile = true
-
-[[files]]
-file = "mods/terrablender.pw.toml"
-hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
 
 [[files]]
