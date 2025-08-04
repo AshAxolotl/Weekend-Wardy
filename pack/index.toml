@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/comforts-server.toml"
+hash = "1b14431f3d46cdefd0c03077179b78f4b8b9e8cec6f436a924990fa1ef10c211"
+
+[[files]]
 file = "config/headpats.json"
 hash = "377cf0a4c8f384ee6d5fa593ab0c52e7a4ef30baf5c0f770d9b630869d38b6b9"
 
@@ -11,6 +15,11 @@ hash = "b5ba0c42a2d5aff3746372fc027261b9d1f1e05104cc97bd3a74893f1106fcf9"
 [[files]]
 file = "mods/accessories-cc-layer.pw.toml"
 hash = "8f90a500df28d497fe7e323b40ee55640bc63141284ce2189a7766c976a91378"
+metafile = true
+
+[[files]]
+file = "mods/accessories-tc-layer.pw.toml"
+hash = "2392fac629717417a29744e66f001a494304309b7742cf0cf54368278d3bf5c7"
 metafile = true
 
 [[files]]
@@ -162,6 +171,11 @@ hash = "e00b467d81fc5f35bf7432bc3b5d371281b0719eeae4377854a5f8ca33968190"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "9e80e6f2a680b052f2a66ade20a5abbd98a0abbebde6f30472d6ae6b993e9464"
+metafile = true
+
+[[files]]
 file = "mods/headpat.pw.toml"
 hash = "476cee1d0c5080061c4cc609f692028b118f7084e22dfed8b8f709550465cffc"
 metafile = true
@@ -249,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "a69a8ba0d9e52361b1853cf59b2cf2a38b668b1d508a565f315f2fa30407f546"
+metafile = true
+
+[[files]]
+file = "mods/raccoons-rabies.pw.toml"
+hash = "0be3dd7fe4d4733852cf3bda719b5ba74617ef90da99f1b5d1e52889d74f9f2c"
 metafile = true
 
 [[files]]

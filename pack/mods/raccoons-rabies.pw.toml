@@ -1,0 +1,13 @@
+name = "Raccoons & Rabies"
+filename = "raccoons-rabies-2.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/45m4jAcu/versions/PFYUctHG/raccoons-rabies-2.2.0.jar"
+hash-format = "sha512"
+hash = "b5956312d03acd3aadb4d99c2c8935812f73a9383409498c4de99a76f8fb5a9824a1769fe383845db541e12e8b5215f3c7b649e4c4c2bc4c9da2abba60d956d1"
+
+[update]
+[update.modrinth]
+mod-id = "45m4jAcu"
+version = "PFYUctHG"
