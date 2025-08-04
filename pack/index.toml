@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/headpats.json"
+hash = "377cf0a4c8f384ee6d5fa593ab0c52e7a4ef30baf5c0f770d9b630869d38b6b9"
+
+[[files]]
 file = "config/openloader/options.json"
 hash = "b5ba0c42a2d5aff3746372fc027261b9d1f1e05104cc97bd3a74893f1106fcf9"
 
@@ -110,6 +114,11 @@ hash = "a324a658fc571778094c256da6436bb5a99b31928541ecc4091245c904b3db5e"
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "e00b467d81fc5f35bf7432bc3b5d371281b0719eeae4377854a5f8ca33968190"
+metafile = true
+
+[[files]]
+file = "mods/headpat.pw.toml"
+hash = "476cee1d0c5080061c4cc609f692028b118f7084e22dfed8b8f709550465cffc"
 metafile = true
 
 [[files]]
