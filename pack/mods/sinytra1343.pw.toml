@@ -1,0 +1,13 @@
+name = "Sinytra Connector #1343 (swimming fix)"
+filename = "sinytra1343-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nT3Vq4u0/versions/TnQc0Gz5/sinytra1343-2.0.0.jar"
+hash-format = "sha512"
+hash = "96ef4fbf675e470304c4bb2a60b7cec3db22ed40b65f8bb01a1a0a963786a33c24988d9965db44ef7b08c88ff6f5964ad0c5b5b73964da54d2eb72914ea1af7d"
+
+[update]
+[update.modrinth]
+mod-id = "nT3Vq4u0"
+version = "TnQc0Gz5"
