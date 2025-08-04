@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/carryon-common.toml"
+hash = "42ac35708c9f41c68a9976f9e463780a702515eec61e24911d618a0804b386f8"
+
+[[files]]
 file = "config/comforts-server.toml"
 hash = "1b14431f3d46cdefd0c03077179b78f4b8b9e8cec6f436a924990fa1ef10c211"
 
@@ -331,6 +335,18 @@ hash = "6a6a033c60c2aab3c52d11d0f8ad55f81e3156f1a3f11ca1e1a84fb9d3081844"
 metafile = true
 
 [[files]]
+file = "resources/anti enderman grief v1.1.13 (MC 1.21-1.21.8).zip"
+hash = "49eeeb41dcc462672e2cb2666fa753940daaa1a75db9ad036f5a39e138fff6e3"
+
+[[files]]
+file = "resources/armor statues v2.8.19 (MC 1.21-1.21.8).zip"
+hash = "6dfb645614f4054372bd886627f7c36b245ddf167e1b614d8c3f03c204516e44"
+
+[[files]]
+file = "resources/name colors v1.0.11 (MC 1.21-1.21.8).zip"
+hash = "8bbec102309d6d7812a7022e8845d59a4342c32e4b03ee5595ad60a94942d699"
+
+[[files]]
 file = "resources/pack_resources/assets/custom/lang/en_us.json"
 hash = "2809bc0ee302993bb166d97370d55c26858084f5d79fe3c174cacbb55c21b0e0"
 
@@ -365,6 +381,18 @@ hash = "6801a7a5dcf7645c6f0a4da7871a264102841b3d5329dda98428211c6277cca6"
 [[files]]
 file = "resources/pack_resources/pack.mcmeta"
 hash = "c2e62879ea67c27d883c15494469ce9737a4ecf2b83c15572b247680a821464c"
+
+[[files]]
+file = "resources/painting picker v1.1.0 (MC 1.21-1.21.8).zip"
+hash = "1e7f2f0581cc2a2f5fc194aae2ff30db78210140a7dfcf6f4e5c5c27fb694873"
+
+[[files]]
+file = "resources/player head drops v1.1.13 (MC 1.21-1.21.8).zip"
+hash = "680725ec91a6a7dd441c9d58032378942b9953d98658fb2c5e72ff1e9351e404"
+
+[[files]]
+file = "resources/silence mobs v1.2.7 (MC 1.21-1.21.8).zip"
+hash = "ea4c53eb465ae4fc6d4d2c5c6aa2a3d8e026e3ba928edd2bd266db7202d2fd2a"
 
 [[files]]
 file = "unsup.toml"
