@@ -24,6 +24,11 @@ hash = "cb96cee37aeb38e012b1b85b10f0aa888b3875c84103e6981b13df389cbd8074"
 metafile = true
 
 [[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "a77830f11c321ef40ace0c3f9c3974e206dc3b788dfc9c767248152ccda7f53b"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "293ec22e4e8342a9bd0f338505a14e3794b44cd7ca1e5278a86f41f99c69a3af"
 metafile = true
@@ -91,6 +96,16 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
+metafile = true
+
+[[files]]
+file = "mods/emote-tweaks.pw.toml"
+hash = "208d4a666d8f1b51f95e6467b6610afbec8c10608c5bc3e60ae3a87dbcb502cf"
+metafile = true
+
+[[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "44a4412c7b0ff261645ea9da8c00b1e46cfdb84407a5c991eb60b226b1cb3fa9"
 metafile = true
 
 [[files]]
@@ -207,6 +222,11 @@ hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "a5f08589896b9d994fee70bc92f9e67df9121ab533fdb4e0c2b76e7aa87a001c"
+metafile = true
+
+[[files]]
 file = "mods/sinytra1343.pw.toml"
 hash = "1c2403fb1d6f300a6b752f2ee87bad66f17e044a17ed31fcd0ac927b8c8427fa"
 metafile = true
@@ -229,6 +249,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "6c0d6cd146d9375b4d99e24e3914fdf202f5285a49799f4d78aa0f4a189368e4"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "7207bcd8319f1e4b89806c7f909c87acdd3a5f96e5917d859ff704df8ff9a229"
 metafile = true
 
 [[files]]
