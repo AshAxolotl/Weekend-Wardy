@@ -190,6 +190,11 @@ hash = "a55fe659bff4772919b0e3f7a64d79df053556cb16cf8e5a186e20d6b3945dc1"
 metafile = true
 
 [[files]]
+file = "mods/infinite-dragon-eggs.pw.toml"
+hash = "f29da2cd01bd7b06526bc009875267f0b1e9a64320be2ad816f0792d7e54f97a"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "297eb75ce1aedc28f183a8891fde9c67318953e6c8adf3d7531a17b211f9349d"
 metafile = true

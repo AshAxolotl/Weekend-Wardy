@@ -1,0 +1,13 @@
+name = "Infinite Dragon Eggs"
+filename = "infinite-dragon-eggs-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/WY3adfZi/versions/mYjkqMrv/infinite-dragon-eggs-1.0.0.jar"
+hash-format = "sha512"
+hash = "e2a4762bc07dcf4e9fce0d457c370099c927b2db87993146275030226706a3544a69923008a7d27a8e5f962b7abdbacf1893ff542f3a8c88b36d0b666e0d9372"
+
+[update]
+[update.modrinth]
+mod-id = "WY3adfZi"
+version = "mYjkqMrv"
