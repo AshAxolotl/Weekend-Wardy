@@ -19,6 +19,11 @@ hash = "6a87c6e5ead4431ad3ac84d7a81a7f13b88c2d9d598a830a04295096e6efd9f5"
 metafile = true
 
 [[files]]
+file = "mods/aileron.pw.toml"
+hash = "3c801cb8c7bbd01b72e96721d351087a3b7a219dae43e8c5b352e567aac63567"
+metafile = true
+
+[[files]]
 file = "mods/almanac.pw.toml"
 hash = "cb96cee37aeb38e012b1b85b10f0aa888b3875c84103e6981b13df389cbd8074"
 metafile = true
@@ -71,6 +76,16 @@ metafile = true
 [[files]]
 file = "mods/default-files.pw.toml"
 hash = "55078861f033521e0b31923e0ed415f44a48600718e806b0aeaac4bd3df6733c"
+metafile = true
+
+[[files]]
+file = "mods/elytra-bounce.pw.toml"
+hash = "2ff038d51a665876878759d170c13d3226e9acb83380f1f1b77f154f9f479ea9"
+metafile = true
+
+[[files]]
+file = "mods/elytra-trims.pw.toml"
+hash = "07ea5950240bde3452c93be59647a662dd790692e5eeb5d3c4266910781d6d6d"
 metafile = true
 
 [[files]]

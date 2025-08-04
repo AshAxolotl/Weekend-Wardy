@@ -1,0 +1,13 @@
+name = "Elytra Bounce"
+filename = "elytra_enchants-1.0.3+1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ab57c69086462202c32b0a69fedbc4da7b2c00ba"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6144387
+project-id = 658644
