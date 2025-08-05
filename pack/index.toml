@@ -42,8 +42,23 @@ hash = "cb96cee37aeb38e012b1b85b10f0aa888b3875c84103e6981b13df389cbd8074"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+metafile = true
+
+[[files]]
 file = "mods/audioplayer.pw.toml"
 hash = "a77830f11c321ef40ace0c3f9c3974e206dc3b788dfc9c767248152ccda7f53b"
+metafile = true
+
+[[files]]
+file = "mods/aurae.pw.toml"
+hash = "1491f3622bf53e701301596984b0315a93a6d25641785b7432e21bf625dfd224"
+metafile = true
+
+[[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "0aa8047ae4aeb1a2a5945db39f087718fc0cb02b476c07261bbde08528df5012"
 metafile = true
 
 [[files]]
@@ -72,8 +87,23 @@ hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
+file = "mods/colorwheel-patcher.pw.toml"
+hash = "2d8c419acad3bab8eb54c6d5461f99ab76d924b753a9c811e7e94d624fe32f61"
+metafile = true
+
+[[files]]
+file = "mods/colorwheel.pw.toml"
+hash = "9da820e4bd91294a900ec2c2859fa8ae261a573922df3a15ca64cb838c76df9f"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "5e0a875282f4abed66a2cccf7929488ebb5e88447d2bb3369e8ddc728fc66fc0"
+metafile = true
+
+[[files]]
+file = "mods/configuration.pw.toml"
+hash = "1a3eaa6747c1467a235ee17c29c5e0b264ecb3ac1108d2f794d803b95be92660"
 metafile = true
 
 [[files]]
@@ -84,6 +114,16 @@ metafile = true
 [[files]]
 file = "mods/connector.pw.toml"
 hash = "9f920c5f1df2577cf374285e4aad4f2982a30ea2a3da1cf7ddaf25e04b3a2e31"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "2e082857985c7550efdad38a1997b9805051b07fb61b0cd30921e786a8521130"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "7f25446123f66f57e7cc8e148155a3da39d85b31963c663b5b9be77fc1bacbe6"
 metafile = true
 
 [[files]]
@@ -147,6 +187,11 @@ hash = "a693f3ca25b4b4ece785887d5a095abb1ab959804fbf6c89f119100f1de1df4b"
 metafile = true
 
 [[files]]
+file = "mods/explosive-enhancement-forge.pw.toml"
+hash = "fc8948d1a8837b7a89a3b754335fd53086ba89c78af9c3d07fa899761c6a9e50"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "c4027b8071cc6dfc7f0d49e702a5e25b1e36841e50acba1e699f308be156b8f2"
 metafile = true
@@ -159,6 +204,11 @@ metafile = true
 [[files]]
 file = "mods/figura-0.1.5+1.21.1-neoforge-mc-tweaked.jar"
 hash = "b65e2ee83ce6d7f62786f82725ddaaeec919a6323fd9b1fd352cb585456dc0c6"
+
+[[files]]
+file = "mods/fog.pw.toml"
+hash = "59b3b969cd28bdebfa4b281aba0b89d43fa39a3605e1cc7a5a86ebe74d4eb19f"
+metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
@@ -195,6 +245,16 @@ hash = "f29da2cd01bd7b06526bc009875267f0b1e9a64320be2ad816f0792d7e54f97a"
 metafile = true
 
 [[files]]
+file = "mods/iris-flw-compat.pw.toml"
+hash = "bcf437595790e75fbabf9944792f1827fb6a687a2a41dc762621c8694b5205d3"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "297eb75ce1aedc28f183a8891fde9c67318953e6c8adf3d7531a17b211f9349d"
 metafile = true
@@ -207,6 +267,11 @@ metafile = true
 [[files]]
 file = "mods/ksyxis.pw.toml"
 hash = "6c4d9be9d042e5a1028a420fa2f4aa435e6406445207a4d600700efbf037c35a"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights-unofficial-neoforge.pw.toml"
+hash = "3003180f2f32aa8aea9bc786e935e0b224f509f0131df625090c12f528d8ddc7"
 metafile = true
 
 [[files]]
@@ -240,6 +305,11 @@ hash = "0b9153f74bbb1f69639e95267f548169cbcbb8d4a3812fa27ef1aa8b248abe56"
 metafile = true
 
 [[files]]
+file = "mods/mru.pw.toml"
+hash = "42805ef7e224873873d190b0363f2a53dae02530553574f29fab92e258bc0470"
+metafile = true
+
+[[files]]
 file = "mods/my-nethers-delight.pw.toml"
 hash = "0cd80499ad61c0617dfee679bb5dcd37870fd2895fd6f2f5fa0ed00b716a84ff"
 metafile = true
@@ -260,6 +330,16 @@ hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
 
 [[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "86c688ed4fbeb2ea114cf51c09e476d0f9c4bc4cf63d5b5b927dfc0f4f486718"
+metafile = true
+
+[[files]]
+file = "mods/particular-reforged.pw.toml"
+hash = "527a5104f6d88a8c2603630d027c9a931a8bc6f61b46b4105082c150c1a812da"
+metafile = true
+
+[[files]]
 file = "mods/pastel-mod.pw.toml"
 hash = "e6c4eb25d8fad02757c61e47b0390c1210c9ea2fc5d199ea81f8e73cbd5ba49f"
 metafile = true
@@ -267,6 +347,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "dee709ea8dbbb9e75de4d53b1b9e1fd0e535abc0809c1f5aaadf783178cccf21"
 metafile = true
 
 [[files]]
@@ -320,6 +405,11 @@ hash = "7207bcd8319f1e4b89806c7f909c87acdd3a5f96e5917d859ff704df8ff9a229"
 metafile = true
 
 [[files]]
+file = "mods/sound.pw.toml"
+hash = "e3aa2715a7032b7a421359dcb6c5d77790f03ad869520b404b23a296a2cb78ae"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
@@ -337,6 +427,11 @@ metafile = true
 [[files]]
 file = "mods/trickster.pw.toml"
 hash = "6a6a033c60c2aab3c52d11d0f8ad55f81e3156f1a3f11ca1e1a84fb9d3081844"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "aa9070a0e763f00f0d0b325e9bb980e53faabe9854bae25f2e542a7b81b7492e"
 metafile = true
 
 [[files]]
@@ -401,4 +496,4 @@ hash = "ea4c53eb465ae4fc6d4d2c5c6aa2a3d8e026e3ba928edd2bd266db7202d2fd2a"
 
 [[files]]
 file = "unsup.toml"
-hash = "c4ed734dac3b8110dd2c930bf4739767f5962bd453c18ae64ce88ae75c4fac18"
+hash = "3f130c1325517aad3f6b69f27dffc5b80ead78ec52bdff62d1b1c8911f326fb7"

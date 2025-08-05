@@ -64,6 +64,12 @@ description = "Shaders!"
 side = "client"
 choices = ["iris_off", "iris_on"]
 
+[flavor_groups.iris_flywheel_compat]
+name = "Iris x Create"
+description = "Make flywheel + shaders less laggy. If your shader is supported Colorwheel is recommend!"
+side = "client"
+choices = ["flywheel_compat_off", "colorwheel_on", "iris_flywheel_compat_on"]
+
 [flavor_groups.sodium]
 name = "Sodium"
 description = "Disable if it breaks things for you but it shouldnt"
@@ -78,7 +84,7 @@ choices = ["sodium_on", "sodium_off"]
 flavors = "fog_on"
 [metafile.aurae]
 flavors = "aurae_on"
-[metafile.pretty-rain]
+[metafile.particle-rain]
 flavors = "particle_rain_on"
 [metafile.particular-reforged]
 flavors = "particular_on"
@@ -96,8 +102,12 @@ flavors = "sound_physics_remastered_on"
 flavors = "presence_footsteps_on"
 [metafile.iris]
 flavors = "iris_on"
+[metafile.colorwheel]
+flavors = "colorwheel_on"
+[metafile.colorwheel-patcher]
+flavors = "colorwheel_on"
 [metafile.iris-flw-compat]
-flavors = "iris_on"
+flavors = "iris_flywheel_compat_on"
 [metafile.sodium]
 flavors = "sodium_on"
 [metafile.sodium-extra]
