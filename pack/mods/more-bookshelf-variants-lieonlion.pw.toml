@@ -1,0 +1,13 @@
+name = "More Bookshelves Variants"
+filename = "MoreBookshelfVariants-1.0.5+1.21-Neo.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/twjW6Ggd/versions/wO3mBAz6/MoreBookshelfVariants-1.0.5%2B1.21-Neo.jar"
+hash-format = "sha512"
+hash = "c034b05937db1b15edc513c0d395908e3c2eba4a0dda6d653078daf6a59a5eed1249be333f6b477481f399c3e6b26c9f284b0a754cc5d365d4b06ca3e7ac97cd"
+
+[update]
+[update.modrinth]
+mod-id = "twjW6Ggd"
+version = "wO3mBAz6"
