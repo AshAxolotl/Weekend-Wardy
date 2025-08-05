@@ -1,0 +1,13 @@
+name = "Dracolotl"
+filename = "dracolotl-1.0.2-neoforge-1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/s8dABaWE/versions/x5lhXZgj/dracolotl-1.0.2-neoforge-1.21.jar"
+hash-format = "sha512"
+hash = "bb05ce47be85417cb0d2e428e7141335046b06af7c83a3eb22833dfedc117e601d773b2cd7edf27371c29c588eac60b344517f56c3cacdbd18d791521105879b"
+
+[update]
+[update.modrinth]
+mod-id = "s8dABaWE"
+version = "x5lhXZgj"

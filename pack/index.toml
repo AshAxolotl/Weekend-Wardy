@@ -251,6 +251,11 @@ hash = "55078861f033521e0b31923e0ed415f44a48600718e806b0aeaac4bd3df6733c"
 metafile = true
 
 [[files]]
+file = "mods/dracolotl.pw.toml"
+hash = "45e2760902d0ceadc53124bdaa9a3eacca9b0579beecaa8cc51f52ab85f427ff"
+metafile = true
+
+[[files]]
 file = "mods/elytra-bounce.pw.toml"
 hash = "2ff038d51a665876878759d170c13d3226e9acb83380f1f1b77f154f9f479ea9"
 metafile = true
