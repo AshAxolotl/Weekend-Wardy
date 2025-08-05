@@ -161,11 +161,6 @@ hash = "8fde54624913d86f1176cd1086fa485f1a872573dac144347c57cab76596b715"
 metafile = true
 
 [[files]]
-file = "mods/charta.pw.toml"
-hash = "aa3f310780896af672c500bec1bca51bb637e2b79bb66a11e43f3d73272a9bf7"
-metafile = true
-
-[[files]]
 file = "mods/cicada.pw.toml"
 hash = "93a630545090420997588464bd281ae7b38a3eff80e203fbd065b548407748a1"
 metafile = true
