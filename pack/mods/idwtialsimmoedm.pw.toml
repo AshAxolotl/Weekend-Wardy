@@ -1,0 +1,13 @@
+name = "Idwtialsimmoedm"
+filename = "idwtialsimmoedm-0.3.2+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ad89WlWh/versions/2TVUrqbG/idwtialsimmoedm-0.3.2%2B1.21.jar"
+hash-format = "sha512"
+hash = "0782c90593478c58ce31fdd514536e2e07efbfd4ff7919e80526bba20f40447260ed91092fd5360d7d0e9bd8634e74a1a475b8d9cd06f9ec4976328bc0dea10d"
+
+[update]
+[update.modrinth]
+mod-id = "ad89WlWh"
+version = "2TVUrqbG"
