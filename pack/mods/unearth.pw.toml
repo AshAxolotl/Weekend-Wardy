@@ -1,0 +1,13 @@
+name = "Unearth"
+filename = "unearth-1.21.1-1.0.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aK10HizP/versions/TwFqXBE6/unearth-1.21.1-1.0.9.jar"
+hash-format = "sha512"
+hash = "6fbde6dd75eea387135a1f575e8bd24f0a877e7de536658a2eed6703368030b8b5d7cb46af57bd2756492be209647d5a0f61c8bd8124d907d3a7ec98beb45075"
+
+[update]
+[update.modrinth]
+mod-id = "aK10HizP"
+version = "TwFqXBE6"

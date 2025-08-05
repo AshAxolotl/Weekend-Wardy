@@ -116,6 +116,11 @@ hash = "5e3421b58c8c905e686ed7b63d2fe086fe3265009347ca01aba99f13cb8edca3"
 metafile = true
 
 [[files]]
+file = "mods/better-archeology.pw.toml"
+hash = "fe25ab63de35303ce07384aac9c87ba25fe9dd5b714aa6d60efc47ab9575778c"
+metafile = true
+
+[[files]]
 file = "mods/better-clouds.pw.toml"
 hash = "0aa8047ae4aeb1a2a5945db39f087718fc0cb02b476c07261bbde08528df5012"
 metafile = true
@@ -609,6 +614,11 @@ hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "27721caca5a03b743bf25888e1d984142948069dace31453f103f94f7f24d2ce"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
@@ -726,6 +736,11 @@ metafile = true
 [[files]]
 file = "mods/trickster.pw.toml"
 hash = "6a6a033c60c2aab3c52d11d0f8ad55f81e3156f1a3f11ca1e1a84fb9d3081844"
+metafile = true
+
+[[files]]
+file = "mods/unearth.pw.toml"
+hash = "195f49c54537c28a9aaeeded2e87acc5afc00479ff460865f790155c73b38b33"
 metafile = true
 
 [[files]]
