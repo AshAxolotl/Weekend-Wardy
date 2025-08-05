@@ -359,6 +359,11 @@ hash = "476cee1d0c5080061c4cc609f692028b118f7084e22dfed8b8f709550465cffc"
 metafile = true
 
 [[files]]
+file = "mods/horseman.pw.toml"
+hash = "65d4bd6e6a1aa8339d206a55b61f8259031fd1b5c48f242baba363e3901b2984"
+metafile = true
+
+[[files]]
 file = "mods/idwtialsimmoedm.pw.toml"
 hash = "f05b7aec4046e3860a4795a74b036c58153b509f5ba1f4a8cacc6ab5a1dff87e"
 metafile = true
