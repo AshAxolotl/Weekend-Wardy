@@ -589,6 +589,11 @@ hash = "e6c4eb25d8fad02757c61e47b0390c1210c9ea2fc5d199ea81f8e73cbd5ba49f"
 metafile = true
 
 [[files]]
+file = "mods/platform.pw.toml"
+hash = "714b35496dbf7cf89814db58ba625b3fc5d0cfb4c180f7eeda8d77beaac20b0c"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
 metafile = true
@@ -746,6 +751,11 @@ metafile = true
 [[files]]
 file = "mods/unearth.pw.toml"
 hash = "195f49c54537c28a9aaeeded2e87acc5afc00479ff460865f790155c73b38b33"
+metafile = true
+
+[[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "2c4995bdee3b963d237076b10e2097b5ffac8f5c7637525f9fccc8a8220bcf6c"
 metafile = true
 
 [[files]]
