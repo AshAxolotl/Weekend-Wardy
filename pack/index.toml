@@ -32,6 +32,11 @@ hash = "6a87c6e5ead4431ad3ac84d7a81a7f13b88c2d9d598a830a04295096e6efd9f5"
 metafile = true
 
 [[files]]
+file = "mods/adaptiveview.pw.toml"
+hash = "cb0c7e05293aadba1ea84ad8e04a68241ebd8a87bc78467ced28e043cda567b0"
+metafile = true
+
+[[files]]
 file = "mods/aileron.pw.toml"
 hash = "3c801cb8c7bbd01b72e96721d351087a3b7a219dae43e8c5b352e567aac63567"
 metafile = true
@@ -64,6 +69,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "293ec22e4e8342a9bd0f338505a14e3794b44cd7ca1e5278a86f41f99c69a3af"
+metafile = true
+
+[[files]]
+file = "mods/c2me-neoforge.pw.toml"
+hash = "cf0633c12a953d5e36e7c4af087753ef0f5970073a5496a2f11da195f8f60f1d"
 metafile = true
 
 [[files]]
