@@ -9,6 +9,14 @@ file = "config/comforts-server.toml"
 hash = "1b14431f3d46cdefd0c03077179b78f4b8b9e8cec6f436a924990fa1ef10c211"
 
 [[files]]
+file = "config/create-server.toml"
+hash = "6598efa2380b650b50c681801be623773bc0b0c9efdf377a206a8788aceabafd"
+
+[[files]]
+file = "config/default_files/config/lootr-client.toml"
+hash = "f48de009ea6d133a91166894c674f51acac3793de1017cd27f0cd1efeb1bc345"
+
+[[files]]
 file = "config/default_files/config/whereisit.json5"
 hash = "290a81449e30dbe3b066400f199a909ae175eff74c52cc35ad817168c65b9dda"
 
@@ -17,8 +25,16 @@ file = "config/headpats.json"
 hash = "377cf0a4c8f384ee6d5fa593ab0c52e7a4ef30baf5c0f770d9b630869d38b6b9"
 
 [[files]]
+file = "config/malum-common.toml"
+hash = "baf4fff6aac2588e3532192353cb48076a15200f45a121686313f4d3b7e313f3"
+
+[[files]]
 file = "config/openloader/options.json"
 hash = "b5ba0c42a2d5aff3746372fc027261b9d1f1e05104cc97bd3a74893f1106fcf9"
+
+[[files]]
+file = "config/ribbits-neoforge-1_21_1.toml"
+hash = "f5c48a20d96e8cc0258b849546b460e7c503e443c422d4e417775258cb9f1da1"
 
 [[files]]
 file = "config/watut-server.toml"
@@ -420,6 +436,11 @@ metafile = true
 [[files]]
 file = "mods/lodestonelib.pw.toml"
 hash = "3dce7f2be23f7a342547aa023d8b5bf0155849548f854c8692b14c160fbf7426"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "28cd260c71c34d01f59ea210af1031e94d98b4d6bd72d5a153955ce754c9a76f"
 metafile = true
 
 [[files]]
