@@ -494,6 +494,11 @@ hash = "468aa5d77980b1b47f5dea83623b0ef726eeee27425f30e4ce927ca0dcc569e4"
 metafile = true
 
 [[files]]
+file = "mods/magisterium.pw.toml"
+hash = "6e179554272c81788b8674f55f87b0e77dd11c191d6ff66fedc8c7680ec4fbea"
+metafile = true
+
+[[files]]
 file = "mods/malum.pw.toml"
 hash = "1858795b29ea460ed655c1981cd738e1faa94176584e4bd6b58e471ae627b6db"
 metafile = true
@@ -761,6 +766,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
+metafile = true
+
+[[files]]
+file = "mods/zipline.pw.toml"
+hash = "c5fc88bdd6b5aa32ec8ffe7f4cc8f644589ee811e01ae0043fdec76ec2aafbe0"
 metafile = true
 
 [[files]]

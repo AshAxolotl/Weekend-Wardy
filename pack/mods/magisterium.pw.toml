@@ -1,0 +1,13 @@
+name = "Magisterium"
+filename = "magisterium-0.0.5.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Gi97fZyd/versions/2fUZR1zn/magisterium-0.0.5.1.jar"
+hash-format = "sha512"
+hash = "d06ae70df80c75fb0ec4df4e7b41e2a427ff71b9cc6e9c470fbe6e8b6fbc0f64db97ebf42d6446240ca3628cc7ec189254260ccdf4b9db85f6247ea35e31b476"
+
+[update]
+[update.modrinth]
+mod-id = "Gi97fZyd"
+version = "2fUZR1zn"
