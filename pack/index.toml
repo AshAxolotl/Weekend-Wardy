@@ -699,6 +699,11 @@ hash = "665277708048ff8002093914c512895375660f16b6694c535626f4da0ab2e9fc"
 metafile = true
 
 [[files]]
+file = "mods/transmog.pw.toml"
+hash = "882158c17af560d7798e85bee9b34c4665e5b2497d677574b48ef8edecd82ade"
+metafile = true
+
+[[files]]
 file = "mods/trickster.pw.toml"
 hash = "6a6a033c60c2aab3c52d11d0f8ad55f81e3156f1a3f11ca1e1a84fb9d3081844"
 metafile = true
