@@ -1,0 +1,14 @@
+{
+  "version": 4,
+  "subtitlesEnabled": false,
+  "sounds": [
+    {
+      "soundId": "spring_to_life:block.leaf_litter.break",
+      "volume": 0.1
+    },
+    {
+      "soundId": "spring_to_life:block.leaf_litter.place",
+      "volume": 0.1
+    }
+  ]
+}

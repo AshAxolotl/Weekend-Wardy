@@ -13,12 +13,44 @@ file = "config/create-server.toml"
 hash = "6598efa2380b650b50c681801be623773bc0b0c9efdf377a206a8788aceabafd"
 
 [[files]]
+file = "config/default_files/config/emi.css"
+hash = "ba325ecbe291eb7543e9d24770d015e5a3918e6a407e2a14417319fa064dfa73"
+
+[[files]]
+file = "config/default_files/config/emotecraft.json"
+hash = "e2f6d882eb6d60df68f062cf65c06732e91fffd45725bfd12e47f6f57a306216"
+
+[[files]]
+file = "config/default_files/config/emotecraft_emote_map.json"
+hash = "0ce5a209870e0673c14f68d4581de2cefc67a3c37aa7071c943b711a69835775"
+
+[[files]]
+file = "config/default_files/config/fog/config.json"
+hash = "40b5deea03174c6e26e2c58fc5b7d57bb65a261e3e0b5c89780536fec28c821c"
+
+[[files]]
 file = "config/default_files/config/lootr-client.toml"
 hash = "f48de009ea6d133a91166894c674f51acac3793de1017cd27f0cd1efeb1bc345"
 
 [[files]]
+file = "config/default_files/config/shulkerboxtooltip.json5"
+hash = "63039a15cbfe47346ed09ff8784de71fad4c8eeae0fba141bd434642b160a15c"
+
+[[files]]
+file = "config/default_files/config/soundcontroller.json"
+hash = "ea59a9797ae1f22ce84ff41ad45cac10d43f70e8529abb9c8ab02a5551e177f9"
+
+[[files]]
 file = "config/default_files/config/whereisit.json5"
 hash = "290a81449e30dbe3b066400f199a909ae175eff74c52cc35ad817168c65b9dda"
+
+[[files]]
+file = "config/default_files/emi.json"
+hash = "276e3713bfd955350a6564c84ab366a0dc62f2aa785e0f870aefaa9f11e40117"
+
+[[files]]
+file = "config/default_files/options.txt"
+hash = "46fd227e73f26780fec2ca65a26f13f8044ac42815464fbba65e3c081049cc3d"
 
 [[files]]
 file = "config/headpats.json"

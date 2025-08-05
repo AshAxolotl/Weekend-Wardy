@@ -1,0 +1,29 @@
+{
+  "favorites": [
+    {
+      "stack": "item:minecraft:spyglass"
+    },
+    {
+      "stack": "item:minecraft:saddle"
+    },
+    {
+      "stack": "item:minecraft:bundle"
+    },
+    {
+      "stack": "item:akashictome:tome"
+    }
+  ],
+  "lookup_history": [
+  ],
+  "craft_history": [
+  ],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {
+      "#item:tclayer:all_trinket_items": "item:raccoons-rabies:raccoon"
+    },
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}
