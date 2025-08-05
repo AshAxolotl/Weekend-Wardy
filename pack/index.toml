@@ -280,6 +280,16 @@ hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons-forge.pw.toml"
+hash = "8cd8400cb4e2c5ba60c8a359a7b6ff501078d2056eab0aba7f6b0ac77b7a0694"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "407c4cc8cb9920a9b23674d81952c512302525755d8fba12e94acecaaae949e7"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "297eb75ce1aedc28f183a8891fde9c67318953e6c8adf3d7531a17b211f9349d"
 metafile = true
@@ -526,4 +536,4 @@ hash = "ea4c53eb465ae4fc6d4d2c5c6aa2a3d8e026e3ba928edd2bd266db7202d2fd2a"
 
 [[files]]
 file = "unsup.toml"
-hash = "3f130c1325517aad3f6b69f27dffc5b80ead78ec52bdff62d1b1c8911f326fb7"
+hash = "8fa46de6696c5839dc849af94c969c27efa35833e5ce64a00fb8573728579ad8"

@@ -76,7 +76,11 @@ description = "Disable if it breaks things for you but it shouldnt"
 side = "client"
 choices = ["sodium_on", "sodium_off"]
 
-
+[flavor_groups.sodium]
+name = "Jade (shows what you look at)"
+description = "Mod that shows you what you are looking at"
+side = "client"
+choices = ["jade_on", "jade_off"]
 
 
 
@@ -114,3 +118,7 @@ flavors = "sodium_on"
 flavors = "sodium_on"
 [metafile.reeses-sodium-options]
 flavors = "sodium_on"
+[metafile.jade]
+flavors = "jade_on"
+[metafile.jade-addons-forge]
+flavors = "jade_on"
