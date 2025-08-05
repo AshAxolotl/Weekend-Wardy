@@ -66,6 +66,11 @@ hash = "3c801cb8c7bbd01b72e96721d351087a3b7a219dae43e8c5b352e567aac63567"
 metafile = true
 
 [[files]]
+file = "mods/akashic-tome.pw.toml"
+hash = "08f8c21e553fe134333ead574cac41030b73f85ad3a3f7701ec21312dc33b400"
+metafile = true
+
+[[files]]
 file = "mods/almanac.pw.toml"
 hash = "cb96cee37aeb38e012b1b85b10f0aa888b3875c84103e6981b13df389cbd8074"
 metafile = true
