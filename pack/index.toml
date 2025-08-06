@@ -380,6 +380,16 @@ hash = "c4027b8071cc6dfc7f0d49e702a5e25b1e36841e50acba1e699f308be156b8f2"
 metafile = true
 
 [[files]]
+file = "mods/fdbosses.pw.toml"
+hash = "423ea4e5e01f8108a8086f223f4fe3fd0946f0452de9de4f14c66e8e0c9871e7"
+metafile = true
+
+[[files]]
+file = "mods/fdlib.pw.toml"
+hash = "965f7c89a98d407737a0fd2c09ca8a1d56e39cef090b5fa48dd12d298be9afd1"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
 metafile = true
@@ -498,6 +508,11 @@ hash = "6c4d9be9d042e5a1028a420fa2f4aa435e6406445207a4d600700efbf037c35a"
 metafile = true
 
 [[files]]
+file = "mods/l_enders-cataclysm.pw.toml"
+hash = "b07bbd76636d50d623dc1c41d27ca42f5f7ba196e3e2a9c846add0ee10c26531"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights-unofficial-neoforge.pw.toml"
 hash = "3003180f2f32aa8aea9bc786e935e0b224f509f0131df625090c12f528d8ddc7"
 metafile = true
@@ -505,6 +520,11 @@ metafile = true
 [[files]]
 file = "mods/lavender.pw.toml"
 hash = "7dc27df21d8bd6b4e5387592063817c7de24a7e3ce8c90bb6bf3a9e22199d5e5"
+metafile = true
+
+[[files]]
+file = "mods/lionfish-api.pw.toml"
+hash = "b821efc793dd7308be6788095bea26a2a0479f9a3ddc3b0d6a6a2af351153fc0"
 metafile = true
 
 [[files]]
