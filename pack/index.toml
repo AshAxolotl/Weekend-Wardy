@@ -513,6 +513,11 @@ hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "c18ca4f4035e67182ea949ee2d6cd2c31409306ffc404c0c14bc5c1c212747a8"
+metafile = true
+
+[[files]]
 file = "mods/lmd.pw.toml"
 hash = "ee7786026fb270b31b018efd166afff9f91de67369a50832ca33644d2bc32722"
 metafile = true
@@ -680,6 +685,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
+metafile = true
+
+[[files]]
+file = "mods/reintegrated-arts-and-crafts.pw.toml"
+hash = "582b8939468e1a416cf9ec02eb24e1975848ff58359eb9b3df8babd167a9cfec"
 metafile = true
 
 [[files]]
