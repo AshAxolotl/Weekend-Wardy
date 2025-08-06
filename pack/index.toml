@@ -210,6 +210,11 @@ hash = "8fde54624913d86f1176cd1086fa485f1a872573dac144347c57cab76596b715"
 metafile = true
 
 [[files]]
+file = "mods/chefs-delight.pw.toml"
+hash = "335d98debb12256815368fb77a3bec68b017c1bbf5969763087cd96f43c9a6ae"
+metafile = true
+
+[[files]]
 file = "mods/cicada.pw.toml"
 hash = "93a630545090420997588464bd281ae7b38a3eff80e203fbd065b548407748a1"
 metafile = true
@@ -275,6 +280,16 @@ hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
 metafile = true
 
 [[files]]
+file = "mods/crabbers-delight.pw.toml"
+hash = "cd66e48a19b8447ef66c6148bbcd5ecb363f4a7b472dba385b4b790feae0ad0f"
+metafile = true
+
+[[files]]
+file = "mods/crate-delight.pw.toml"
+hash = "746c0206f18aee0b15f29be3abcf68c304dd75fb810eeb641b4ae2cf62b2d8cb"
+metafile = true
+
+[[files]]
 file = "mods/create-design-n-decor.pw.toml"
 hash = "bc4ef8bd7d32506703dcc175a62a12766addc393434ddbe8d17f01b071701943"
 metafile = true
@@ -307,6 +322,11 @@ metafile = true
 [[files]]
 file = "mods/default-files.pw.toml"
 hash = "55078861f033521e0b31923e0ed415f44a48600718e806b0aeaac4bd3df6733c"
+metafile = true
+
+[[files]]
+file = "mods/display-delight.pw.toml"
+hash = "6ccd106e99f94a45aff55fe8ee356d5cbbd65c6bfbacf5eeaaedfcd2c518e0f4"
 metafile = true
 
 [[files]]
@@ -367,6 +387,11 @@ metafile = true
 [[files]]
 file = "mods/enders-delight.pw.toml"
 hash = "a693f3ca25b4b4ece785887d5a095abb1ab959804fbf6c89f119100f1de1df4b"
+metafile = true
+
+[[files]]
+file = "mods/expanded-delight.pw.toml"
+hash = "efce3d2641cbf0963e2b43d37f68839cca9727bcd9455998ee82a5a18d679058"
 metafile = true
 
 [[files]]
@@ -590,6 +615,11 @@ metafile = true
 [[files]]
 file = "mods/mcqoy.pw.toml"
 hash = "7dc5c754f76596159d4bce1d188cd9014181370b78270d01b8fdd3d892faff1a"
+metafile = true
+
+[[files]]
+file = "mods/miners-delight.pw.toml"
+hash = "f0bab41cfa3e00481615ebce810f12a8de93e334fa1b21794c86553cb46f1bc6"
 metafile = true
 
 [[files]]
@@ -830,6 +860,11 @@ metafile = true
 [[files]]
 file = "mods/tmrv.pw.toml"
 hash = "665277708048ff8002093914c512895375660f16b6694c535626f4da0ab2e9fc"
+metafile = true
+
+[[files]]
+file = "mods/trailtales-delight.pw.toml"
+hash = "bb39209a9ee057bf7606396c9c01f27ad980218b95d01d44089cadab1063a964"
 metafile = true
 
 [[files]]
