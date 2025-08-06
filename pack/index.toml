@@ -13,6 +13,10 @@ file = "config/create-server.toml"
 hash = "6598efa2380b650b50c681801be623773bc0b0c9efdf377a206a8788aceabafd"
 
 [[files]]
+file = "config/default_files/config/antique-atlas.toml"
+hash = "7cf44fa73f165171710e665b45f7d5c1b19dbc3b509042eb62568e6799d7baae"
+
+[[files]]
 file = "config/default_files/config/emi.css"
 hash = "ba325ecbe291eb7543e9d24770d015e5a3918e6a407e2a14417319fa064dfa73"
 
@@ -39,6 +43,10 @@ hash = "63039a15cbfe47346ed09ff8784de71fad4c8eeae0fba141bd434642b160a15c"
 [[files]]
 file = "config/default_files/config/soundcontroller.json"
 hash = "ea59a9797ae1f22ce84ff41ad45cac10d43f70e8529abb9c8ab02a5551e177f9"
+
+[[files]]
+file = "config/default_files/config/surveyor.toml"
+hash = "b491d0538e420357e9330f0f9d80e824da92adeadc72d948c4532cca3a5c5327"
 
 [[files]]
 file = "config/default_files/config/whereisit.json5"
@@ -110,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/amendments.pw.toml"
 hash = "1fa5075c1ebd310416d705674d6ae90975fa8971ce6cf04478f548a18c58d0da"
+metafile = true
+
+[[files]]
+file = "mods/antique-atlas-4.pw.toml"
+hash = "03ff831cb8084db62a0c1ce791091f4b119956b9f3bacfa140ba4689cfd978a8"
 metafile = true
 
 [[files]]
@@ -536,6 +549,11 @@ hash = "1858795b29ea460ed655c1981cd738e1faa94176584e4bd6b58e471ae627b6db"
 metafile = true
 
 [[files]]
+file = "mods/mcqoy.pw.toml"
+hash = "7dc5c754f76596159d4bce1d188cd9014181370b78270d01b8fdd3d892faff1a"
+metafile = true
+
+[[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "0b9153f74bbb1f69639e95267f548169cbcbb8d4a3812fa27ef1aa8b248abe56"
 metafile = true
@@ -758,6 +776,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "0854c75fe54f9e023afb6b52582fde7f272e5db01f2c6d77872cd5581773f8a6"
+metafile = true
+
+[[files]]
+file = "mods/surveyor.pw.toml"
+hash = "a9c96b9fef877ea4501b772c104da6e52e01a09590ea434ff43824dbd23d9691"
 metafile = true
 
 [[files]]
