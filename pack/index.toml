@@ -13,6 +13,10 @@ file = "config/create-server.toml"
 hash = "6598efa2380b650b50c681801be623773bc0b0c9efdf377a206a8788aceabafd"
 
 [[files]]
+file = "config/creeperoverhaul.jsonc"
+hash = "4694e225a9a328245f0842e0f4a220c725da6ec6e2764a53744c97f7a7584eb7"
+
+[[files]]
 file = "config/default_files/config/antique-atlas.toml"
 hash = "7cf44fa73f165171710e665b45f7d5c1b19dbc3b509042eb62568e6799d7baae"
 
@@ -286,6 +290,11 @@ hash = "7f25446123f66f57e7cc8e148155a3da39d85b31963c663b5b9be77fc1bacbe6"
 metafile = true
 
 [[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "cd4c4ec6ef26d2b61e0cb0bdd398e8d528b88ebf739fc0898bc8cb2f7a88debb"
+metafile = true
+
+[[files]]
 file = "mods/critters-and-companions.pw.toml"
 hash = "7cbacd85c3127239f970aabd4e64b9b4b556ee62ebe714b9805ddf57932d5f60"
 metafile = true
@@ -348,6 +357,11 @@ metafile = true
 [[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "44a4412c7b0ff261645ea9da8c00b1e46cfdb84407a5c991eb60b226b1cb3fa9"
+metafile = true
+
+[[files]]
+file = "mods/enderman-overhaul.pw.toml"
+hash = "8efa1757432143004e1958e70f01139ed350e85c9d5842346d30ec32231636de"
 metafile = true
 
 [[files]]
