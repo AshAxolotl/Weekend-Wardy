@@ -444,6 +444,11 @@ hash = "5b34f5aff5000de94ed9e132315bad7288a72a9cbb8f902df2799a579433b7af"
 metafile = true
 
 [[files]]
+file = "mods/friends-and-foes-forge.pw.toml"
+hash = "1f1c592232159b04b7009d2413eebb2b18b5a92f7d0168cd4dde2f446bf45653"
+metafile = true
+
+[[files]]
 file = "mods/frogserverpackmod-1.0.0.jar"
 hash = "a324a658fc571778094c256da6436bb5a99b31928541ecc4091245c904b3db5e"
 
@@ -455,6 +460,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "9e80e6f2a680b052f2a66ade20a5abbd98a0abbebde6f30472d6ae6b993e9464"
+metafile = true
+
+[[files]]
+file = "mods/golem-overhaul.pw.toml"
+hash = "a1f168b298c802f34b34d3a6653ca33fbcd3eeef59bd2c13537633f5c8b65560"
 metafile = true
 
 [[files]]
