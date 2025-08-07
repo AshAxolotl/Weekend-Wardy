@@ -62,7 +62,7 @@ hash = "276e3713bfd955350a6564c84ab366a0dc62f2aa785e0f870aefaa9f11e40117"
 
 [[files]]
 file = "config/default_files/options.txt"
-hash = "46fd227e73f26780fec2ca65a26f13f8044ac42815464fbba65e3c081049cc3d"
+hash = "9dc0a869e6fe7ea286ae1d8d02cc3aa2962ca53bebe051ab943ddf221da9a0d8"
 
 [[files]]
 file = "config/headpats.json"
