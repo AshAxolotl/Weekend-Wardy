@@ -130,6 +130,11 @@ hash = "e63323ef22e8672030d1b6c4d10572b36c9684e76093d953f1ca4fa51d30c700"
 metafile = true
 
 [[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "401e6f8ea3922a0fc69dd8fd126280133fa4e94e7f6558ad916bdef0d6e68bdd"
+metafile = true
+
+[[files]]
 file = "mods/antique-atlas-4.pw.toml"
 hash = "03ff831cb8084db62a0c1ce791091f4b119956b9f3bacfa140ba4689cfd978a8"
 metafile = true
