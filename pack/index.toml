@@ -628,6 +628,11 @@ hash = "7dc27df21d8bd6b4e5387592063817c7de24a7e3ce8c90bb6bf3a9e22199d5e5"
 metafile = true
 
 [[files]]
+file = "mods/leaf-me-alone.pw.toml"
+hash = "443ec5c37984c9f0076b2059543f2113a43d1f029aaa9a5e20c59dfa804b965d"
+metafile = true
+
+[[files]]
 file = "mods/lionfish-api.pw.toml"
 hash = "b821efc793dd7308be6788095bea26a2a0479f9a3ddc3b0d6a6a2af351153fc0"
 metafile = true
