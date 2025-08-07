@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "0aa8047ae4aeb1a2a5945db39f087718fc0cb02b476c07261bbde08528df5012"
+hash = "ae7a6e0d2a6deb6e6f27f322c12f8102034ff55c02a31f2a2631fdfab7113d2b"
 metafile = true
 
 [[files]]
@@ -514,6 +514,11 @@ hash = "5b34f5aff5000de94ed9e132315bad7288a72a9cbb8f902df2799a579433b7af"
 metafile = true
 
 [[files]]
+file = "mods/friends-and-foes-beekeeper-hut-forge.pw.toml"
+hash = "75c642b17b484c0d7c4ec9863295c24364ef69785937d15a80de568efafd585a"
+metafile = true
+
+[[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
 hash = "1f1c592232159b04b7009d2413eebb2b18b5a92f7d0168cd4dde2f446bf45653"
 metafile = true
@@ -589,7 +594,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "407c4cc8cb9920a9b23674d81952c512302525755d8fba12e94acecaaae949e7"
+hash = "e7d3f7e0472ba9a3ef946fa5defcb157e4126636e603c2306d4ad6065936d5e2"
 metafile = true
 
 [[files]]
@@ -609,7 +614,7 @@ metafile = true
 
 [[files]]
 file = "mods/ksyxis.pw.toml"
-hash = "6c4d9be9d042e5a1028a420fa2f4aa435e6406445207a4d600700efbf037c35a"
+hash = "8c6b70c5687944d95858a7da9311a268725bc613e1d0f10dae4687faf9fb7ad5"
 metafile = true
 
 [[files]]
@@ -794,7 +799,7 @@ metafile = true
 
 [[files]]
 file = "mods/pastel-mod.pw.toml"
-hash = "e6c4eb25d8fad02757c61e47b0390c1210c9ea2fc5d199ea81f8e73cbd5ba49f"
+hash = "53f6bd232f7f504d99d060e111a28513c401a4372d1a946d10f7ab54c5d6a618"
 metafile = true
 
 [[files]]
@@ -889,7 +894,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "6c0d6cd146d9375b4d99e24e3914fdf202f5285a49799f4d78aa0f4a189368e4"
+hash = "4a4627c97d396e5bda94578b291f6ae5a7aa88f8b24d687ddfaacafd399d583e"
 metafile = true
 
 [[files]]
@@ -939,7 +944,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "0854c75fe54f9e023afb6b52582fde7f272e5db01f2c6d77872cd5581773f8a6"
+hash = "287cc4856941e606fcaada93ca7cc1f0732bbc22e1d4db4e87254cb110dd6ca9"
 metafile = true
 
 [[files]]
@@ -954,7 +959,7 @@ metafile = true
 
 [[files]]
 file = "mods/tmrv.pw.toml"
-hash = "665277708048ff8002093914c512895375660f16b6694c535626f4da0ab2e9fc"
+hash = "cf627ec0600bbd92d94d80971f82391d4f671c4b3b2014233e53aa7d645a5d07"
 metafile = true
 
 [[files]]
