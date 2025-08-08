@@ -1,0 +1,13 @@
+name = "EMI++"
+filename = "emixx-1.2.0+neoforge-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AWMWYMwC/versions/QKl7D0nT/emixx-1.2.0%2Bneoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "67c42f808082498f7c002ac4bde680973dbc8ef2387e0db1531ff1823953418c18dcc1b44ad7b9a01317720b3c93d1b87cae70ab3e2dfefb466ebe66b77f24bc"
+
+[update]
+[update.modrinth]
+mod-id = "AWMWYMwC"
+version = "QKl7D0nT"

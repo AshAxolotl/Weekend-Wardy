@@ -435,6 +435,11 @@ hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
 metafile = true
 
 [[files]]
+file = "mods/emixx.pw.toml"
+hash = "97c2eed82877ec4496f226192a473e285ff8d9f95d641613bccc6bd9cf21cabc"
+metafile = true
+
+[[files]]
 file = "mods/emote-tweaks.pw.toml"
 hash = "208d4a666d8f1b51f95e6467b6610afbec8c10608c5bc3e60ae3a87dbcb502cf"
 metafile = true
@@ -1073,7 +1078,7 @@ hash = "59d9e07df28cd685fd44c06c78fba93261f1ea83f34f0491480f23a35286bc4b"
 
 [[files]]
 file = "resources/pack_resources/data/malum/tags/item/soulwoven_pouch_autocollect.json"
-hash = "adca44b7b03aeef0610f1aaa360f2489c69b8c3c4f61a15bb9919ae23c06c946"
+hash = "f2e9c174d68c14a9b5cea8688e58922008bfddcaab483d96e7fe9b58af62c965"
 
 [[files]]
 file = "resources/pack_resources/pack.mcmeta"
