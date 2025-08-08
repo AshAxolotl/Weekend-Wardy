@@ -718,6 +718,11 @@ hash = "f0bab41cfa3e00481615ebce810f12a8de93e334fa1b21794c86553cb46f1bc6"
 metafile = true
 
 [[files]]
+file = "mods/minopp.pw.toml"
+hash = "bc1c66ddb0c3ea78d4ecceb79d8ab0d3180134527214b82484ba8c3830457f39"
+metafile = true
+
+[[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "0b9153f74bbb1f69639e95267f548169cbcbb8d4a3812fa27ef1aa8b248abe56"
 metafile = true
@@ -860,6 +865,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
+file = "mods/shattered-stopwatch.pw.toml"
+hash = "33ca75fe81ded60a2459af53f89dca2079fcda62ffe49b9f2138a84c19c99505"
 metafile = true
 
 [[files]]

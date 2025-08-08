@@ -1,0 +1,13 @@
+name = "Mino++"
+filename = "minopp-1.3.0+1.21.1+neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4QitwNm0/versions/R3IfNGcg/minopp-1.3.0%2B1.21.1%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "1e431eb2dda1ed4d1c7c1188d0d889347a786e8281844eb8aeb0d435f0958b9386808a9a2a5805a7623bb7896bc1661ccced144b8b0f60d1a77930212160d01c"
+
+[update]
+[update.modrinth]
+mod-id = "4QitwNm0"
+version = "R3IfNGcg"

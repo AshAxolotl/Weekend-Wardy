@@ -1,0 +1,13 @@
+name = "Shattered Stopwatch"
+filename = "shattered-stopwatch-0.3.1+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/So5Pd4qV/versions/rLanQsOX/shattered-stopwatch-0.3.1%2B1.21.jar"
+hash-format = "sha512"
+hash = "d25a77bbb3ca63766812707af3d9adfa4ba1c8169aca577788fbe6f31fa479b2f09e8a351df392890677c999164544fbdb0c9d8a550d23e5bb7eb04cbd53dd2d"
+
+[update]
+[update.modrinth]
+mod-id = "So5Pd4qV"
+version = "rLanQsOX"
