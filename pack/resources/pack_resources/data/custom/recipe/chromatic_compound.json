@@ -1,0 +1,13 @@
+{
+  "type": "pastel:liquid_crystal_converting",
+  "secret": true,
+  "ingredient": [
+    {
+    	"item": "create:andesite_alloy"
+    }
+  ],
+  "result": {
+    "id": "create:chromatic_compound",
+    "count": 1
+  }
+}

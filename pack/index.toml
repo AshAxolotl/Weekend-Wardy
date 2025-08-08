@@ -1036,6 +1036,22 @@ file = "resources/pack_resources/data/accessories/tags/item/face.json"
 hash = "25a01c627f09c16e5316ba5407136db1931de720d75d3a6de5fc66c5efd6e3a0"
 
 [[files]]
+file = "resources/pack_resources/data/create/recipe/refined_radiance_casing_log.json"
+hash = "0cc943f35ec61823f38f20c88683999ba2541c41ccd9ad2aed209ee0f643611f"
+
+[[files]]
+file = "resources/pack_resources/data/create/recipe/refined_radiance_casing_wood.json"
+hash = "73e62cf042cd49fc0b299a722b4f93fb078de19fbb973b389cbb3739baf530d5"
+
+[[files]]
+file = "resources/pack_resources/data/create/recipe/shadow_steel_casing_log.json"
+hash = "8fdca1307666d24f28741e4fbfeee4ce43d7632d09e6453e9efe7516a5b2337d"
+
+[[files]]
+file = "resources/pack_resources/data/create/recipe/shadow_steel_casing_wood.json"
+hash = "b107f2080d8e4702ebfcb996a03bc89811894e5377c909c4a773197269115daa"
+
+[[files]]
 file = "resources/pack_resources/data/curios/tags/item/head.json"
 hash = "ba885c0662c5d9310e9d0841e1b843147aefb57369013e66af1cc98e312a734e"
 
@@ -1050,6 +1066,14 @@ hash = "f78cc729bb3affb55b1d7ed49ed3e7eeb4a7f561bac076d561aedf8f8c00acd9"
 [[files]]
 file = "resources/pack_resources/data/custom/accessories/slot/circlet.json"
 hash = "6801a7a5dcf7645c6f0a4da7871a264102841b3d5329dda98428211c6277cca6"
+
+[[files]]
+file = "resources/pack_resources/data/custom/recipe/chromatic_compound.json"
+hash = "59d9e07df28cd685fd44c06c78fba93261f1ea83f34f0491480f23a35286bc4b"
+
+[[files]]
+file = "resources/pack_resources/data/malum/tags/item/soulwoven_pouch_autocollect.json"
+hash = "adca44b7b03aeef0610f1aaa360f2489c69b8c3c4f61a15bb9919ae23c06c946"
 
 [[files]]
 file = "resources/pack_resources/pack.mcmeta"
