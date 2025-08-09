@@ -19,7 +19,7 @@ services:
       ALLOW_FLIGHT: true
       SPAWN_PROTECTION: 0
       MOTD: "0 Days since last crash"
-      SEED: 69
+      SEED: "-8090874279823694901"
       DIFFICULTY: hard
       OPS: |
         AshAxolotl
