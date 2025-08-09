@@ -1,0 +1,13 @@
+name = "Illagers Wear Armor"
+filename = "illagersweararmor-1.21-2.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xXNP32XJ/versions/PVktbRbc/illagersweararmor-1.21-2.3.1.jar"
+hash-format = "sha512"
+hash = "2dc149d3c003ff3db86a701525a0a157e8284705fbff6497785e461108160ad1d9506299f23ba55ac6c89d60d073a36f6d203d5a282c34d3f3b983b12b7e3657"
+
+[update]
+[update.modrinth]
+mod-id = "xXNP32XJ"
+version = "PVktbRbc"

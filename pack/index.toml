@@ -568,6 +568,11 @@ hash = "f05b7aec4046e3860a4795a74b036c58153b509f5ba1f4a8cacc6ab5a1dff87e"
 metafile = true
 
 [[files]]
+file = "mods/illagers-wear-armor.pw.toml"
+hash = "7fdc80c6250ba6feee62da887f7877f983a9342cc02591712c7b34a9ba68ccd3"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "a55fe659bff4772919b0e3f7a64d79df053556cb16cf8e5a186e20d6b3945dc1"
 metafile = true
