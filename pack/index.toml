@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/audioplayer-server.properties"
+hash = "6a75c15652e1eed2ce656fbe6d764967fabd44de0bd7d97847135e36c52993da"
+
+[[files]]
 file = "config/carryon-common.toml"
 hash = "42ac35708c9f41c68a9976f9e463780a702515eec61e24911d618a0804b386f8"
 
@@ -79,6 +83,10 @@ hash = "b5ba0c42a2d5aff3746372fc027261b9d1f1e05104cc97bd3a74893f1106fcf9"
 [[files]]
 file = "config/ribbits-neoforge-1_21_1.toml"
 hash = "f5c48a20d96e8cc0258b849546b460e7c503e443c422d4e417775258cb9f1da1"
+
+[[files]]
+file = "config/styledplayerlist/styles/default.json"
+hash = "e9c801138bdb14e0688c22f5aca5eb671d72a017b98ae28bbcc38ae2a8bea76f"
 
 [[files]]
 file = "config/watut-server.toml"
@@ -315,6 +323,16 @@ hash = "fe314943675dbe95eca9c16139b049b5e6f94f1e9ac1c78c04a16024bba34f89"
 metafile = true
 
 [[files]]
+file = "mods/create-mobile-packages.pw.toml"
+hash = "2142b2087a06d5cf1b56ca22b7c924ab7724dffa089c80352a070c4e5df8def2"
+metafile = true
+
+[[files]]
+file = "mods/create-more-package-couriers.pw.toml"
+hash = "c24c293a9ea338928977a4502f244facb702d2cb30e2035dab6b9507e758767d"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "7f25446123f66f57e7cc8e148155a3da39d85b31963c663b5b9be77fc1bacbe6"
 metafile = true
@@ -332,6 +350,11 @@ metafile = true
 [[files]]
 file = "mods/custom-fov-illusive.pw.toml"
 hash = "0ff7eab4de21d8e8697c0c53c82e8423fe9d0278df9c407a6eb61198ad5f6803"
+metafile = true
+
+[[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "a832de493f31251061455e1a473471d115ff875400ddeae78e35ae8c7868c3c1"
 metafile = true
 
 [[files]]
@@ -412,6 +435,11 @@ metafile = true
 [[files]]
 file = "mods/emi-enchanting.pw.toml"
 hash = "ff029ee6fc50f2696e96cdbcc696f42e75b483c9d7b83f2b1447dcf5c865e664"
+metafile = true
+
+[[files]]
+file = "mods/emi-for-create-stock.pw.toml"
+hash = "f21db79fbece8a79b44ce930abc18c51daba189f8a5dbed210ea982148b9ecd1"
 metafile = true
 
 [[files]]
@@ -529,10 +557,6 @@ hash = "1f1c592232159b04b7009d2413eebb2b18b5a92f7d0168cd4dde2f446bf45653"
 metafile = true
 
 [[files]]
-file = "mods/frogserverpackmod-1.0.0.jar"
-hash = "a324a658fc571778094c256da6436bb5a99b31928541ecc4091245c904b3db5e"
-
-[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "e00b467d81fc5f35bf7432bc3b5d371281b0719eeae4377854a5f8ca33968190"
 metafile = true
@@ -579,7 +603,7 @@ metafile = true
 
 [[files]]
 file = "mods/infinite-dragon-eggs.pw.toml"
-hash = "f29da2cd01bd7b06526bc009875267f0b1e9a64320be2ad816f0792d7e54f97a"
+hash = "22d6b89673db890244a323b8a449d468806b3097ddc28e750e12cdbff8afe2fb"
 metafile = true
 
 [[files]]
@@ -803,6 +827,10 @@ hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
 
 [[files]]
+file = "mods/packmod-1.0.0.jar"
+hash = "3cf0f6c625dfdf027364e0c6f60a3eb1d054b4f5c46df2f560cd621cba0a81bf"
+
+[[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "86c688ed4fbeb2ea114cf51c09e476d0f9c4bc4cf63d5b5b927dfc0f4f486718"
 metafile = true
@@ -905,6 +933,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks-create-integration.pw.toml"
+hash = "5d18a281e163b2291f5e6dec16466241e39455ef53899bd479484004e5618dde"
 metafile = true
 
 [[files]]

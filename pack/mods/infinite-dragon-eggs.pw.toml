@@ -1,6 +1,6 @@
 name = "Infinite Dragon Eggs"
 filename = "infinite-dragon-eggs-1.0.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/WY3adfZi/versions/mYjkqMrv/infinite-dragon-eggs-1.0.0.jar"
