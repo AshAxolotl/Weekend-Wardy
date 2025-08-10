@@ -1081,6 +1081,26 @@ file = "resources/pack_resources/assets/custom/textures/gui/slot/circlet.png"
 hash = "e5f118d0abb207377eac59063234498130089c7501acce4c8c3ff6e6652fd9e0"
 
 [[files]]
+file = "resources/pack_resources/assets/transmog/textures/block/transmogrification_table_bottom.png"
+hash = "c23aeeea10c492f844be10e89ab32a83e942f306cd48fc2ed7b0147ea5f137fb"
+
+[[files]]
+file = "resources/pack_resources/assets/transmog/textures/block/transmogrification_table_side.png"
+hash = "dfd5c90dc35512517cc2a24c1e27a1c4aba78918d77cd61125b2ff729e0ade9f"
+
+[[files]]
+file = "resources/pack_resources/assets/transmog/textures/block/transmogrification_table_top.png"
+hash = "fae37ce226e1c490f95464309df583fd600db54c746848144d27b5805e8b6003"
+
+[[files]]
+file = "resources/pack_resources/assets/transmog/textures/gui/container/transmogrification_table.png"
+hash = "902e4611a3a9f14e0f362bb5bb20ae7b6c6234414555e59d0c0f9b933266efac"
+
+[[files]]
+file = "resources/pack_resources/assets/transmog/textures/item/void_fragment.png"
+hash = "fd5ba4092676c5f461dde1a85e43d618e685356fd6f4a6562cf6cf93bfea66f4"
+
+[[files]]
 file = "resources/pack_resources/data/accessories/tags/item/circlet.json"
 hash = "05ed43ff302550ca48dc23cd384f0587680d6c4fb1c28b4fc42f6e024c9240f9"
 
@@ -1127,6 +1147,18 @@ hash = "59d9e07df28cd685fd44c06c78fba93261f1ea83f34f0491480f23a35286bc4b"
 [[files]]
 file = "resources/pack_resources/data/malum/tags/item/soulwoven_pouch_autocollect.json"
 hash = "f2e9c174d68c14a9b5cea8688e58922008bfddcaab483d96e7fe9b58af62c965"
+
+[[files]]
+file = "resources/pack_resources/data/transmog/recipe/transmogrification_table.json"
+hash = "c285fbaac03ac4b8c05acd3e5be520bfbe59a361d3443e9ae2576557b66d2b86"
+
+[[files]]
+file = "resources/pack_resources/data/transmog/recipe/void_fragment.json"
+hash = "af89cfd444442bc3d90b4d66775421f97a81f136b0fcc7ebb25d26e38e45c1f1"
+
+[[files]]
+file = "resources/pack_resources/data/transmog/tags/item/transmog_fuels.json"
+hash = "b3b2b51de6b4d194c9a4b40459ccd36bd9bebfd0b2ab515b0718c90cb516074e"
 
 [[files]]
 file = "resources/pack_resources/pack.mcmeta"
