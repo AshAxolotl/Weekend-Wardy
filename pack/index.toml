@@ -818,6 +818,11 @@ hash = "abfc8909de1c851ccf4ef296e05d1017332a21fef76fd1f938828fcff925115b"
 metafile = true
 
 [[files]]
+file = "mods/network-protocol-disconnect.pw.toml"
+hash = "0b3980036ac0847ad4b19e0e5dddd5e19e1c2a566cc2597d603194c2e3324bff"
+metafile = true
+
+[[files]]
 file = "mods/nightlights.pw.toml"
 hash = "9b56c2c17c00dd51fffcbc5e5a59d2c325ed656e768365ae1a36f7692ffcd01e"
 metafile = true
