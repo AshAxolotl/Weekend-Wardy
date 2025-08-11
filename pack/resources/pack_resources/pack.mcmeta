@@ -5,6 +5,46 @@
   },
   "filter": {
         "block": [
+            {
+                "namespace": "sophisticatedbackpacks",
+                "path": "recipe/iron_backpack"
+            },
+            {
+                "namespace": "sophisticatedbackpacks",
+                "path": "recipe/everlasting_upgrade"
+            },
+            {
+                "namespace": "sophisticatedbackpacks",
+                "path": "recipe/inception_upgrade"
+            },
+            {
+                "namespace": "sophisticatedbackpacks",
+                "path": "recipe/battery_upgrade"
+            },
+            {
+                "namespace": "sophisticatedbackpacks",
+                "path": "recipe/stack_upgrade_omega_tier"
+            },
+            {
+                "namespace": "sophisticatedbackpacks",
+                "path": "recipe/stack_upgrade_starter_tier"
+            },
+            {
+                "namespace": "sophisticatedbackpacks",
+                "path": "recipe/stack_upgrade_tier_1_from_starter"
+            },
+            {
+                "namespace": "sophisticatedbackpacks",
+                "path": "recipe/stack_upgrade_tier_2"
+            },
+            {
+                "namespace": "sophisticatedbackpacks",
+                "path": "recipe/stack_upgrade_tier_3"
+            },
+            {
+                "namespace": "sophisticatedbackpacks",
+                "path": "recipe/stack_upgrade_tier_4"
+            }
       ]
   }
 }

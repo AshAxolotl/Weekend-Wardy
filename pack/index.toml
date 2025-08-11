@@ -29,6 +29,18 @@ file = "config/default_files/config/emi.css"
 hash = "ba325ecbe291eb7543e9d24770d015e5a3918e6a407e2a14417319fa064dfa73"
 
 [[files]]
+file = "config/default_files/config/emixx/emixx-client.toml"
+hash = "827dd29d1eacadaeadd10e81dfa4901447748a7a5ebe5f2284a6a5942dceaad1"
+
+[[files]]
+file = "config/default_files/config/emixx/groups/paintbrushes.json"
+hash = "00d147afff7149e8409861b2fe154c410bdf904e1e10789612f3145e949559b7"
+
+[[files]]
+file = "config/default_files/config/emixx/groups/spirit_crystals.json"
+hash = "c07373e99bd8bb555f7bcd3379dfae29bc0b5a2badfc59b5bcf424befde2e3a3"
+
+[[files]]
 file = "config/default_files/config/emotecraft.json"
 hash = "e2f6d882eb6d60df68f062cf65c06732e91fffd45725bfd12e47f6f57a306216"
 
@@ -83,6 +95,10 @@ hash = "b5ba0c42a2d5aff3746372fc027261b9d1f1e05104cc97bd3a74893f1106fcf9"
 [[files]]
 file = "config/ribbits-neoforge-1_21_1.toml"
 hash = "f5c48a20d96e8cc0258b849546b460e7c503e443c422d4e417775258cb9f1da1"
+
+[[files]]
+file = "config/sophisticatedbackpacks-server.toml"
+hash = "40ee0bfcbfdc81cf63dd9f9b44cf8d5559384daaccc1870ef289f751da814185"
 
 [[files]]
 file = "config/styledplayerlist/styles/default.json"
@@ -464,7 +480,7 @@ metafile = true
 
 [[files]]
 file = "mods/emixx.pw.toml"
-hash = "97c2eed82877ec4496f226192a473e285ff8d9f95d641613bccc6bd9cf21cabc"
+hash = "3502a866f5c7257ed0d7733a43827fe80ce806689241229c71414535c74ee980"
 metafile = true
 
 [[files]]
@@ -1149,6 +1165,14 @@ file = "resources/pack_resources/data/malum/tags/item/soulwoven_pouch_autocollec
 hash = "f2e9c174d68c14a9b5cea8688e58922008bfddcaab483d96e7fe9b58af62c965"
 
 [[files]]
+file = "resources/pack_resources/data/sophisticatedbackpacks/recipe/iron_backpack_from_copper.json"
+hash = "2765165f7ec6b022026e8dae2ac6088e21a7981ec7f83ac01372ffafa225a812"
+
+[[files]]
+file = "resources/pack_resources/data/sophisticatedbackpacks/recipe/stack_upgrade_tier_1.json"
+hash = "3b18bb464593ce222a9cb257e0a78475599abbb6512f8b9db6ebedaa00fe951b"
+
+[[files]]
 file = "resources/pack_resources/data/transmog/recipe/transmogrification_table.json"
 hash = "c285fbaac03ac4b8c05acd3e5be520bfbe59a361d3443e9ae2576557b66d2b86"
 
@@ -1162,7 +1186,7 @@ hash = "b3b2b51de6b4d194c9a4b40459ccd36bd9bebfd0b2ab515b0718c90cb516074e"
 
 [[files]]
 file = "resources/pack_resources/pack.mcmeta"
-hash = "c2e62879ea67c27d883c15494469ce9737a4ecf2b83c15572b247680a821464c"
+hash = "9f73bf211c81487de5588003dc405559b4b5dcb8153ca7696168efd4bae8d61c"
 
 [[files]]
 file = "resources/painting picker v1.1.0 (MC 1.21-1.21.8).zip"
