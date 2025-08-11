@@ -235,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/carry-on-extend.pw.toml"
-hash = "441ccd90f461146fbeb65818fe4f42dc055c6dc85f41e052f525ac193a7daa66"
+hash = "86cdd5cc4dfa5aa6c1a99a63f7c89895b43753d51a099dce09ecb96fe650bdd6"
 metafile = true
 
 [[files]]
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "93a630545090420997588464bd281ae7b38a3eff80e203fbd065b548407748a1"
+hash = "c390e2533e854690085d2a455d192e22817532f8e1400f498f4312ee5dfdda50"
 metafile = true
 
 [[files]]
@@ -320,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/crate-delight.pw.toml"
-hash = "746c0206f18aee0b15f29be3abcf68c304dd75fb810eeb641b4ae2cf62b2d8cb"
+hash = "6ed663d777e63644eecee902587bfa71dff91eaf1ffd4ea1d5683cc4b1264fea"
 metafile = true
 
 [[files]]
@@ -659,12 +659,12 @@ metafile = true
 
 [[files]]
 file = "mods/krypton-fnp.pw.toml"
-hash = "0b785ad2b4b9672adad4da0a11a76b242fe994f040662c816f6d2dfaf6868fef"
+hash = "bd02d4433b0bc805471c464f6fdbc82174feadcd17d2f822dfad9ce47441b309"
 metafile = true
 
 [[files]]
 file = "mods/ksyxis.pw.toml"
-hash = "8c6b70c5687944d95858a7da9311a268725bc613e1d0f10dae4687faf9fb7ad5"
+hash = "6c4d9be9d042e5a1028a420fa2f4aa435e6406445207a4d600700efbf037c35a"
 metafile = true
 
 [[files]]
@@ -759,7 +759,7 @@ metafile = true
 
 [[files]]
 file = "mods/miners-delight.pw.toml"
-hash = "f0bab41cfa3e00481615ebce810f12a8de93e334fa1b21794c86553cb46f1bc6"
+hash = "c6255e3933c0916746e8b3e9be3be4734093ae2259c572c117b52130d2aab62e"
 metafile = true
 
 [[files]]
@@ -963,7 +963,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "b298b954e05956871a5f724569c226d97cc57059d8f587e5a768f3aa781de014"
+hash = "6babd538cf63b0ea8f7f4c1cbb5db23cad337f3501d1e9584e5143d698661937"
 metafile = true
 
 [[files]]
