@@ -24,7 +24,7 @@ services:
       OPS: |
         AshAxolotl
       WHITELIST: |
-	AshAxolotl
+        AshAxolotl
     volumes:
       # Use managed volume by default, but can change to a relative path like
       # ./data:/data
