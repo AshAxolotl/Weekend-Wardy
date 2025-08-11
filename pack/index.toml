@@ -1170,6 +1170,10 @@ file = "resources/pack_resources/data/malum/tags/item/soulwoven_pouch_autocollec
 hash = "f2e9c174d68c14a9b5cea8688e58922008bfddcaab483d96e7fe9b58af62c965"
 
 [[files]]
+file = "resources/pack_resources/data/malum/tags/worldgen/biome/has_weeping_well.json"
+hash = "9d4cb81ececcf4ade08fe580fbbb500bc70d6d1f13f3f5f9fa22e9c074f73aeb"
+
+[[files]]
 file = "resources/pack_resources/data/sophisticatedbackpacks/recipe/iron_backpack_from_copper.json"
 hash = "2765165f7ec6b022026e8dae2ac6088e21a7981ec7f83ac01372ffafa225a812"
 

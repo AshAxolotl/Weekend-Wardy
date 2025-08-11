@@ -12,7 +12,7 @@ services:
       EULA: true
       VERSION: 1.21.1
       TYPE: NEOFORGE
-      JVM_OPTS: "-javaagent:unsup-1.1.4.jar -XX:+UseZGC -XX:+ZGenerational"
+      JVM_OPTS: "-javaagent:unsup-1.1.5.jar -XX:+UseZGC -XX:+ZGenerational"
       MEMORY: 12G
       SNOOPER_ENABLED: false
       ENABLE_COMMAND_BLOCK: true
