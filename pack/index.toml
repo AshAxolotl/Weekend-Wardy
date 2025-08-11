@@ -259,11 +259,6 @@ hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
-file = "mods/coastal-waves.pw.toml"
-hash = "bef8d516741fbf4644103d8e39d270fe6bd9a0b10a182cb8f9a063ca2347a390"
-metafile = true
-
-[[files]]
 file = "mods/colorwheel-patcher.pw.toml"
 hash = "2d8c419acad3bab8eb54c6d5461f99ab76d924b753a9c811e7e94d624fe32f61"
 metafile = true
