@@ -877,6 +877,11 @@ hash = "a69a8ba0d9e52361b1853cf59b2cf2a38b668b1d508a565f315f2fa30407f546"
 metafile = true
 
 [[files]]
+file = "mods/profundis.pw.toml"
+hash = "19ffa177e6699b954f9d1ee2852caa8cca77ad86be761e8cf8905ea3f8e25f7f"
+metafile = true
+
+[[files]]
 file = "mods/quad.pw.toml"
 hash = "92e1e5d22e071ae1d5b17984905eae081809bd946ecf48614ff8312aa8308b69"
 metafile = true
