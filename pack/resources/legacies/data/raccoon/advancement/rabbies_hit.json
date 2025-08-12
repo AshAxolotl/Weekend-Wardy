@@ -1,0 +1,25 @@
+{
+  "criteria": {
+    "example": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "player": {
+          "team": "legacy_raccoon"
+        },
+        "damage": {
+          "source_entity": {
+            "equipment": {
+              "mainhand": {
+                "items": "miencraft:air"
+              }
+            }
+          }
+        },
+        "entity": {}
+      }
+    }
+  },
+  "rewards": {
+    "function": "raccoon:rabbies_ray_start"
+  }
+}

@@ -9,3 +9,6 @@ item replace entity @s armor.feet with minecraft:air
 
 # REMOVE: More Slots
 curios replace trinket_group_legs-key 0 @s with air
+
+# REMOVE: Water Breathng
+tag @s remove legacies_water_breathing

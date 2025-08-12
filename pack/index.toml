@@ -1099,12 +1099,28 @@ file = "resources/armor statues v2.8.19 (MC 1.21-1.21.8).zip"
 hash = "6dfb645614f4054372bd886627f7c36b245ddf167e1b614d8c3f03c204516e44"
 
 [[files]]
+file = "resources/legacies/data/creature/function/change_size.mcfunction"
+hash = "6e5e906ab201759fe0e4ae14e5d3f157838a1f9f886fa3f0155f2f4a910459ee"
+
+[[files]]
+file = "resources/legacies/data/creature/function/change_size_input.mcfunction"
+hash = "c443ecfe12de9a9827484f5a267f4425bb7af5113b59c3229f3f4beefd35df5e"
+
+[[files]]
+file = "resources/legacies/data/creature/function/scale.mcfunction"
+hash = "bcbc087bece43400c25589b866b393d8118c5696481940d72635ad1cd7560cb3"
+
+[[files]]
+file = "resources/legacies/data/creature/function/size_command.mcfunction"
+hash = "e03be1a8574fa687a2285353d72973e7ee48e580b4ce924af451e68f06024103"
+
+[[files]]
 file = "resources/legacies/data/creature/function/team_join.mcfunction"
-hash = "13b536df8f2f4a693fa7a14dca135a2af4452e8c82f4a3a6ff821573bd0babe2"
+hash = "63cd5d90a0719e697ccc83ba520762ff41cff1468a7afc780eb5dc2e11ce549c"
 
 [[files]]
 file = "resources/legacies/data/creature/function/team_leave.mcfunction"
-hash = "efca98cb5724f463455a1379755e1646b2f03d54d06e14e5d3d6ec57be754182"
+hash = "a48423350fce6debd0a523802883d9be6779993f4aa86005b7471a1b308d71f7"
 
 [[files]]
 file = "resources/legacies/data/humolotl/function/team_join.mcfunction"
@@ -1112,7 +1128,15 @@ hash = "59946b49cd4c3d32b1f36063d8290ce683d24d9b1c8d90f11095278d7d8e8ea0"
 
 [[files]]
 file = "resources/legacies/data/humolotl/function/team_leave.mcfunction"
-hash = "ed167eb3f56d8dd89b3b9d8104a0b65c385cd4eaf8a6522ca43dbadd5355ac14"
+hash = "a11e1976ae747e4a0e026b8041e9860c712cd1e607deaf2dca430631fd1e1f01"
+
+[[files]]
+file = "resources/legacies/data/jester/function/team_join.mcfunction"
+hash = "70313d08a71dc5120a8bd51d17bc8cb358a59aa9edccba5e7e74f253be715568"
+
+[[files]]
+file = "resources/legacies/data/jester/function/team_leave.mcfunction"
+hash = "5406931a86fc492e3bd45002ba84a625134f0388780f38d14b696fad11ece360"
 
 [[files]]
 file = "resources/legacies/data/legacies/function/load.mcfunction"
@@ -1120,11 +1144,11 @@ hash = "3c121f7141d3d0267591f23988c2b8d948f7db582cadfd9b5563b4e706832492"
 
 [[files]]
 file = "resources/legacies/data/legacies/function/reload.mcfunction"
-hash = "d6528c9be0e241eb2fb7ff17e2dbc9cf245bcc0cc454392074b8c4c23eb413c4"
+hash = "28f579e0d19d360bfcecc6cbc90393d22d2e4c551e0c20a462538ef1e02decac"
 
 [[files]]
 file = "resources/legacies/data/legacies/function/team_checks.mcfunction"
-hash = "e8f0e5808b015b3b8329f2524dd40d004908f996d359798a00b3e9efa3c98145"
+hash = "7cc08fc74e39686bd1c3b3a9c4182f851de4959fdfda273bc46829e002803814"
 
 [[files]]
 file = "resources/legacies/data/legacies/function/water_breathing.mcfunction"
@@ -1135,12 +1159,32 @@ file = "resources/legacies/data/minecraft/tags/function/load.json"
 hash = "ff3033778e7bd82fd8283e8ede88fb679049c3e7c4d33d16e7f5bbba2e8a3581"
 
 [[files]]
+file = "resources/legacies/data/raccoon/advancement/rabbies_hit.json"
+hash = "4f0ce1a161e400d7855924222fb248a554bedf18f1b131f1b36c0be994ebe764"
+
+[[files]]
+file = "resources/legacies/data/raccoon/function/rabbies_hit.mcfunction"
+hash = "669a966f67b1f9248436c710e4f3eb7ab892bde3db5c14a4ace76664825111d8"
+
+[[files]]
+file = "resources/legacies/data/raccoon/function/rabbies_immunity.mcfunction"
+hash = "26f32bb79ba750817a823d5992c687b5df0b05711cb37e6bf2cfe292357dada7"
+
+[[files]]
+file = "resources/legacies/data/raccoon/function/rabbies_ray.mcfunction"
+hash = "24f54eb7d21435e30ad2f36520e4b68afddfcce309907ea5a4ec7543ad1248db"
+
+[[files]]
+file = "resources/legacies/data/raccoon/function/rabbies_ray_start.mcfunction"
+hash = "9d8c969d19e61798e88cf1947f32477e58ca32663d7620943ec19d8134aa2f7c"
+
+[[files]]
 file = "resources/legacies/data/raccoon/function/team_join.mcfunction"
-hash = "0022d0ea6f145182a70138278a5f839ee471dfdab5e64eeea7091345ea324077"
+hash = "47871b60f1442c1cb0716a0b98014f35cbcd85a7ad9c4bf49cd197536eb2fe23"
 
 [[files]]
 file = "resources/legacies/data/raccoon/function/team_leave.mcfunction"
-hash = "cb5150fec792ac8915e48453318199e4f80d1361b3fe7fe62ff403feed82071c"
+hash = "da2435d182093d829316157e9778e3c77922ca8a714b6aaeb9de6eaa821764c5"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/team_join.mcfunction"
