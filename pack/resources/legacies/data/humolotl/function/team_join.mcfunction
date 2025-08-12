@@ -1,0 +1,14 @@
+tag @s add legacies_is_humolotl
+tellraw @s {"text":"You're now a Humolotl"}
+
+# No armor
+item replace entity @s armor.head with leather_helmet[trim={pattern:eye,material:amethyst,show_in_tooltip:false},dyed_color={rgb:0},hide_tooltip={},enchantments={levels:{aqua_affinity:1,binding_curse:1}},attribute_modifiers={modifiers:[{type:"generic.armor",amount:0,operation:add_value,id:1754992373590}]},unbreakable={}]
+item replace entity @s armor.chest with leather_chestplate[trim={pattern:eye,material:amethyst,show_in_tooltip:false},dyed_color={rgb:0},hide_tooltip={},enchantments={levels:{binding_curse:1}},attribute_modifiers={modifiers:[{type:"generic.armor",amount:0,operation:add_value,id:1754992523704}]},unbreakable={}]
+item replace entity @s armor.legs with leather_leggings[trim={pattern:eye,material:amethyst,show_in_tooltip:false},dyed_color={rgb:0},hide_tooltip={},enchantments={levels:{binding_curse:1}},attribute_modifiers={modifiers:[{type:"generic.armor",amount:0,operation:add_value,id:1754992536265}]},unbreakable={}]
+item replace entity @s armor.feet with leather_boots[trim={pattern:eye,material:amethyst},dyed_color={rgb:0},hide_tooltip={},enchantments={levels:{binding_curse:1}},attribute_modifiers={modifiers:[{type:"generic.armor",amount:0,operation:add_value,id:1754993005241},{type:"neoforge:swim_speed",amount:1.5,operation:add_multiplied_base,id:1754993005242}]},unbreakable={}]
+
+# More Slots
+curios replace trinket_group_legs-key 0 @s with suppsquared:heavy_key[enchantments={levels:{binding_curse:1}}, accessories:attributes={modifiers:[{type:"accessories:charm",id:"humolotl:charm",amount:1.0,operation:"add_value",slot_name:"any"}, {type:"accessories:circlet",id:"humolotl:circlet",amount:1.0,operation:"add_value",slot_name:"any"}, {type:"accessories:hat",id:"humolotl:hat",amount:1.0,operation:"add_value",slot_name:"any"}, {type:"accessories:face",id:"humolotl:face",amount:1.0,operation:"add_value",slot_name:"any"}, {type:"accessories:necklace",id:"humolotl:necklace",amount:1.0,operation:"add_value",slot_name:"any"}, {type:"accessories:ring",id:"humolotl:ring",amount:2.0,operation:"add_value",slot_name:"any"}, {type:"accessories:belt",id:"humolotl:belt",amount:1.0,operation:"add_value",slot_name:"any"}, {type:"accessories:shoes",id:"humolotl:shoes",amount:1.0,operation:"add_value",slot_name:"any"}, {type:"accessories:brooch",id:"humolotl:brooch",amount:1.0,operation:"add_value",slot_name:"any"}, {type:"accessories:rune",id:"humolotl:rune",amount:1.0,operation:"add_value",slot_name:"any"}, {type:"accessories:pin",id:"humolotl:pin",amount:1.0,operation:"add_value",slot_name:"any"}, {type:"accessories:trinket_group_legs-key",id:"humolotl:key",amount:1.0,operation:"add_value",slot_name:"any"}], show_in_tooltip: 1b}]
+
+# Water Breathing
+tag @s add legacies_water_breathing

@@ -1099,8 +1099,60 @@ file = "resources/armor statues v2.8.19 (MC 1.21-1.21.8).zip"
 hash = "6dfb645614f4054372bd886627f7c36b245ddf167e1b614d8c3f03c204516e44"
 
 [[files]]
-file = "resources/name colors v1.0.11 (MC 1.21-1.21.8).zip"
-hash = "8bbec102309d6d7812a7022e8845d59a4342c32e4b03ee5595ad60a94942d699"
+file = "resources/legacies/data/creature/function/team_join.mcfunction"
+hash = "13b536df8f2f4a693fa7a14dca135a2af4452e8c82f4a3a6ff821573bd0babe2"
+
+[[files]]
+file = "resources/legacies/data/creature/function/team_leave.mcfunction"
+hash = "efca98cb5724f463455a1379755e1646b2f03d54d06e14e5d3d6ec57be754182"
+
+[[files]]
+file = "resources/legacies/data/humolotl/function/team_join.mcfunction"
+hash = "59946b49cd4c3d32b1f36063d8290ce683d24d9b1c8d90f11095278d7d8e8ea0"
+
+[[files]]
+file = "resources/legacies/data/humolotl/function/team_leave.mcfunction"
+hash = "ed167eb3f56d8dd89b3b9d8104a0b65c385cd4eaf8a6522ca43dbadd5355ac14"
+
+[[files]]
+file = "resources/legacies/data/legacies/function/load.mcfunction"
+hash = "3c121f7141d3d0267591f23988c2b8d948f7db582cadfd9b5563b4e706832492"
+
+[[files]]
+file = "resources/legacies/data/legacies/function/reload.mcfunction"
+hash = "d6528c9be0e241eb2fb7ff17e2dbc9cf245bcc0cc454392074b8c4c23eb413c4"
+
+[[files]]
+file = "resources/legacies/data/legacies/function/team_checks.mcfunction"
+hash = "e8f0e5808b015b3b8329f2524dd40d004908f996d359798a00b3e9efa3c98145"
+
+[[files]]
+file = "resources/legacies/data/legacies/function/water_breathing.mcfunction"
+hash = "82b0803fc863be6190032fea11da4787dcb82e00c5b0ccddfe4fec3350bab900"
+
+[[files]]
+file = "resources/legacies/data/minecraft/tags/function/load.json"
+hash = "ff3033778e7bd82fd8283e8ede88fb679049c3e7c4d33d16e7f5bbba2e8a3581"
+
+[[files]]
+file = "resources/legacies/data/raccoon/function/team_join.mcfunction"
+hash = "0022d0ea6f145182a70138278a5f839ee471dfdab5e64eeea7091345ea324077"
+
+[[files]]
+file = "resources/legacies/data/raccoon/function/team_leave.mcfunction"
+hash = "cb5150fec792ac8915e48453318199e4f80d1361b3fe7fe62ff403feed82071c"
+
+[[files]]
+file = "resources/legacies/data/the_child/function/team_join.mcfunction"
+hash = "76db8aea4e26e4073415f87a9ce35ea1e7da0f8fb543f51e21d9e4c8190231c1"
+
+[[files]]
+file = "resources/legacies/data/the_child/function/team_leave.mcfunction"
+hash = "a940c9b3b12199ef72ec6e53182d87ad05deed2e2db783e2fcf6bd246e2d23a7"
+
+[[files]]
+file = "resources/legacies/pack.mcmeta"
+hash = "2c970089a81f65e5d85bd23a0742fc3754c67e263e40ca5ee16533e3a1775720"
 
 [[files]]
 file = "resources/pack_resources/assets/custom/lang/en_us.json"

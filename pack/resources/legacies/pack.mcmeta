@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "description": "Legacies (fake origins)"
+  },
+  "filter": {
+        "block": []
+  }
+}
