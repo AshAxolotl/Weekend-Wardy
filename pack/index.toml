@@ -1155,6 +1155,10 @@ file = "resources/legacies/pack.mcmeta"
 hash = "2c970089a81f65e5d85bd23a0742fc3754c67e263e40ca5ee16533e3a1775720"
 
 [[files]]
+file = "resources/name colors v1.0.11 (MC 1.21-1.21.8).zip"
+hash = "8bbec102309d6d7812a7022e8845d59a4342c32e4b03ee5595ad60a94942d699"
+
+[[files]]
 file = "resources/pack_resources/assets/custom/lang/en_us.json"
 hash = "2809bc0ee302993bb166d97370d55c26858084f5d79fe3c174cacbb55c21b0e0"
 
