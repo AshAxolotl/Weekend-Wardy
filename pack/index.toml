@@ -1104,11 +1104,7 @@ hash = "6e5e906ab201759fe0e4ae14e5d3f157838a1f9f886fa3f0155f2f4a910459ee"
 
 [[files]]
 file = "resources/legacies/data/creature/function/change_size_input.mcfunction"
-hash = "c443ecfe12de9a9827484f5a267f4425bb7af5113b59c3229f3f4beefd35df5e"
-
-[[files]]
-file = "resources/legacies/data/creature/function/scale.mcfunction"
-hash = "bcbc087bece43400c25589b866b393d8118c5696481940d72635ad1cd7560cb3"
+hash = "35f4854e1b40405dfe8ab336790fe4db2ec0bd8f48105912a173caeb923b47cb"
 
 [[files]]
 file = "resources/legacies/data/creature/function/size_command.mcfunction"
@@ -1132,11 +1128,11 @@ hash = "a11e1976ae747e4a0e026b8041e9860c712cd1e607deaf2dca430631fd1e1f01"
 
 [[files]]
 file = "resources/legacies/data/jester/function/team_join.mcfunction"
-hash = "70313d08a71dc5120a8bd51d17bc8cb358a59aa9edccba5e7e74f253be715568"
+hash = "9744ba8de61f27207bb1adf9c75f7365a2164d6a7b4bf827b29c9892749bf6b1"
 
 [[files]]
 file = "resources/legacies/data/jester/function/team_leave.mcfunction"
-hash = "5406931a86fc492e3bd45002ba84a625134f0388780f38d14b696fad11ece360"
+hash = "f1f2c2ad49329969f8d262aa652b8d2d0ce2140b176deff1bb2229ce79667b0a"
 
 [[files]]
 file = "resources/legacies/data/legacies/function/load.mcfunction"
