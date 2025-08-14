@@ -828,7 +828,7 @@ metafile = true
 
 [[files]]
 file = "mods/netherportalfix.pw.toml"
-hash = "5dc059422613b5645cb00e32d3bfd53de428c4939113d11ce2c844cb54165da6"
+hash = "748bdcbc7788a77881979189827f1baf3f6ef5fdaeb58b00e51e043c2c0abe39"
 metafile = true
 
 [[files]]
@@ -1073,6 +1073,11 @@ metafile = true
 [[files]]
 file = "mods/unearth.pw.toml"
 hash = "195f49c54537c28a9aaeeded2e87acc5afc00479ff460865f790155c73b38b33"
+metafile = true
+
+[[files]]
+file = "mods/universal-sawmill.pw.toml"
+hash = "e1df7190f761c6365d2ba30c513600ebaeeffe517b35be1171a762ba679cdb4a"
 metafile = true
 
 [[files]]
