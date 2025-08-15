@@ -6,7 +6,7 @@ scoreboard objectives add raccoon-raycast dummy
 schedule function raccoon:rabbies_immunity 5t replace
 
 # No Fall DMG
-attribute @s minecraft:generic.safe_fall_distance modifier add raccon:no_fall_dmg 1000 add_value
+attribute @s minecraft:generic.fall_damage_multiplier base set 0
 # Size
 attribute @s minecraft:generic.scale base set 0.55
 # Less HP

@@ -4,16 +4,15 @@
       "trigger": "minecraft:player_hurt_entity",
       "conditions": {
         "player": {
-          "team": "legacy_raccoon"
-        },
-        "damage": {
-          "source_entity": {
-            "equipment": {
-              "mainhand": {
-                "items": "miencraft:air"
-              }
+          "team": "legacy_raccoon",
+          "equipment": {
+            "mainhand": {
+              "items": "minecraft:air"
             }
           }
+        },
+        "damage": {
+          "blocked": false
         },
         "entity": {}
       }

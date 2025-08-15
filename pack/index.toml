@@ -1148,11 +1148,11 @@ hash = "a11e1976ae747e4a0e026b8041e9860c712cd1e607deaf2dca430631fd1e1f01"
 
 [[files]]
 file = "resources/legacies/data/jester/function/team_join.mcfunction"
-hash = "9744ba8de61f27207bb1adf9c75f7365a2164d6a7b4bf827b29c9892749bf6b1"
+hash = "a844afcd9f9969146fcef3beabc541acc442a67909995340765e14ddccadad92"
 
 [[files]]
 file = "resources/legacies/data/jester/function/team_leave.mcfunction"
-hash = "f1f2c2ad49329969f8d262aa652b8d2d0ce2140b176deff1bb2229ce79667b0a"
+hash = "4503da96e56adee74304115b77cb258a2d2ecb79bbcc60c6919724c88aa799b2"
 
 [[files]]
 file = "resources/legacies/data/legacies/function/load.mcfunction"
@@ -1176,7 +1176,7 @@ hash = "ff3033778e7bd82fd8283e8ede88fb679049c3e7c4d33d16e7f5bbba2e8a3581"
 
 [[files]]
 file = "resources/legacies/data/raccoon/advancement/rabbies_hit.json"
-hash = "4f0ce1a161e400d7855924222fb248a554bedf18f1b131f1b36c0be994ebe764"
+hash = "05ed19c915a00b941b2efe73232da74c50ed3c3267e39674761c71261cedc917"
 
 [[files]]
 file = "resources/legacies/data/raccoon/function/rabbies_hit.mcfunction"
@@ -1188,7 +1188,7 @@ hash = "26f32bb79ba750817a823d5992c687b5df0b05711cb37e6bf2cfe292357dada7"
 
 [[files]]
 file = "resources/legacies/data/raccoon/function/rabbies_ray.mcfunction"
-hash = "24f54eb7d21435e30ad2f36520e4b68afddfcce309907ea5a4ec7543ad1248db"
+hash = "c0144c69cc5119524d70ccdffd8762dbb0f6658b74e3965d1d4ef71091def6cf"
 
 [[files]]
 file = "resources/legacies/data/raccoon/function/rabbies_ray_start.mcfunction"
@@ -1196,11 +1196,11 @@ hash = "9d8c969d19e61798e88cf1947f32477e58ca32663d7620943ec19d8134aa2f7c"
 
 [[files]]
 file = "resources/legacies/data/raccoon/function/team_join.mcfunction"
-hash = "47871b60f1442c1cb0716a0b98014f35cbcd85a7ad9c4bf49cd197536eb2fe23"
+hash = "abc37149fdfa1e30d17a1aedab06b30c2081a95b0fd43e832c8d736c1a0641fd"
 
 [[files]]
 file = "resources/legacies/data/raccoon/function/team_leave.mcfunction"
-hash = "da2435d182093d829316157e9778e3c77922ca8a714b6aaeb9de6eaa821764c5"
+hash = "aa027377804589a58b22b9f8ac38767b580c053bc13f14bff3218061495fdcef"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/team_join.mcfunction"
