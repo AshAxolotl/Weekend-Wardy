@@ -1140,7 +1140,7 @@ hash = "a48423350fce6debd0a523802883d9be6779993f4aa86005b7471a1b308d71f7"
 
 [[files]]
 file = "resources/legacies/data/humolotl/function/team_join.mcfunction"
-hash = "59946b49cd4c3d32b1f36063d8290ce683d24d9b1c8d90f11095278d7d8e8ea0"
+hash = "e553396558531c7a7c333d89d49314acbcf8f8800681cb315148b1a6db0f8e50"
 
 [[files]]
 file = "resources/legacies/data/humolotl/function/team_leave.mcfunction"
