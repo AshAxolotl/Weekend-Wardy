@@ -622,11 +622,6 @@ hash = "7fdc80c6250ba6feee62da887f7877f983a9342cc02591712c7b34a9ba68ccd3"
 metafile = true
 
 [[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "a55fe659bff4772919b0e3f7a64d79df053556cb16cf8e5a186e20d6b3945dc1"
-metafile = true
-
-[[files]]
 file = "mods/infinite-dragon-eggs.pw.toml"
 hash = "22d6b89673db890244a323b8a449d468806b3097ddc28e750e12cdbff8afe2fb"
 metafile = true
