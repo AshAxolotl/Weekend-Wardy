@@ -44,6 +44,10 @@
             {
                 "namespace": "sophisticatedbackpacks",
                 "path": "recipe/stack_upgrade_tier_4"
+            },
+            {
+                "namespace": "crabbersdelight",
+                "path": "forge/biome_modifier/crab"
             }
       ]
   }
