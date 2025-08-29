@@ -1,0 +1,13 @@
+name = "Companions!"
+filename = "companions-neoforge-1.21.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ArBFNu9T/versions/DaYFN1Zx/companions-neoforge-1.21.1-1.1.0.jar"
+hash-format = "sha512"
+hash = "3caf3d5f04b1460d1ce1661ef1eb54764000ff4e8b0017f70c1319fceeb5275b039371e0dd29e26155a0e3a1524e247d46bd127b1bd0a59774a7e8a4666259b8"
+
+[update]
+[update.modrinth]
+mod-id = "ArBFNu9T"
+version = "DaYFN1Zx"

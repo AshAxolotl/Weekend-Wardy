@@ -48,6 +48,18 @@
             {
                 "namespace": "crabbersdelight",
                 "path": "forge/biome_modifier/crab"
+            },
+            {
+                "namespace": "knightlib",
+                "path": "recipe/nether_star_to_great_essence"
+            },
+            {
+                "namespace": "knightlib",
+                "path": "recipe/heart_of_the_sea_to_great_essence"
+            },
+            {
+                "namespace": "knightlib",
+                "path": "recipe/totem_of_undying_to_great_essence"
             }
       ]
   }

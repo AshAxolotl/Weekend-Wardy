@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "values": [
+    "malum:refined_brilliance",
+    "create:experience_nugget",
+    "minecraft:experience_bottle"
+  ]
+}

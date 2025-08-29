@@ -89,6 +89,10 @@ file = "config/headpats.json"
 hash = "377cf0a4c8f384ee6d5fa593ab0c52e7a4ef30baf5c0f770d9b630869d38b6b9"
 
 [[files]]
+file = "config/knightlib.toml"
+hash = "aa6546d7d83d660f7cc4b1cc4017ccddb9541b4079dcaa94361e7b9f2368e7d5"
+
+[[files]]
 file = "config/malum-common.toml"
 hash = "baf4fff6aac2588e3532192353cb48076a15200f45a121686313f4d3b7e313f3"
 
@@ -280,6 +284,11 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "5e0a875282f4abed66a2cccf7929488ebb5e88447d2bb3369e8ddc728fc66fc0"
+metafile = true
+
+[[files]]
+file = "mods/companions-mod.pw.toml"
+hash = "5ac33eed779c048fe8bcebde5078bd19526eec1a2ea1e92f4a2fa484c763d179"
 metafile = true
 
 [[files]]
@@ -659,6 +668,11 @@ metafile = true
 [[files]]
 file = "mods/jinxedlib.pw.toml"
 hash = "3e554dc66addcfd71cb63622490742566a640ff0ed45366814aa901945bb4ebc"
+metafile = true
+
+[[files]]
+file = "mods/knight-lib.pw.toml"
+hash = "45a1449d647ed5c393d057bfbe94e10d5843469221791f18be0fab6cb9a863fa"
 metafile = true
 
 [[files]]
@@ -1287,6 +1301,14 @@ file = "resources/pack_resources/data/custom/recipe/chromatic_compound.json"
 hash = "59d9e07df28cd685fd44c06c78fba93261f1ea83f34f0491480f23a35286bc4b"
 
 [[files]]
+file = "resources/pack_resources/data/custom/recipe/spirit_essence.json"
+hash = "f7a92785f2abf7dcd44156c46ef2337d118e3b73dc000a99f6d255552da1139f"
+
+[[files]]
+file = "resources/pack_resources/data/custom/tags/item/xp_items.json"
+hash = "4a1b195f374bb88fb87770113ecfeb12efa6219811955b2c6f62547facf72841"
+
+[[files]]
 file = "resources/pack_resources/data/malum/tags/item/soulwoven_pouch_autocollect.json"
 hash = "f2e9c174d68c14a9b5cea8688e58922008bfddcaab483d96e7fe9b58af62c965"
 
@@ -1316,7 +1338,7 @@ hash = "b3b2b51de6b4d194c9a4b40459ccd36bd9bebfd0b2ab515b0718c90cb516074e"
 
 [[files]]
 file = "resources/pack_resources/pack.mcmeta"
-hash = "8b20653d1a6a7588645073f02e8b446a729b757b9504f1d08e677819749aa3a6"
+hash = "5e35541c25bc1f1cf5dfb2e1da4e290837d08ad6c4a2849eea7da503fa36285b"
 
 [[files]]
 file = "resources/painting picker v1.1.0 (MC 1.21-1.21.8).zip"

@@ -1,0 +1,39 @@
+{
+  "type": "malum:spirit_infusion",
+  "extraIngredients": [
+    {
+      "count": 1,
+      "item": "malum:cursed_sap"
+    },
+    {
+      "count": 1,
+      "item": "malum:mass_of_blighted_gunk"
+    },
+    {
+      "count": 1,
+      "tag": "custom:xp_items"
+    }
+  ],
+  "ingredient": {
+    "count": 1,
+    "item": "minecraft:soul_sand"
+  },
+  "output": {
+    "count": 1,
+    "id": "knightlib:great_essence"
+  },
+  "spirits": [
+    {
+      "type": "wicked",
+      "count": 4
+    },
+    {
+      "type": "sacred",
+      "count": 4
+    },
+    {
+      "type": "arcane",
+      "count": 4
+    }
+  ]
+}
