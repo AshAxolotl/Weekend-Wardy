@@ -1,5 +1,6 @@
 {
     "values": [
-        "legacies:load"
+        "legacies:load",
+        "the_child:load"
     ]
 }

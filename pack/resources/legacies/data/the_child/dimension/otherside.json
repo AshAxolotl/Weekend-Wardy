@@ -1,0 +1,17 @@
+{
+  "type": "the_child:otherside",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "the_child:empty",
+      "lakes": false,
+      "features": false,
+      "layers": [
+        {
+          "height": 20,
+          "block": "pastel:midnight_solution"
+        }
+      ]
+    }
+  }
+}

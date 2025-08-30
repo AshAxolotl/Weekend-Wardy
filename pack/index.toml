@@ -1186,7 +1186,11 @@ hash = "82b0803fc863be6190032fea11da4787dcb82e00c5b0ccddfe4fec3350bab900"
 
 [[files]]
 file = "resources/legacies/data/minecraft/tags/function/load.json"
-hash = "ff3033778e7bd82fd8283e8ede88fb679049c3e7c4d33d16e7f5bbba2e8a3581"
+hash = "1c29b04d30bfb0fd1b2241257f52bca196e3b4785d07fcb8c173275128dc6727"
+
+[[files]]
+file = "resources/legacies/data/minecraft/tags/function/tick.json"
+hash = "388369f659b746fd31e2ad1ef0e5725bf0328d35147fc78f8bb4dee2b7d30144"
 
 [[files]]
 file = "resources/legacies/data/raccoon/advancement/rabbies_hit.json"
@@ -1217,12 +1221,52 @@ file = "resources/legacies/data/raccoon/function/team_leave.mcfunction"
 hash = "aa027377804589a58b22b9f8ac38767b580c053bc13f14bff3218061495fdcef"
 
 [[files]]
+file = "resources/legacies/data/the_child/dimension/otherside.json"
+hash = "55b73236317794432083f6fec335fd882f96e1d10535976db302fac0e766d0ca"
+
+[[files]]
+file = "resources/legacies/data/the_child/dimension_type/otherside.json"
+hash = "fd2100257640af45094c78b760a1d4ab879eba7ddcc11ca94e8de3b286d63133"
+
+[[files]]
+file = "resources/legacies/data/the_child/function/check_trigger.mcfunction"
+hash = "632cf4eaf2d8e07ba05d435d0471530f8ac852f0a14a42b90be74c1982800ae7"
+
+[[files]]
+file = "resources/legacies/data/the_child/function/island.mcfunction"
+hash = "ba10e77c36d5164c9241e5eaffeee0263b177545cf20423f37926705f3042227"
+
+[[files]]
+file = "resources/legacies/data/the_child/function/load.mcfunction"
+hash = "e4b85a442ecbb971c1e1b6a958efd931999395b8054daf6841ea4d424a407f87"
+
+[[files]]
+file = "resources/legacies/data/the_child/function/switch_sides.mcfunction"
+hash = "fdd424e8538fa8ef54ae4b6530f728289d390c6f63d43b401f4218b525cca2fa"
+
+[[files]]
 file = "resources/legacies/data/the_child/function/team_join.mcfunction"
-hash = "76db8aea4e26e4073415f87a9ce35ea1e7da0f8fb543f51e21d9e4c8190231c1"
+hash = "f8604c3ee1b7f34f37627afe59c35aa1f31592cb9650920bc40131058ccea3c4"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/team_leave.mcfunction"
 hash = "a940c9b3b12199ef72ec6e53182d87ad05deed2e2db783e2fcf6bd246e2d23a7"
+
+[[files]]
+file = "resources/legacies/data/the_child/function/tick.mcfunction"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "resources/legacies/data/the_child/function/triggersche.mcfunction"
+hash = "c797c650ce1aa509061ebf766b8e167f5ffe649b80dd273246e2303e91d9cae1"
+
+[[files]]
+file = "resources/legacies/data/the_child/structure/other_island.nbt"
+hash = "4716087ace8592357702bf36493ac49a3f0de990ee9394365937206a95e71dcd"
+
+[[files]]
+file = "resources/legacies/data/the_child/worldgen/biome/empty.json"
+hash = "16b5cf014eec63e8e496ac9eb3385e18ea0e90a3d41e91f3f3311955a74b4b47"
 
 [[files]]
 file = "resources/legacies/pack.mcmeta"
@@ -1303,6 +1347,10 @@ hash = "59d9e07df28cd685fd44c06c78fba93261f1ea83f34f0491480f23a35286bc4b"
 [[files]]
 file = "resources/pack_resources/data/custom/recipe/spirit_essence.json"
 hash = "f7a92785f2abf7dcd44156c46ef2337d118e3b73dc000a99f6d255552da1139f"
+
+[[files]]
+file = "resources/pack_resources/data/custom/recipe/void_phantom_membrane.json"
+hash = "b3f6a24f6484355770fb2cac0af27c0776503325de0a46506208c44bf336de85"
 
 [[files]]
 file = "resources/pack_resources/data/custom/tags/item/xp_items.json"
