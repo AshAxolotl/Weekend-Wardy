@@ -4,7 +4,6 @@ execute unless entity @s[tag=isInOther] at @s run forceload add ~ ~ ~ ~
 execute unless entity @s[tag=isInOther] in the_child:otherside run tp @s 21 21 20 140 -1.2
 execute unless entity @s[tag=isInOther] run tag @s add justApplied
 execute unless entity @s[tag=isInOther] run tag @s add isInOther
-scoreboard players set @s whichSide 0
 
 
 # for leaving

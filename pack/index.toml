@@ -1230,7 +1230,7 @@ hash = "fd2100257640af45094c78b760a1d4ab879eba7ddcc11ca94e8de3b286d63133"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/check_trigger.mcfunction"
-hash = "632cf4eaf2d8e07ba05d435d0471530f8ac852f0a14a42b90be74c1982800ae7"
+hash = "d776dc83b2c86c43b570b9412d825269316ef8771d6edeaf8db7397159e4205e"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/island.mcfunction"
@@ -1242,11 +1242,11 @@ hash = "e4b85a442ecbb971c1e1b6a958efd931999395b8054daf6841ea4d424a407f87"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/switch_sides.mcfunction"
-hash = "fdd424e8538fa8ef54ae4b6530f728289d390c6f63d43b401f4218b525cca2fa"
+hash = "ce03c3aac5e60fd6446d47e0446838e4f89955d72c0e7e09a41da7ca5233b1f8"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/team_join.mcfunction"
-hash = "f8604c3ee1b7f34f37627afe59c35aa1f31592cb9650920bc40131058ccea3c4"
+hash = "b24a4f202cade049d11460f07fd5b26964cef671d46191882426ff8d6c52fd72"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/team_leave.mcfunction"
@@ -1254,7 +1254,7 @@ hash = "a940c9b3b12199ef72ec6e53182d87ad05deed2e2db783e2fcf6bd246e2d23a7"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/tick.mcfunction"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "739491170e7bd80821f67bf5002f850dd7c16f5327d8186d6ae39a35b7c8b1ca"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/triggersche.mcfunction"
