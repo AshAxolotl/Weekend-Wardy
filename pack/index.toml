@@ -1307,6 +1307,10 @@ file = "resources/legacies/pack.mcmeta"
 hash = "2c970089a81f65e5d85bd23a0742fc3754c67e263e40ca5ee16533e3a1775720"
 
 [[files]]
+file = "resources/pack_resources/assets/crittersandcompanions/lang/en_us.json"
+hash = "6e0a2b2ec7f34a8d9e9db71d026313e2a5396c45ce00542416726db3b711eec7"
+
+[[files]]
 file = "resources/pack_resources/assets/custom/lang/en_us.json"
 hash = "2809bc0ee302993bb166d97370d55c26858084f5d79fe3c174cacbb55c21b0e0"
 
