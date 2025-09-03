@@ -1125,6 +1125,10 @@ hash = "c5fc88bdd6b5aa32ec8ffe7f4cc8f644589ee811e01ae0043fdec76ec2aafbe0"
 metafile = true
 
 [[files]]
+file = "resources/Ghastly Jackson.zip"
+hash = "6dc1dcd7c15e76cb56cb82679c8f4281d0ee5b00b40bf4d2773e73a0067291dd"
+
+[[files]]
 file = "resources/anti enderman grief v1.1.13 (MC 1.21-1.21.8).zip"
 hash = "49eeeb41dcc462672e2cb2666fa753940daaa1a75db9ad036f5a39e138fff6e3"
 
