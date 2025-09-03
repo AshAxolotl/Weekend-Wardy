@@ -532,6 +532,16 @@ hash = "a693f3ca25b4b4ece785887d5a095abb1ab959804fbf6c89f119100f1de1df4b"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "6b5fa0d3a684cf6cf33f1399c2b4bdbee34dbe362548808315b488ac172e2ada"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "f48d8d1f04f68dc8e6cac4ed4768790fa7ab35ee23c2aaed5391d862c6043eab"
+metafile = true
+
+[[files]]
 file = "mods/expanded-delight.pw.toml"
 hash = "efce3d2641cbf0963e2b43d37f68839cca9727bcd9455998ee82a5a18d679058"
 metafile = true
@@ -608,6 +618,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "0f4baadff512e8a9ca8bb1beb36b3fac771f9d6e28de73b39da50548ac6c1ae8"
+metafile = true
+
+[[files]]
+file = "mods/ghost.pw.toml"
+hash = "3c16c2d2a358eeb6703ca127dcdb6181b03b6f13b096377b258c67a3615bbfdc"
 metafile = true
 
 [[files]]
@@ -1326,6 +1341,118 @@ hash = "05ed43ff302550ca48dc23cd384f0587680d6c4fb1c28b4fc42f6e024c9240f9"
 [[files]]
 file = "resources/pack_resources/data/accessories/tags/item/face.json"
 hash = "25a01c627f09c16e5316ba5407136db1931de720d75d3a6de5fc66c5efd6e3a0"
+
+[[files]]
+file = "resources/pack_resources/data/bushierflowers/loot_table/blocks/grown_allium.json"
+hash = "d4fbbf472e76027ef99bbfe90901341d9f3dd360f33f34044ed2a8439a0ef6b4"
+
+[[files]]
+file = "resources/pack_resources/data/bushierflowers/loot_table/blocks/grown_azure_bluet.json"
+hash = "592399a3868bd46e51a434317603d8cea6d30d3a325bf6b64743f0710c921800"
+
+[[files]]
+file = "resources/pack_resources/data/bushierflowers/loot_table/blocks/grown_blue_orchid.json"
+hash = "07178a8dec9456dfe84ddafdeea600e605fa2196420fe1fa78bc666fa932176f"
+
+[[files]]
+file = "resources/pack_resources/data/bushierflowers/loot_table/blocks/grown_cornflower.json"
+hash = "4898090ab1578f31b777e97751dbb4d349e844f2ec87865286f66a48febf0bfa"
+
+[[files]]
+file = "resources/pack_resources/data/bushierflowers/loot_table/blocks/grown_dandelion.json"
+hash = "3f21472f1058f518d45a9806501c017fb352a85898abb09d96d22ebf91b812a9"
+
+[[files]]
+file = "resources/pack_resources/data/bushierflowers/loot_table/blocks/grown_lily.json"
+hash = "72fc4e953425b1b3e31f689370dc5d143861847e90fbfce869f33b33f1c8ebf5"
+
+[[files]]
+file = "resources/pack_resources/data/bushierflowers/loot_table/blocks/grown_orange_tulip.json"
+hash = "b61020a9c90cdb8009b0e1ad8affa6556d6d54e0336514f3ca2d61a5b66a25c3"
+
+[[files]]
+file = "resources/pack_resources/data/bushierflowers/loot_table/blocks/grown_oxeye_daisy.json"
+hash = "0794d4f31e0791a1edae8a793e9c604a54f61cb3a99b1ccd3d56f81526f2e618"
+
+[[files]]
+file = "resources/pack_resources/data/bushierflowers/loot_table/blocks/grown_pink_tulip.json"
+hash = "d27ff1eeb91954304796a279ee5cf69b31b4122cf5bd40b7b4616f52e3fc5bfe"
+
+[[files]]
+file = "resources/pack_resources/data/bushierflowers/loot_table/blocks/grown_poppy.json"
+hash = "be65785bb78315a4bb798718a43c8c39df457404c6de64d84a29748790cb25a5"
+
+[[files]]
+file = "resources/pack_resources/data/bushierflowers/loot_table/blocks/grown_red_tulip.json"
+hash = "708bbbd8dbae4b2af3d382b22a6b5997af957c9c8a485ae6b73a3ccbe29bc25f"
+
+[[files]]
+file = "resources/pack_resources/data/bushierflowers/loot_table/blocks/grown_torchflower.json"
+hash = "1526fa4151ce5b2e0a3e41d80555b0dbf9837151ac77213cd8946e907d351806"
+
+[[files]]
+file = "resources/pack_resources/data/bushierflowers/loot_table/blocks/grown_white_tulip.json"
+hash = "e6d5a0882e25d71d35d83277932c3268e8daf046d1c96a1e32fefef2b89c8cd4"
+
+[[files]]
+file = "resources/pack_resources/data/bushierflowers/loot_table/blocks/grown_wither_rose.json"
+hash = "6e899a683dabb010c99854fd76fa13706717c3ce018b22e55fd4bbbbe9dd2fa9"
+
+[[files]]
+file = "resources/pack_resources/data/bushierflowers/loot_table/blocks/potted_grown_allium.json"
+hash = "bc54f98eccc83ec33414c3dc5b3ff163399fd355423b537ad5f8ecff8e4cc30e"
+
+[[files]]
+file = "resources/pack_resources/data/bushierflowers/loot_table/blocks/potted_grown_azure_bluet.json"
+hash = "3ca1f00e3c911eb69656230fa95d5de0833d4fb100651ffd83ed2d11a99a000a"
+
+[[files]]
+file = "resources/pack_resources/data/bushierflowers/loot_table/blocks/potted_grown_blue_orchid.json"
+hash = "e9b9dff2cb89d71b7db219a31a66562a1e3d01379420acea025a58ec431d1913"
+
+[[files]]
+file = "resources/pack_resources/data/bushierflowers/loot_table/blocks/potted_grown_cornflower.json"
+hash = "7d4963b9886a077d317132840a8a44be2af497d2fb2a090c02143b2ed0174e6b"
+
+[[files]]
+file = "resources/pack_resources/data/bushierflowers/loot_table/blocks/potted_grown_dandelion.json"
+hash = "c0cd0e7e7ab6770b46a95ac68d8fd1fa47d1f54fa780708f59f9080c0f632ba6"
+
+[[files]]
+file = "resources/pack_resources/data/bushierflowers/loot_table/blocks/potted_grown_lily.json"
+hash = "d69a360574a29dc70639147a467e91259347a818773e67d776b274a06349e033"
+
+[[files]]
+file = "resources/pack_resources/data/bushierflowers/loot_table/blocks/potted_grown_orange_tulip.json"
+hash = "6ddd276ada300a7b982c3074cd3b0f1b95d9e1c8e142020c40d1570f6d1884a2"
+
+[[files]]
+file = "resources/pack_resources/data/bushierflowers/loot_table/blocks/potted_grown_oxeye_daisy.json"
+hash = "6b0d2458408f54a99834b02ac03def13b926001f47c28970065f0424b7353e19"
+
+[[files]]
+file = "resources/pack_resources/data/bushierflowers/loot_table/blocks/potted_grown_pink_tulip.json"
+hash = "51cb88dc5729ae5ef23c36d5103e83fc8b97b6e5bfecc66d2252c3614acc2368"
+
+[[files]]
+file = "resources/pack_resources/data/bushierflowers/loot_table/blocks/potted_grown_poppy.json"
+hash = "5830a85fb8b1011035169afafd9dfcfbef9e8068ee642b88547d0e529bdf3915"
+
+[[files]]
+file = "resources/pack_resources/data/bushierflowers/loot_table/blocks/potted_grown_red_tulip.json"
+hash = "1b9fbb07161c3c90cb026d783b9d24356b22ec702714292883b6883000fb3070"
+
+[[files]]
+file = "resources/pack_resources/data/bushierflowers/loot_table/blocks/potted_grown_torchflower.json"
+hash = "45446af601704b7ea6df0663f2121fc47fcf4e412599ee87d941790e98703e86"
+
+[[files]]
+file = "resources/pack_resources/data/bushierflowers/loot_table/blocks/potted_grown_white_tulip.json"
+hash = "dcf64d3253ae696aabb333f324aa8b9a922de04eb6f100609c785238f723b275"
+
+[[files]]
+file = "resources/pack_resources/data/bushierflowers/loot_table/blocks/potted_grown_wither_rose.json"
+hash = "90491f852486d652670d9d4b00b32dc729802b6ca54ded2ac010e267bc5ad9bd"
 
 [[files]]
 file = "resources/pack_resources/data/create/recipe/refined_radiance_casing_log.json"
