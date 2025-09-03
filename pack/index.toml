@@ -377,6 +377,11 @@ hash = "7f25446123f66f57e7cc8e148155a3da39d85b31963c663b5b9be77fc1bacbe6"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "0f549e18a1a7fa4ef7370bab5ddf6e9bfa373c45c086507161e030ccd4e9ac69"
+metafile = true
+
+[[files]]
 file = "mods/creeper-overhaul.pw.toml"
 hash = "cd4c4ec6ef26d2b61e0cb0bdd398e8d528b88ebf739fc0898bc8cb2f7a88debb"
 metafile = true
@@ -1092,6 +1097,16 @@ metafile = true
 [[files]]
 file = "mods/universal-sawmill.pw.toml"
 hash = "ebf8e5f15bcfb119711316da950cb65953979b70adcdcfd0e453d3088e9982fd"
+metafile = true
+
+[[files]]
+file = "mods/waterframes.pw.toml"
+hash = "4db8b9515c7e66ced81f9d149c1e73e2336eb6ce3125250f6ae943df5406e665"
+metafile = true
+
+[[files]]
+file = "mods/watermedia.pw.toml"
+hash = "adc8c80920c785643e6601cc62e8dc107423b0c9c16788db3f21146ff905f811"
 metafile = true
 
 [[files]]
