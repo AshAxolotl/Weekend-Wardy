@@ -13,6 +13,10 @@ file = "config/comforts-server.toml"
 hash = "1b14431f3d46cdefd0c03077179b78f4b8b9e8cec6f436a924990fa1ef10c211"
 
 [[files]]
+file = "config/companions.toml"
+hash = "5881fc1951bda4b17602dcb3bd828245668cbc0030fcdcfa099eebec53c25275"
+
+[[files]]
 file = "config/create-server.toml"
 hash = "6598efa2380b650b50c681801be623773bc0b0c9efdf377a206a8788aceabafd"
 
