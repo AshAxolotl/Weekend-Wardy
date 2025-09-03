@@ -114,7 +114,7 @@ hash = "e9c801138bdb14e0688c22f5aca5eb671d72a017b98ae28bbcc38ae2a8bea76f"
 
 [[files]]
 file = "config/watut-server.toml"
-hash = "46f36eab309313f904ff8b6581e1f74a3017bc513fc3877f44f96e2a93cbf879"
+hash = "c12fbb40d4909519336b18e35ec72529f30c07cfd948127971f7ecac97c7362c"
 
 [[files]]
 file = "mods/accessories-cc-layer.pw.toml"
