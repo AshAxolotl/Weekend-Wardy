@@ -1159,8 +1159,16 @@ hash = "c5fc88bdd6b5aa32ec8ffe7f4cc8f644589ee811e01ae0043fdec76ec2aafbe0"
 metafile = true
 
 [[files]]
+file = "resourcepacks/VanillaTweaks_GAY_MC1.21.x.zip"
+hash = "5c8408b13a5339ae78ee688945c7ece0696b07c5da76180a0445d5d310a0b1f3"
+
+[[files]]
 file = "resources/Ghastly Jackson.zip"
 hash = "6dc1dcd7c15e76cb56cb82679c8f4281d0ee5b00b40bf4d2773e73a0067291dd"
+
+[[files]]
+file = "resources/VanillaTweaks_Small_Tweaks_MC1.21.x.zip"
+hash = "16d3fe8533e16949a561b54e2697839f46eab21443b222cdac123f4623ffb782"
 
 [[files]]
 file = "resources/anti enderman grief v1.1.13 (MC 1.21-1.21.8).zip"
