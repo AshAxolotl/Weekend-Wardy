@@ -1,13 +1,13 @@
 name = "Emotecraft"
-filename = "emotecraft-for-MC1.21.1-2.4.10-neoforge.jar"
+filename = "emotecraft-for-MC1.21.1-2.4.12-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/pZ2wrerK/versions/bL1hNBpd/emotecraft-for-MC1.21.1-2.4.10-neoforge.jar"
+url = "https://cdn.modrinth.com/data/pZ2wrerK/versions/fu6N0NgM/emotecraft-for-MC1.21.1-2.4.12-neoforge.jar"
 hash-format = "sha512"
-hash = "59724e71b93a5b98535a5995e5b20cbadabddc27552f5b385e1637c2b31e97ef6821961b244a3f515b5f8ce9b7031e7a4709b5575f9c1db69a7f7a47e59b3b3e"
+hash = "b9e59249f1fd2ad33c042561bdcebad74b3c1c82de86e4e11d0066e500c0c231ddf79487685367b47386370c8f7c763138ab5ba3f84d03e3b87667ecd2576dd1"
 
 [update]
 [update.modrinth]
 mod-id = "pZ2wrerK"
-version = "bL1hNBpd"
+version = "fu6N0NgM"
