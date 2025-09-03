@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "spring_to_life:eggs"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:feather"
+    }
+  ]
+}

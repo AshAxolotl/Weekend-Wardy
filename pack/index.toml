@@ -1491,6 +1491,10 @@ file = "resources/pack_resources/data/custom/recipe/chromatic_compound.json"
 hash = "59d9e07df28cd685fd44c06c78fba93261f1ea83f34f0491480f23a35286bc4b"
 
 [[files]]
+file = "resources/pack_resources/data/custom/recipe/egg_to_feather.json"
+hash = "b86ed5bf21292ac14aa724a6a7cd129f8378b2e2b0d42a8d311f57134dea5557"
+
+[[files]]
 file = "resources/pack_resources/data/custom/recipe/spirit_essence.json"
 hash = "f7a92785f2abf7dcd44156c46ef2337d118e3b73dc000a99f6d255552da1139f"
 
