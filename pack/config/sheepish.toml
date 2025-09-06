@@ -1,0 +1,24 @@
+# Allow players to eat food regardless of hunger bar fullness
+# default: false
+alwaysEat = false
+# Disable Actually Additions and Farmer's Delight JEI plugins
+# default: false
+disableJeiPlugins = true
+# Disable custom splash texts from Blueprint, Bountiful Fares, and FrozenLib
+# default: false
+disableSplashes = false
+# From Fabrication: "When dropping items of the same type they don't merge into a bigger stack."
+# default: false
+droppedItemsDoNotStack = false
+# Enable Emojiful's pixelated Twemoji set, without the "Blobs", "Discord", or "Pepe" categories
+# Requires "Emojiful.EmojiTypes.custom = false" in "emojiful-client.toml"
+# default: false
+emojifulPixelatedTwemoji = false
+# Prevent AbstractHorse offspring from having lesser stats than either of its parents
+# default: false
+horseStonks = true
+# Enchantments to ignore when randomly enchanting loot
+ignoredEnchantments = ["nova_structures:boss_behavior", "nova_structures:shulker_boss", "nova_structures:shulker_miniboss", "pastel:big_catch", "pastel:clovers_favor", "pastel:disarming", "pastel:exuberance", "pastel:first_strike", "pastel:foundry", "pastel:improved_critical", "pastel:indestructible", "pastel:inertia", "pastel:inexorable", "pastel:inventory_insertion", "pastel:pest_control", "pastel:razing", "pastel:resonance", "pastel:serendipity_reel", "pastel:sniping", "pastel:steadfast", "pastel:tight_grip", "pastel:treasure_hunter", "pastel:voiding"]
+# Prevent all entities from trampling farmland
+# default: false
+noTrample = false

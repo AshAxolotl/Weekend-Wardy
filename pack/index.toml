@@ -109,6 +109,10 @@ file = "config/ribbits-neoforge-1_21_1.toml"
 hash = "f5c48a20d96e8cc0258b849546b460e7c503e443c422d4e417775258cb9f1da1"
 
 [[files]]
+file = "config/sheepish.toml"
+hash = "5c14a0c322bcc723c57a041f5222a12ae4c54196ce45eb8d1521b0ff0efbde92"
+
+[[files]]
 file = "config/sophisticatedbackpacks-server.toml"
 hash = "40ee0bfcbfdc81cf63dd9f9b44cf8d5559384daaccc1870ef289f751da814185"
 
@@ -914,6 +918,10 @@ hash = "d610540ab8d81af8b6aa292aed319c7cb7bb60c55b56ecf8b2af889e4ca327a3"
 metafile = true
 
 [[files]]
+file = "mods/partytrick-1.0.0-dev.jar"
+hash = "e4bc60b03b4f8878e870e7321345ede670518a1ad51e626e0f55e38a971fada8"
+
+[[files]]
 file = "mods/pastel-mod.pw.toml"
 hash = "53f6bd232f7f504d99d060e111a28513c401a4372d1a946d10f7ab54c5d6a618"
 metafile = true
@@ -1046,6 +1054,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
+file = "mods/splinecart.pw.toml"
+hash = "66f3e982c29d4204afc8593f050f3fe3478f286b639e1404bbdb64bda3ad0406"
 metafile = true
 
 [[files]]
