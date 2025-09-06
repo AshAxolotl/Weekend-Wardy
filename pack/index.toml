@@ -918,10 +918,6 @@ hash = "d610540ab8d81af8b6aa292aed319c7cb7bb60c55b56ecf8b2af889e4ca327a3"
 metafile = true
 
 [[files]]
-file = "mods/partytrick-1.0.0-dev.jar"
-hash = "d8f6bee55acfcffd91b0d7c0a8f693157a671eb42aa42cb7c66726aca03955c4"
-
-[[files]]
 file = "mods/pastel-mod.pw.toml"
 hash = "53f6bd232f7f504d99d060e111a28513c401a4372d1a946d10f7ab54c5d6a618"
 metafile = true
