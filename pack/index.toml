@@ -919,7 +919,7 @@ metafile = true
 
 [[files]]
 file = "mods/partytrick-1.0.0-dev.jar"
-hash = "e4bc60b03b4f8878e870e7321345ede670518a1ad51e626e0f55e38a971fada8"
+hash = "f98f6515439e4655bdea07da4229c8e1a8948566439a605dcc954dfece20f631"
 
 [[files]]
 file = "mods/pastel-mod.pw.toml"
