@@ -1181,10 +1181,6 @@ file = "resources/Ghastly Jackson.zip"
 hash = "6dc1dcd7c15e76cb56cb82679c8f4281d0ee5b00b40bf4d2773e73a0067291dd"
 
 [[files]]
-file = "resources/VanillaTweaks_Portal.zip"
-hash = "270421fc4fb8d13c15c80a2f69faabe34267120b774c0f6e787e5b744d8aa077"
-
-[[files]]
 file = "resources/VanillaTweaks_Small_Tweaks_1.1_MC1.21.x.zip"
 hash = "f11446fa15becbb0b7d811e7999eae7517f50baa7a580ca042b1f45f9e1a5b5c"
 
@@ -1195,6 +1191,10 @@ hash = "49eeeb41dcc462672e2cb2666fa753940daaa1a75db9ad036f5a39e138fff6e3"
 [[files]]
 file = "resources/armor statues v2.8.19 (MC 1.21-1.21.8).zip"
 hash = "6dfb645614f4054372bd886627f7c36b245ddf167e1b614d8c3f03c204516e44"
+
+[[files]]
+file = "resources/custom nether portals v2.3.16 (MC 1.21-1.21.8).zip"
+hash = "b9d05852f83792d1f849c3da25eda7b993a8096d1347013fe2f5ba0a362d142e"
 
 [[files]]
 file = "resources/legacies/data/creature/function/change_size.mcfunction"
