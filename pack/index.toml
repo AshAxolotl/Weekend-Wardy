@@ -1,7 +1,7 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/audioplayer-server.properties"
+file = "config/audioplayer/audioplayer-server.properties"
 hash = "6a75c15652e1eed2ce656fbe6d764967fabd44de0bd7d97847135e36c52993da"
 
 [[files]]
@@ -1179,6 +1179,10 @@ hash = "5c8408b13a5339ae78ee688945c7ece0696b07c5da76180a0445d5d310a0b1f3"
 [[files]]
 file = "resources/Ghastly Jackson.zip"
 hash = "6dc1dcd7c15e76cb56cb82679c8f4281d0ee5b00b40bf4d2773e73a0067291dd"
+
+[[files]]
+file = "resources/VanillaTweaks_Portal.zip"
+hash = "270421fc4fb8d13c15c80a2f69faabe34267120b774c0f6e787e5b744d8aa077"
 
 [[files]]
 file = "resources/VanillaTweaks_Small_Tweaks_1.1_MC1.21.x.zip"
