@@ -6,7 +6,7 @@ hash = "7ef4d8abfd9f56f61ff9c0f5722b6768e09b9a2a31ac73ba330791ded2d0a43c"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "c11dfd819bdde9ee61d3b321ae6bea62469ab21a45acec21460f4b72b459e6e3"
+hash = "4a8b4617d1b2fd67516bb4562329de75f6a16a3f44c27150e0ae5e29aa77cc01"
 
 [[files]]
 file = "config/comforts-server.toml"
