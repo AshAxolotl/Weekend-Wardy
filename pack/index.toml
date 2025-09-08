@@ -121,6 +121,10 @@ file = "config/styledplayerlist/styles/default.json"
 hash = "e9c801138bdb14e0688c22f5aca5eb671d72a017b98ae28bbcc38ae2a8bea76f"
 
 [[files]]
+file = "config/transmog.json"
+hash = "32dc3ac1fa365cdb995745924a850b8f36c11621e092d305ded2cb780dad7f0f"
+
+[[files]]
 file = "config/watut-server.toml"
 hash = "c12fbb40d4909519336b18e35ec72529f30c07cfd948127971f7ecac97c7362c"
 
