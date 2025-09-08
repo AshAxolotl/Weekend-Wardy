@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/audioplayer/audioplayer-server.properties"
-hash = "6a75c15652e1eed2ce656fbe6d764967fabd44de0bd7d97847135e36c52993da"
+hash = "7ef4d8abfd9f56f61ff9c0f5722b6768e09b9a2a31ac73ba330791ded2d0a43c"
 
 [[files]]
 file = "config/carryon-common.toml"
