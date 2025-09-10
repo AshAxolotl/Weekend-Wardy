@@ -101,6 +101,10 @@ file = "config/malum-common.toml"
 hash = "baf4fff6aac2588e3532192353cb48076a15200f45a121686313f4d3b7e313f3"
 
 [[files]]
+file = "config/nickname.json"
+hash = "d31a65db93f1b2525b46e6f1091f9043482b058fd9d14a789342c93beda485c9"
+
+[[files]]
 file = "config/openloader/options.json"
 hash = "b5ba0c42a2d5aff3746372fc027261b9d1f1e05104cc97bd3a74893f1106fcf9"
 
@@ -256,6 +260,11 @@ metafile = true
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "23fa7746f7e0d4a3b6fcb176ab05b923d3a1f7553d349339567abcfec77295b4"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "e1e2cc528cc5bca494254c26e849d6f8f9cb4a1305061ae9c86dcd3d48d4920b"
 metafile = true
 
 [[files]]
@@ -957,6 +966,11 @@ hash = "0be3dd7fe4d4733852cf3bda719b5ba74617ef90da99f1b5d1e52889d74f9f2c"
 metafile = true
 
 [[files]]
+file = "mods/real-nicknames.pw.toml"
+hash = "4e8e3db112664fdf999ef70e744446e83b5035b3ee2fe8f839a1a1e4a3e0711c"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
@@ -1099,6 +1113,11 @@ metafile = true
 [[files]]
 file = "mods/surveyor.pw.toml"
 hash = "a9c96b9fef877ea4501b772c104da6e52e01a09590ea434ff43824dbd23d9691"
+metafile = true
+
+[[files]]
+file = "mods/swingthrough.pw.toml"
+hash = "2f05b23513f7682101e2ab609964833f1b4e8557a3c9b272f7c51d9dfa7ad254"
 metafile = true
 
 [[files]]

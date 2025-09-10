@@ -1,0 +1,13 @@
+name = "Real Nicknames"
+filename = "nickname-1.2-1.21.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aleiskI5/versions/FEbKo2ad/nickname-1.2-1.21.1-fabric.jar"
+hash-format = "sha512"
+hash = "4706ee9898ae045519d98c4d1b5838895242bf2e9e010ea808aee7d0a7bc261ea313fc94a2777a6d17a5924e9c9103060242078c583160cc2f1a5f17c4a252d1"
+
+[update]
+[update.modrinth]
+mod-id = "aleiskI5"
+version = "FEbKo2ad"
