@@ -1006,6 +1006,10 @@ hash = "33ca75fe81ded60a2459af53f89dca2079fcda62ffe49b9f2138a84c19c99505"
 metafile = true
 
 [[files]]
+file = "mods/sheepish-10.2.1.jar"
+hash = "ceaf00386f784370172f365a319a96744db1b666755cca2a0d90de387ec0a40c"
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "e75a92a9c6285a8015b37fb673d4799b8d8531ed81af2ccdf9214b76b8fb7b26"
 metafile = true
