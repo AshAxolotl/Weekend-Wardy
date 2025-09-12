@@ -960,6 +960,11 @@ hash = "19ffa177e6699b954f9d1ee2852caa8cca77ad86be761e8cf8905ea3f8e25f7f"
 metafile = true
 
 [[files]]
+file = "mods/qliphoth-awakening.pw.toml"
+hash = "423ea4e5e01f8108a8086f223f4fe3fd0946f0452de9de4f14c66e8e0c9871e7"
+metafile = true
+
+[[files]]
 file = "mods/quad.pw.toml"
 hash = "92e1e5d22e071ae1d5b17984905eae081809bd946ecf48614ff8312aa8308b69"
 metafile = true
