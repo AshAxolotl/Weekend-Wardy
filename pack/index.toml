@@ -219,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "c51f5bc71fff2b0df7420b1c3df9f68cadb2572f6d8df239734db83c186b6715"
+hash = "3f547b77df4069e4f1ab37d3672f2cc666f07b37af56718a7ba3b7187f78f08d"
 metafile = true
 
 [[files]]
@@ -309,7 +309,7 @@ metafile = true
 
 [[files]]
 file = "mods/companions-mod.pw.toml"
-hash = "5ac33eed779c048fe8bcebde5078bd19526eec1a2ea1e92f4a2fa484c763d179"
+hash = "38c8c8190c8131b102d57316ac4f24a2531f8d86919feefcbd5a79981d7ba1db"
 metafile = true
 
 [[files]]
@@ -354,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/crabbers-delight.pw.toml"
-hash = "cd66e48a19b8447ef66c6148bbcd5ecb363f4a7b472dba385b4b790feae0ad0f"
+hash = "9ed93e536bde86ee71b1ab0056380ccbc9d89628684cf11be97b9b060bbdd108"
 metafile = true
 
 [[files]]
@@ -409,7 +409,7 @@ metafile = true
 
 [[files]]
 file = "mods/critters-and-companions.pw.toml"
-hash = "7cbacd85c3127239f970aabd4e64b9b4b556ee62ebe714b9805ddf57932d5f60"
+hash = "96a87e8bb594c5aca42b33e45bd02027a1e59bce29975d657b8eb3d764455111"
 metafile = true
 
 [[files]]
@@ -584,12 +584,12 @@ metafile = true
 
 [[files]]
 file = "mods/fdbosses.pw.toml"
-hash = "423ea4e5e01f8108a8086f223f4fe3fd0946f0452de9de4f14c66e8e0c9871e7"
+hash = "6dc592ce0558afc6dc30401853eaaf07940dce3bdbd86643d6075c7c01ba7126"
 metafile = true
 
 [[files]]
 file = "mods/fdlib.pw.toml"
-hash = "965f7c89a98d407737a0fd2c09ca8a1d56e39cef090b5fa48dd12d298be9afd1"
+hash = "ef2b1f8a5872780043c42684d2df891af2ae28f7052a19ec78cd8cda8a4288c3"
 metafile = true
 
 [[files]]
@@ -663,7 +663,7 @@ metafile = true
 
 [[files]]
 file = "mods/horseman.pw.toml"
-hash = "9225cf5a494d46578b9540046027f080e2a4cc32ab933fbc389aae0819b96fa5"
+hash = "eba704628fdff432155269580d8bc3166dbde852c2d7926a9175a425411d326e"
 metafile = true
 
 [[files]]
@@ -723,7 +723,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton-fnp.pw.toml"
-hash = "bd02d4433b0bc805471c464f6fdbc82174feadcd17d2f822dfad9ce47441b309"
+hash = "e5e4c1204b278535538d4e45b3c65e577b37cfb3c17ebae5d136404d6b37fbfb"
 metafile = true
 
 [[files]]
@@ -838,7 +838,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "4bd80c5d92c01cfd9bf5d46c6032bc7d7b35bc1cdc293649702a0f2297ec41a6"
+hash = "b1dc177000d771f2e14d7a836422e8342ff861027670dd4e01dd2704df86a2db"
 metafile = true
 
 [[files]]
@@ -873,7 +873,7 @@ metafile = true
 
 [[files]]
 file = "mods/my-nethers-delight.pw.toml"
-hash = "0cd80499ad61c0617dfee679bb5dcd37870fd2895fd6f2f5fa0ed00b716a84ff"
+hash = "2f6c9613ab64a27f2ba7ab55ed6d7557ffd06dff2d9db7a7e92b2d526e96a466"
 metafile = true
 
 [[files]]
@@ -951,7 +951,7 @@ metafile = true
 
 [[files]]
 file = "mods/prickle.pw.toml"
-hash = "e4c289b0be8f0aa41c81765933b76a0fcf02ead89540f88eff2e472e4e66a166"
+hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
 metafile = true
 
 [[files]]
@@ -996,7 +996,7 @@ metafile = true
 
 [[files]]
 file = "mods/ribbits.pw.toml"
-hash = "efa8d53b3a7144e56b9823c54249fc353828f532808a73e65967d84183874782"
+hash = "3b428da5efd7c9065d9800c4d17f635caf96c435b89b8b4e3e204952f24fe156"
 metafile = true
 
 [[files]]
@@ -1020,7 +1020,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "2aaee059eaa1359a51f8a56a5e9a2e94417f84f13245c766b88b9a90ab683d10"
+hash = "158906efa43038115d87385d1f8b9329d9c5688d43bac0ccd95de7ae8f0a332c"
 metafile = true
 
 [[files]]
@@ -1050,12 +1050,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "d2fc42f160e2f885d39bd173911758b52ae76aae4761e853fe0e16215276d057"
+hash = "c3b518b0d44385c86cd6f21b066f3a4a06c14eeb718f5ee6fcc966cab990d820"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "f952845cc99fdd2b2590a9a9d584b4e3e2ef543f36869443e588c616145c4a51"
+hash = "56fd1abf9d6f1241d25eb35281fd27deec88cdd989859fe4426711d41acc1f0e"
 metafile = true
 
 [[files]]
@@ -1160,7 +1160,7 @@ metafile = true
 
 [[files]]
 file = "mods/universal-sawmill.pw.toml"
-hash = "ebf8e5f15bcfb119711316da950cb65953979b70adcdcfd0e453d3088e9982fd"
+hash = "878fe8a2a245842f0228153630bc320d7b4d7d355673effcfe13c8c9f30933c2"
 metafile = true
 
 [[files]]
@@ -1170,7 +1170,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "adc8c80920c785643e6601cc62e8dc107423b0c9c16788db3f21146ff905f811"
+hash = "0ac001016ee3f739c78c5e944761d75db0d2ca683c321d194825104868d32017"
 metafile = true
 
 [[files]]

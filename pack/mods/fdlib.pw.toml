@@ -1,14 +1,13 @@
 name = "FDLib"
-filename = "fdlib-1.0.1-1.21.1.jar"
+filename = "fdlib-1.0.2-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/LcmGQfK2/versions/DenLi4jY/fdlib-1.0.1-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/LcmGQfK2/versions/zqSybeKm/fdlib-1.0.2-1.21.1.jar"
 hash-format = "sha512"
-hash = "f47f5cb399b664d5969a97d98c7cb44559d8f4ba6374e7fa99b034767d9536d11639ad8dbc88fc0e1a6a8aa24172727204eb50e3411b7e014c71c7f0e3587579"
+hash = "13b784d4b01cd77c5be865a41417e2192e840c9ed07a8eaf280566b74118ce95eb4a6a664296ae883013941216a91f76cebf60beed62f58f44d26bb0011fa2ee"
 
 [update]
 [update.modrinth]
 mod-id = "LcmGQfK2"
-version = "DenLi4jY"
-
+version = "zqSybeKm"

@@ -1,13 +1,13 @@
 name = "Crabber's Delight"
-filename = "crabbersdelight-1.21.1-1.1.10.jar"
+filename = "crabbersdelight-1.21.1-1.2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/gBGdVBJy/versions/ptG64SYO/crabbersdelight-1.21.1-1.1.10.jar"
+url = "https://cdn.modrinth.com/data/gBGdVBJy/versions/kWxZ13WW/crabbersdelight-1.21.1-1.2.0.jar"
 hash-format = "sha512"
-hash = "1e7aee54a97a71e6e55cdad6fb45e097f3bb25afbe6c91b62696b8ac5df7e471e3b0f089b4202f9a64efbd485ed2981d5f2ddafcef37d3e69fc3e770e4c2b07f"
+hash = "3cc4e33e9beda5702cdc7b85f10746e3638cbf8f105151c7cbf78d49cd3129c91908295919b9a1db477117e8d8d6f8853ea33d8b2c4d28f66ad18a75007b6c31"
 
 [update]
 [update.modrinth]
 mod-id = "gBGdVBJy"
-version = "ptG64SYO"
+version = "kWxZ13WW"
