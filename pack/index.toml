@@ -583,11 +583,6 @@ hash = "44abae510395f12f9ea97b8296b2f72e25f18b9f3f2cc0ee42c0d9afd73fe0b3"
 metafile = true
 
 [[files]]
-file = "mods/fdbosses.pw.toml"
-hash = "6dc592ce0558afc6dc30401853eaaf07940dce3bdbd86643d6075c7c01ba7126"
-metafile = true
-
-[[files]]
 file = "mods/fdlib.pw.toml"
 hash = "ef2b1f8a5872780043c42684d2df891af2ae28f7052a19ec78cd8cda8a4288c3"
 metafile = true
