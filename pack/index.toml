@@ -1560,6 +1560,10 @@ file = "resources/pack_resources/data/custom/recipe/egg_to_feather.json"
 hash = "b86ed5bf21292ac14aa724a6a7cd129f8378b2e2b0d42a8d311f57134dea5557"
 
 [[files]]
+file = "resources/pack_resources/data/custom/recipe/podzol.json"
+hash = "d8c65226d0a7be2e2246e4c259b0f85efbae473cde577c3f79d8afede367b521"
+
+[[files]]
 file = "resources/pack_resources/data/custom/recipe/spirit_essence.json"
 hash = "f7a92785f2abf7dcd44156c46ef2337d118e3b73dc000a99f6d255552da1139f"
 

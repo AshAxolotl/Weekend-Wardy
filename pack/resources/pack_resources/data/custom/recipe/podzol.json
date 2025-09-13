@@ -1,0 +1,12 @@
+{
+  "type": "pastel:humus_converting",
+  "ingredient": [
+    {
+      "item": "minecraft:dirt"
+    }
+  ],
+  "result": {
+    "id": "minecraft:podzol",
+    "count": 1
+  }
+}
