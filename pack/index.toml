@@ -1321,11 +1321,19 @@ hash = "55b73236317794432083f6fec335fd882f96e1d10535976db302fac0e766d0ca"
 
 [[files]]
 file = "resources/legacies/data/the_child/dimension_type/otherside.json"
-hash = "fd2100257640af45094c78b760a1d4ab879eba7ddcc11ca94e8de3b286d63133"
+hash = "9e251678aaadc504bb94e987a8caced5b81102265ddf463fd8d49c564d3eb1fc"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/check_trigger.mcfunction"
 hash = "d776dc83b2c86c43b570b9412d825269316ef8771d6edeaf8db7397159e4205e"
+
+[[files]]
+file = "resources/legacies/data/the_child/function/effects.mcfunction"
+hash = "c1aa08716a40108149423f548fcfdf4a3396de58d74dd303a2a3456621d6bbff"
+
+[[files]]
+file = "resources/legacies/data/the_child/function/effects_clear.mcfunction"
+hash = "28778bf8d7f0361cfaea1b3dfc26c5ff2dbf4a93e92fa50baa333daafac46fe6"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/island.mcfunction"
@@ -1349,7 +1357,7 @@ hash = "a940c9b3b12199ef72ec6e53182d87ad05deed2e2db783e2fcf6bd246e2d23a7"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/tick.mcfunction"
-hash = "739491170e7bd80821f67bf5002f850dd7c16f5327d8186d6ae39a35b7c8b1ca"
+hash = "119a6482e17af0fbfa6b118b22075e7bd79bd2e591fe8dfadd2f6de7859afb7e"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/triggersche.mcfunction"
@@ -1361,7 +1369,7 @@ hash = "4716087ace8592357702bf36493ac49a3f0de990ee9394365937206a95e71dcd"
 
 [[files]]
 file = "resources/legacies/data/the_child/worldgen/biome/empty.json"
-hash = "16b5cf014eec63e8e496ac9eb3385e18ea0e90a3d41e91f3f3311955a74b4b47"
+hash = "f143d449616119412a78e5dcad2c46b4c7e89c0be38524ea6a7abebbaabe431e"
 
 [[files]]
 file = "resources/legacies/pack.mcmeta"
