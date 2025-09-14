@@ -1,0 +1,25 @@
+{
+  "criteria": {
+    "traveled_to": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "the_child:otherside"
+      }
+    },
+    "traveled_from": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "from": "the_child:otherside"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "traveled_from",
+      "traveled_to"
+    ]
+  ],
+  "rewards": {
+    "function": "the_child:effect_check"
+  }
+}

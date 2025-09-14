@@ -1316,6 +1316,10 @@ file = "resources/legacies/data/raccoon/function/team_leave.mcfunction"
 hash = "aa027377804589a58b22b9f8ac38767b580c053bc13f14bff3218061495fdcef"
 
 [[files]]
+file = "resources/legacies/data/the_child/advancement/check_dim.json"
+hash = "777aa9a049d4db9cf272bd55b9155697201c4f3475317170b17c7a81fa50ffc6"
+
+[[files]]
 file = "resources/legacies/data/the_child/dimension/otherside.json"
 hash = "55b73236317794432083f6fec335fd882f96e1d10535976db302fac0e766d0ca"
 
@@ -1326,6 +1330,10 @@ hash = "9e251678aaadc504bb94e987a8caced5b81102265ddf463fd8d49c564d3eb1fc"
 [[files]]
 file = "resources/legacies/data/the_child/function/check_trigger.mcfunction"
 hash = "d776dc83b2c86c43b570b9412d825269316ef8771d6edeaf8db7397159e4205e"
+
+[[files]]
+file = "resources/legacies/data/the_child/function/effect_check.mcfunction"
+hash = "3cb6ba9e971421e6e1cf37da67caf676c207a2f55881227c913acce4546c1cbf"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/effects.mcfunction"
@@ -1357,7 +1365,7 @@ hash = "a940c9b3b12199ef72ec6e53182d87ad05deed2e2db783e2fcf6bd246e2d23a7"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/tick.mcfunction"
-hash = "119a6482e17af0fbfa6b118b22075e7bd79bd2e591fe8dfadd2f6de7859afb7e"
+hash = "739491170e7bd80821f67bf5002f850dd7c16f5327d8186d6ae39a35b7c8b1ca"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/triggersche.mcfunction"
