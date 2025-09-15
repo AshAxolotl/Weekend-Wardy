@@ -1,8 +1,14 @@
 [flavor_groups.jade]
 name = "Jade (shows what you look at)"
 description = "Mod that shows you what you are looking at"
-side = "client"
+side = "both"
 choices = ["jade_on", "jade_off"]
+
+[flavor_groups.axiom]
+name = "Axiom"
+description = "Building tools for creative (not recommend if your not planning on using it)"
+side = "both"
+choices = ["axiom_on", "axiom_off"]
 
 [flavor_groups.fog]
 name = "Fog"
@@ -86,6 +92,8 @@ choices = ["sodium_on", "sodium_off"]
 flavors = "jade_on"
 [metafile.jade-addons-forge]
 flavors = "jade_on"
+[metafile.axiom]
+flavors = "axiom_on"
 [metafile.fog]
 flavors = "fog_on"
 [metafile.aurae]
