@@ -931,8 +931,8 @@ hash = "d610540ab8d81af8b6aa292aed319c7cb7bb60c55b56ecf8b2af889e4ca327a3"
 metafile = true
 
 [[files]]
-file = "mods/partytrick-1.0.0.jar"
-hash = "0cc41543119b6c1a9c63c1546e486e2d5c2856df92c90f15ae9c06269f0e77b5"
+file = "mods/partytrick-1.1.0.jar"
+hash = "e96840bc8f951202dbae9b95c491c7486cbe60d761f706e274a72b32d45aef84"
 
 [[files]]
 file = "mods/pastel-mod.pw.toml"
