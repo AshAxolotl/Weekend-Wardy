@@ -114,7 +114,7 @@ hash = "f5c48a20d96e8cc0258b849546b460e7c503e443c422d4e417775258cb9f1da1"
 
 [[files]]
 file = "config/sheepish.toml"
-hash = "5c14a0c322bcc723c57a041f5222a12ae4c54196ce45eb8d1521b0ff0efbde92"
+hash = "67776a620ddf8d32bab19fd72edd30bf6984858934ff0cfcb0fea2bb08b36e3c"
 
 [[files]]
 file = "config/sophisticatedbackpacks-server.toml"

@@ -3,7 +3,7 @@
 alwaysEat = false
 # Disable Actually Additions and Farmer's Delight JEI plugins
 # default: false
-disableJeiPlugins = true
+disableJeiPlugins = false
 # Disable custom splash texts from Blueprint, Bountiful Fares, and FrozenLib
 # default: false
 disableSplashes = false
