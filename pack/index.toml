@@ -293,6 +293,16 @@ hash = "c390e2533e854690085d2a455d192e22817532f8e1400f498f4312ee5dfdda50"
 metafile = true
 
 [[files]]
+file = "mods/cit-resewn-neopatcher.pw.toml"
+hash = "2845c5e3f38068f06a51bfe759dfb683f810d3737f88e332470a1c4c30ffad74"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
@@ -1002,6 +1012,11 @@ metafile = true
 [[files]]
 file = "mods/ribbits.pw.toml"
 hash = "3b428da5efd7c9065d9800c4d17f635caf96c435b89b8b4e3e204952f24fe156"
+metafile = true
+
+[[files]]
+file = "mods/rp-renames.pw.toml"
+hash = "611410b3e6491e22d4b6d26ec4e27cb6bb82f371ef46b907e0e9fed26489e771"
 metafile = true
 
 [[files]]
