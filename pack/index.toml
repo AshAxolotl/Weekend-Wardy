@@ -328,6 +328,11 @@ hash = "38c8c8190c8131b102d57316ac4f24a2531f8d86919feefcbd5a79981d7ba1db"
 metafile = true
 
 [[files]]
+file = "mods/configurable.pw.toml"
+hash = "abf6af8c6879dc13e54ca1aa55bc3f3c88bd9bd1478448a524e595d7e64795d9"
+metafile = true
+
+[[files]]
 file = "mods/configuration.pw.toml"
 hash = "1a3eaa6747c1467a235ee17c29c5e0b264ecb3ac1108d2f794d803b95be92660"
 metafile = true
@@ -889,6 +894,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "abfc8909de1c851ccf4ef296e05d1017332a21fef76fd1f938828fcff925115b"
+metafile = true
+
+[[files]]
+file = "mods/neruina.pw.toml"
+hash = "c70d45477bff728055e7fbf7bdcfe015793ae57bfe65271deae5d7a083c9a711"
 metafile = true
 
 [[files]]
@@ -1657,4 +1667,4 @@ hash = "ea4c53eb465ae4fc6d4d2c5c6aa2a3d8e026e3ba928edd2bd266db7202d2fd2a"
 
 [[files]]
 file = "unsup.toml"
-hash = "219fd768b0684dc3b92a01cd6edcdbf77dc4f15e5304ec48a0136d3ef5054f87"
+hash = "e043242cc6739c42013ff1afd969f9d9f115011568f765eb1a2d87eb91d427d9"

@@ -88,6 +88,12 @@ description = "Disable if it breaks things for you but it shouldnt"
 side = "client"
 choices = ["sodium_on", "sodium_off"]
 
+[flavor_groups.neruina]
+name = "Neruina"
+description = "Fix ticking crashs. May cause more lag(?)"
+side = "both"
+choices = ["neruina_off", "neruina_on"]
+
 [metafile.jade]
 flavors = "jade_on"
 [metafile.jade-addons-forge]
@@ -128,3 +134,7 @@ flavors = "sodium_on"
 flavors = "sodium_on"
 [metafile.reeses-sodium-options]
 flavors = "sodium_on"
+[metafile.neruina]
+flavors = "neruina_on"
+[metafile.configurable]
+flavors = "neruina_on"
