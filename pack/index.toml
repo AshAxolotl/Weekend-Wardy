@@ -1666,5 +1666,10 @@ file = "resources/silence mobs v1.2.7 (MC 1.21-1.21.8).zip"
 hash = "ea4c53eb465ae4fc6d4d2c5c6aa2a3d8e026e3ba928edd2bd266db7202d2fd2a"
 
 [[files]]
+file = "resources/startastic-hats.pw.toml"
+hash = "b24a2ef39d8e82e196d5548e4f6c30ffe253cd927bf58fd6cd8d2dbd9b8fa38b"
+metafile = true
+
+[[files]]
 file = "unsup.toml"
 hash = "e043242cc6739c42013ff1afd969f9d9f115011568f765eb1a2d87eb91d427d9"

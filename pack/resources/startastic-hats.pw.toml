@@ -1,0 +1,13 @@
+name = "Startastic Hats CIT"
+filename = "startastic-hats-v1-0-7.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Jiiv4sJR/versions/IQwlig3l/startastic-hats-v1-0-7.zip"
+hash-format = "sha512"
+hash = "c10053f6abc127f5cdcff34263934dbd799a3b771a6a1fd3e8933c0e8a0da4ccae377fbc579c9079ca8b396320ad200ec8deb9420b7751a4c3c1cd4273cd4178"
+
+[update]
+[update.modrinth]
+mod-id = "Jiiv4sJR"
+version = "IQwlig3l"
