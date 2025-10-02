@@ -1219,6 +1219,11 @@ hash = "878fe8a2a245842f0228153630bc320d7b4d7d355673effcfe13c8c9f30933c2"
 metafile = true
 
 [[files]]
+file = "mods/urban-decor.pw.toml"
+hash = "0127ae9fda0c4d22c1bb339b1c45d2805aadb2e1961f6c652d1707995416934d"
+metafile = true
+
+[[files]]
 file = "mods/waterframes.pw.toml"
 hash = "4db8b9515c7e66ced81f9d149c1e73e2336eb6ce3125250f6ae943df5406e665"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Urban Decor"
+filename = "neoforge-urban_decor-1.21.1-1.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1bLZdx1u/versions/jgQnPE2Z/neoforge-urban_decor-1.21.1-1.0.7.jar"
+hash-format = "sha512"
+hash = "f989b8ac522951b777b3b9c0dbdd2ccd0cbc430b6a8bbf04ae84e61827b19b47c9edfd572cfe0bcb363acdd47f728eec2bbaf04d35943294b83f33ea5dc6eebd"
+
+[update]
+[update.modrinth]
+mod-id = "1bLZdx1u"
+version = "jgQnPE2Z"
