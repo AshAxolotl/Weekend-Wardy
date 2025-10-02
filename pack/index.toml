@@ -218,6 +218,11 @@ hash = "1491f3622bf53e701301596984b0315a93a6d25641785b7432e21bf625dfd224"
 metafile = true
 
 [[files]]
+file = "mods/autumnity.pw.toml"
+hash = "5684ca149889a704c30a4f4b39901ca3e4cefe22360525a4f6b8d72b8bedb903"
+metafile = true
+
+[[files]]
 file = "mods/axiom.pw.toml"
 hash = "6f291ae45dc36aa3c8d4e1fa2ebc3ca7eab8b5762b317cb47393af62134fdbb3"
 metafile = true
@@ -240,6 +245,11 @@ metafile = true
 [[files]]
 file = "mods/better-clouds.pw.toml"
 hash = "ae7a6e0d2a6deb6e6f27f322c12f8102034ff55c02a31f2a2631fdfab7113d2b"
+metafile = true
+
+[[files]]
+file = "mods/blueprint.pw.toml"
+hash = "f45bde04c8cc141077ebea59194d9dd9327917223206c70346589bd4cd466254"
 metafile = true
 
 [[files]]
@@ -505,6 +515,11 @@ metafile = true
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "b9244dca740d333c22f3425991fdd2fd40d3ae12384079a40a6fb7d4bca18a18"
+metafile = true
+
+[[files]]
+file = "mods/dungeons_delight.pw.toml"
+hash = "13aa84de24e1828160485ce3280f7c469591c63d2bebb9dd8c10d36f59190c15"
 metafile = true
 
 [[files]]
@@ -1027,6 +1042,11 @@ metafile = true
 [[files]]
 file = "mods/rp-renames.pw.toml"
 hash = "611410b3e6491e22d4b6d26ec4e27cb6bb82f371ef46b907e0e9fed26489e771"
+metafile = true
+
+[[files]]
+file = "mods/runiclib.pw.toml"
+hash = "83108a6c53c80936870d7c44a83395d0bf48842f5c38e8ef25b42e4b8d80be9b"
 metafile = true
 
 [[files]]
