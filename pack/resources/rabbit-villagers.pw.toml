@@ -1,0 +1,13 @@
+name = "Rabbit Villagers"
+filename = "RabbitVillager v.2.0 1.21.8.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vMyC2JTv/versions/ICAXVBYj/RabbitVillager%20v.2.0%201.21.8.zip"
+hash-format = "sha512"
+hash = "f2df98f3e4d57645ad3bb918208c51c12988cf52d5deae5e241a722cdb5fad81b8b42d9208257b8bafebdb262857a30491af53cb7e89ec0b77ba7d221396de1c"
+
+[update]
+[update.modrinth]
+mod-id = "vMyC2JTv"
+version = "ICAXVBYj"

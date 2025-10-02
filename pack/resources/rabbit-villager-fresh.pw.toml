@@ -1,0 +1,13 @@
+name = "Rabbit Villager Add-ons"
+filename = "FreshRabbitVillager v.2.0 1.21.8.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9dYqq6oG/versions/lzjtgkAj/FreshRabbitVillager%20v.2.0%201.21.8.zip"
+hash-format = "sha512"
+hash = "587944319785863083b106cb6da4db7a05d2f3c0c410be3c7fac7ee61b28795c70ae3fdf871ca2a21e262501b8ae4df6115ddf8476538fd976568e952fb4ee33"
+
+[update]
+[update.modrinth]
+mod-id = "9dYqq6oG"
+version = "lzjtgkAj"

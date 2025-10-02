@@ -1,0 +1,13 @@
+name = "Rabbit Villager Add-ons"
+filename = "Soundpack RabbitVillager v.1.0 1.21.8.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9dYqq6oG/versions/VDQWN6ww/Soundpack%20RabbitVillager%20v.1.0%201.21.8.zip"
+hash-format = "sha512"
+hash = "f6221d7ef52532681d1903f7e346822f7038d2c8f4238e2e02eb7b60edd5286d5776e9db610a87398132669e270c2433027b7363cb8aa687e077ad6bbe8ae454"
+
+[update]
+[update.modrinth]
+mod-id = "9dYqq6oG"
+version = "VDQWN6ww"

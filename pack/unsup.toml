@@ -70,6 +70,12 @@ description = "Dynamic lights for example holding torch in hand gives light"
 side = "client"
 choices = ["presence_footsteps_on", "presence_footsteps_off"]
 
+[flavor_groups.fresh_animations]
+name = "Fresh Animations"
+description = "Resourcepacks for fancier mobs"
+side = "client"
+choices = ["fresh_animations_on", "fresh_animations_off"]
+
 [flavor_groups.iris]
 name = "Iris"
 description = "Shaders!"
@@ -120,6 +126,14 @@ flavors = "sound_on"
 flavors = "sound_physics_remastered_on"
 [metafile.presence-footsteps]
 flavors = "presence_footsteps_on"
+[metafile.fresh-animations]
+flavors = "fresh_animations_on"
+[metafile.rabbit-villager-fresh]
+flavors = "fresh_animations_on"
+[metafile.dressme-up-fresh]
+flavors = "fresh_animations_on"
+[metafile.dressme-up-vanilla]
+flavors = "fresh_animations_off"
 [metafile.iris]
 flavors = "iris_on"
 [metafile.colorwheel]

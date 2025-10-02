@@ -65,6 +65,10 @@ file = "config/default_files/config/lootr-client.toml"
 hash = "f48de009ea6d133a91166894c674f51acac3793de1017cd27f0cd1efeb1bc345"
 
 [[files]]
+file = "config/default_files/config/rprenames.json"
+hash = "0a1b6fa03c98722bd57601ed6a4685f67ae5a09bf3a9c6b748a6bd38faf59a3c"
+
+[[files]]
 file = "config/default_files/config/shulkerboxtooltip.json5"
 hash = "63039a15cbfe47346ed09ff8784de71fad4c8eeae0fba141bd434642b160a15c"
 
@@ -697,6 +701,11 @@ hash = "0004feab868f7b873c12db05aae0d0dac6c87b497490b48bb66480e7c8d0f340"
 metafile = true
 
 [[files]]
+file = "mods/haunted-harvest.pw.toml"
+hash = "3daeddc367593d77b7087b1b669cf427037deea168d2420fd458a4eff8229cc5"
+metafile = true
+
+[[files]]
 file = "mods/headpat.pw.toml"
 hash = "476cee1d0c5080061c4cc609f692028b118f7084e22dfed8b8f709550465cffc"
 metafile = true
@@ -976,8 +985,9 @@ hash = "d610540ab8d81af8b6aa292aed319c7cb7bb60c55b56ecf8b2af889e4ca327a3"
 metafile = true
 
 [[files]]
-file = "mods/partytrick-1.1.0.jar"
-hash = "e96840bc8f951202dbae9b95c491c7486cbe60d761f706e274a72b32d45aef84"
+file = "mods/partytrick.pw.toml"
+hash = "bca11cc48084a089398f49b08a276c90b7bb2a8d2cacf5c8f348d8a7ea1a68dd"
+metafile = true
 
 [[files]]
 file = "mods/pastel-mod.pw.toml"
@@ -1273,6 +1283,14 @@ file = "resourcepacks/VanillaTweaks_GAY_MC1.21.x.zip"
 hash = "5c8408b13a5339ae78ee688945c7ece0696b07c5da76180a0445d5d310a0b1f3"
 
 [[files]]
+file = "resourcepacks/dressme-up-fesh.zip"
+hash = "7628722f78de626cdcfb22f673115b9af21bc25534290b2af02243c8be0d080e"
+
+[[files]]
+file = "resourcepacks/dressme-up-vanilla.zip"
+hash = "301dba24f453ff7cbf469691538c855880cef004d15853400ccae47d18d09dce"
+
+[[files]]
 file = "resources/Ghastly Jackson.zip"
 hash = "6dc1dcd7c15e76cb56cb82679c8f4281d0ee5b00b40bf4d2773e73a0067291dd"
 
@@ -1289,8 +1307,18 @@ file = "resources/armor statues v2.8.19 (MC 1.21-1.21.8).zip"
 hash = "6dfb645614f4054372bd886627f7c36b245ddf167e1b614d8c3f03c204516e44"
 
 [[files]]
+file = "resources/axolotl-bucket-variants.pw.toml"
+hash = "4ad2af5557d92880ae7a419ee34508503bc3be6f7f39a6c5fc70bf71d791f521"
+metafile = true
+
+[[files]]
 file = "resources/custom nether portals v2.3.16 (MC 1.21-1.21.8).zip"
 hash = "b9d05852f83792d1f849c3da25eda7b993a8096d1347013fe2f5ba0a362d142e"
+
+[[files]]
+file = "resources/fresh-animations.pw.toml"
+hash = "bf6bf356ece200c132c604c1cdd981c8a7baf6a30ed05fa057fdfc0444df779d"
+metafile = true
 
 [[files]]
 file = "resources/legacies/data/creature/function/change_size.mcfunction"
@@ -1697,6 +1725,21 @@ file = "resources/player head drops v1.1.13 (MC 1.21-1.21.8).zip"
 hash = "680725ec91a6a7dd441c9d58032378942b9953d98658fb2c5e72ff1e9351e404"
 
 [[files]]
+file = "resources/rabbit-villager-fresh.pw.toml"
+hash = "3959b252297b7a3f485bcf60b22ff954b640aaf243e6a91b8b74d368559cf113"
+metafile = true
+
+[[files]]
+file = "resources/rabbit-villager-sound.pw.toml"
+hash = "bed03381cfedc7481b5acedee61680b54a0592ae96bcfe970a3258392842daba"
+metafile = true
+
+[[files]]
+file = "resources/rabbit-villagers.pw.toml"
+hash = "44541024e9be409cca022c30e9e5c90bbd90531aaaa9be044ca0a771a5772e1e"
+metafile = true
+
+[[files]]
 file = "resources/silence mobs v1.2.7 (MC 1.21-1.21.8).zip"
 hash = "ea4c53eb465ae4fc6d4d2c5c6aa2a3d8e026e3ba928edd2bd266db7202d2fd2a"
 
@@ -1707,4 +1750,4 @@ metafile = true
 
 [[files]]
 file = "unsup.toml"
-hash = "e043242cc6739c42013ff1afd969f9d9f115011568f765eb1a2d87eb91d427d9"
+hash = "eb746b1ae7a1b5971175d95e5ed1011419b66d9620886aec1efb57486562721c"
