@@ -618,6 +618,11 @@ hash = "44abae510395f12f9ea97b8296b2f72e25f18b9f3f2cc0ee42c0d9afd73fe0b3"
 metafile = true
 
 [[files]]
+file = "mods/fastback.pw.toml"
+hash = "e6b82bbc11d7ac465b320d630a99f2f7c0ad8fea744927285fb93ec5cdca6854"
+metafile = true
+
+[[files]]
 file = "mods/fdlib.pw.toml"
 hash = "7cc385f8d794d22e95f038e30b27bf8634088e6ba75f38cd20be048420662321"
 metafile = true
