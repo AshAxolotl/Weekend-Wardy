@@ -667,6 +667,11 @@ hash = "e00b467d81fc5f35bf7432bc3b5d371281b0719eeae4377854a5f8ca33968190"
 metafile = true
 
 [[files]]
+file = "mods/gallery.pw.toml"
+hash = "abab6d2386547e55cc5efce1c0e64d1f18bb3ce106e2dd011693f70508da6751"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "0f4baadff512e8a9ca8bb1beb36b3fac771f9d6e28de73b39da50548ac6c1ae8"
 metafile = true
