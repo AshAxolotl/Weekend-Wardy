@@ -22,7 +22,7 @@ hash = "6598efa2380b650b50c681801be623773bc0b0c9efdf377a206a8788aceabafd"
 
 [[files]]
 file = "config/creeperoverhaul.jsonc"
-hash = "4694e225a9a328245f0842e0f4a220c725da6ec6e2764a53744c97f7a7584eb7"
+hash = "33bcbfcf31ef5fc5d2b067e35123b0ffc64e9197deee31c6011708482aab6b7d"
 
 [[files]]
 file = "config/default_files/config/accessories.json5"
