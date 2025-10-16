@@ -46,12 +46,6 @@ description = "Dynamic lights for example holding torch in hand gives light"
 side = "client"
 choices = ["dynamic_lights_on", "dynamic_lights_off"]
 
-[flavor_groups.better_clouds]
-name = "Better Clouds"
-description = "Pretty Clouds!!!"
-side = "client"
-choices = ["better_clouds_on", "better_clouds_off"]
-
 [flavor_groups.sound]
 name = "Sound (Mod)"
 description = "Adds a wide range of new and improved sound effects"
@@ -118,8 +112,6 @@ flavors = "particular_on"
 flavors = "explosive_enhancement_on"
 [metafile.lambdynamiclights-unofficial-neoforge]
 flavors = "dynamic_lights_on"
-[metafile.better-clouds]
-flavors = "better_clouds_on"
 [metafile.sound]
 flavors = "sound_on"
 [metafile.sound-physics-remastered]

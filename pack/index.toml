@@ -251,11 +251,6 @@ hash = "fe25ab63de35303ce07384aac9c87ba25fe9dd5b714aa6d60efc47ab9575778c"
 metafile = true
 
 [[files]]
-file = "mods/better-clouds.pw.toml"
-hash = "ae7a6e0d2a6deb6e6f27f322c12f8102034ff55c02a31f2a2631fdfab7113d2b"
-metafile = true
-
-[[files]]
 file = "mods/blueprint.pw.toml"
 hash = "f45bde04c8cc141077ebea59194d9dd9327917223206c70346589bd4cd466254"
 metafile = true
@@ -1754,4 +1749,4 @@ metafile = true
 
 [[files]]
 file = "unsup.toml"
-hash = "eb746b1ae7a1b5971175d95e5ed1011419b66d9620886aec1efb57486562721c"
+hash = "9a8de11871cd0b4fa70501822ef36546e4e706fd9bf4ccf4ee415cacd0c0a822"
