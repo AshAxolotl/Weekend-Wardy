@@ -576,6 +576,16 @@ hash = "ee66efb9eae03c2f060086e26c9d9e4a9fbece4cd1f8fc92dfbf2771f3bad296"
 metafile = true
 
 [[files]]
+file = "mods/end-villager-outpost.pw.toml"
+hash = "cd9d0be82833dacb7377aa42604cdcf254bfc0ef6cb4007e564161a6bdbe851f"
+metafile = true
+
+[[files]]
+file = "mods/endercon.pw.toml"
+hash = "411b7bd2588931befe792fa7a9b99b130d64cd476b939e033eec29dacf66f539"
+metafile = true
+
+[[files]]
 file = "mods/enderman-overhaul.pw.toml"
 hash = "8efa1757432143004e1958e70f01139ed350e85c9d5842346d30ec32231636de"
 metafile = true
