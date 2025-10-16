@@ -637,8 +637,8 @@ hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
 metafile = true
 
 [[files]]
-file = "mods/figura-0.1.5+1.21.1-neoforge-mc-tweaked.jar"
-hash = "b65e2ee83ce6d7f62786f82725ddaaeec919a6323fd9b1fd352cb585456dc0c6"
+file = "mods/figura-0.1.5+1.21.1-neoforge-mc-tweaker.jar"
+hash = "9d9ee6b9f48518da10e84ebdbe5cfc1f90f1b53bdc76dc7bab1dc4d5c4ba6d4a"
 
 [[files]]
 file = "mods/fog.pw.toml"
