@@ -1431,7 +1431,7 @@ hash = "9e251678aaadc504bb94e987a8caced5b81102265ddf463fd8d49c564d3eb1fc"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/check_trigger.mcfunction"
-hash = "d776dc83b2c86c43b570b9412d825269316ef8771d6edeaf8db7397159e4205e"
+hash = "d6277f52a5e4e96f86cd99143810bf76e517ccd26f24218310f3fb2e7d50f999"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/effect_check.mcfunction"
@@ -1451,11 +1451,27 @@ hash = "ba10e77c36d5164c9241e5eaffeee0263b177545cf20423f37926705f3042227"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/load.mcfunction"
-hash = "e4b85a442ecbb971c1e1b6a958efd931999395b8054daf6841ea4d424a407f87"
+hash = "d7a6ced0c8554cedc07dd5f75d8aaff89747387b8dfa88a34240b67ee310374a"
+
+[[files]]
+file = "resources/legacies/data/the_child/function/portal.mcfunction"
+hash = "b3fe97de935d2af00a5cb1b508779807850f84dbdcce7508bd8c9c100f3e2813"
+
+[[files]]
+file = "resources/legacies/data/the_child/function/portal_close.mcfunction"
+hash = "48ee550186406668b3e4822744f0b2a853b602842d986ab092c5beb8ad4c241f"
+
+[[files]]
+file = "resources/legacies/data/the_child/function/portal_math.mcfunction"
+hash = "d40b7a2252a438620a6b455c929f339ff62b194f0d46d477d0ca1bc439db515d"
+
+[[files]]
+file = "resources/legacies/data/the_child/function/portal_shift.mcfunction"
+hash = "d6e3ea0f9433dccb947a165fdd15a1f714ac81f0453c4ff0a920bcb5663cd4b5"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/switch_sides.mcfunction"
-hash = "ce03c3aac5e60fd6446d47e0446838e4f89955d72c0e7e09a41da7ca5233b1f8"
+hash = "e7202d8c71268b0126e3b084534f00d1d1eb9f874bf42e9e7f956dfa31350271"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/team_join.mcfunction"
@@ -1467,7 +1483,7 @@ hash = "a940c9b3b12199ef72ec6e53182d87ad05deed2e2db783e2fcf6bd246e2d23a7"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/tick.mcfunction"
-hash = "739491170e7bd80821f67bf5002f850dd7c16f5327d8186d6ae39a35b7c8b1ca"
+hash = "30eb10821553d6faaef3288e9dcf6cae44182bf16001dab75895635771ac9cdb"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/triggersche.mcfunction"

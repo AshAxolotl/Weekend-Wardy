@@ -1,3 +1,6 @@
+
+# Deprecated function due to addition of porble
+
 # for saving pos and entering
 execute unless entity @s[tag=isInOther] at @s run summon minecraft:marker ~ ~ ~ {"Tags":["isMine"]}
 execute unless entity @s[tag=isInOther] at @s run forceload add ~ ~ ~ ~
