@@ -1,0 +1,1 @@
+$portal create_command_stick $(raw)

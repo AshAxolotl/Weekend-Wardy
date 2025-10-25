@@ -456,6 +456,11 @@ hash = "55078861f033521e0b31923e0ed415f44a48600718e806b0aeaac4bd3df6733c"
 metafile = true
 
 [[files]]
+file = "mods/diagonal-fences.pw.toml"
+hash = "632743d54d410c8b78fb92c94d8f3bb6a7a3faed45171f91e554877f94f82163"
+metafile = true
+
+[[files]]
 file = "mods/display-delight.pw.toml"
 hash = "6ccd106e99f94a45aff55fe8ee356d5cbbd65c6bfbacf5eeaaedfcd2c518e0f4"
 metafile = true
@@ -1024,6 +1029,11 @@ hash = "19ffa177e6699b954f9d1ee2852caa8cca77ad86be761e8cf8905ea3f8e25f7f"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "6812c3faa178cd48c65c5b8e7aeef50bc0b63d8e3b2117065d6179a43d8d3649"
+metafile = true
+
+[[files]]
 file = "mods/qliphoth-awakening.pw.toml"
 hash = "423ea4e5e01f8108a8086f223f4fe3fd0946f0452de9de4f14c66e8e0c9871e7"
 metafile = true
@@ -1418,10 +1428,6 @@ file = "resources/legacies/data/raccoon/function/team_leave.mcfunction"
 hash = "aa027377804589a58b22b9f8ac38767b580c053bc13f14bff3218061495fdcef"
 
 [[files]]
-file = "resources/legacies/data/the_child/advancement/check_dim.json"
-hash = "777aa9a049d4db9cf272bd55b9155697201c4f3475317170b17c7a81fa50ffc6"
-
-[[files]]
 file = "resources/legacies/data/the_child/dimension/otherside.json"
 hash = "55b73236317794432083f6fec335fd882f96e1d10535976db302fac0e766d0ca"
 
@@ -1431,11 +1437,11 @@ hash = "9e251678aaadc504bb94e987a8caced5b81102265ddf463fd8d49c564d3eb1fc"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/check_trigger.mcfunction"
-hash = "d6277f52a5e4e96f86cd99143810bf76e517ccd26f24218310f3fb2e7d50f999"
+hash = "e9e7349819e94ff26ae500c0e986a22aa1e2d0d3238839514b04e7d83626d927"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/effect_check.mcfunction"
-hash = "3cb6ba9e971421e6e1cf37da67caf676c207a2f55881227c913acce4546c1cbf"
+hash = "d998dc78ca0d7acc603e7fec15f2528417a75d34cf1795163d2b6176b25ad51f"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/effects.mcfunction"
@@ -1451,11 +1457,15 @@ hash = "ba10e77c36d5164c9241e5eaffeee0263b177545cf20423f37926705f3042227"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/load.mcfunction"
-hash = "d7a6ced0c8554cedc07dd5f75d8aaff89747387b8dfa88a34240b67ee310374a"
+hash = "66be68efda4d46e03b7891ee72cc655a9509cc6cfbe724206ca72d1af5321525"
+
+[[files]]
+file = "resources/legacies/data/the_child/function/managing.mcfunction"
+hash = "3c39933d08d4c441500f22897439ef8fb593b257f4153f49cae570e152aadb47"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/portal.mcfunction"
-hash = "b3fe97de935d2af00a5cb1b508779807850f84dbdcce7508bd8c9c100f3e2813"
+hash = "a3ef32a00961780e9cfcb87753a986fe4ba041d2ea56a8bced4c99e51cd0e0ee"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/portal_close.mcfunction"
@@ -1467,7 +1477,7 @@ hash = "d40b7a2252a438620a6b455c929f339ff62b194f0d46d477d0ca1bc439db515d"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/portal_shift.mcfunction"
-hash = "d6e3ea0f9433dccb947a165fdd15a1f714ac81f0453c4ff0a920bcb5663cd4b5"
+hash = "90a50b6a2b71937600cf026962914644177e8979c17ad70bf0f5bf8e543d8630"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/switch_sides.mcfunction"
@@ -1484,10 +1494,6 @@ hash = "a940c9b3b12199ef72ec6e53182d87ad05deed2e2db783e2fcf6bd246e2d23a7"
 [[files]]
 file = "resources/legacies/data/the_child/function/tick.mcfunction"
 hash = "30eb10821553d6faaef3288e9dcf6cae44182bf16001dab75895635771ac9cdb"
-
-[[files]]
-file = "resources/legacies/data/the_child/function/triggersche.mcfunction"
-hash = "c797c650ce1aa509061ebf766b8e167f5ffe649b80dd273246e2303e91d9cae1"
 
 [[files]]
 file = "resources/legacies/data/the_child/structure/other_island.nbt"
