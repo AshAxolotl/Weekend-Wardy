@@ -1441,15 +1441,15 @@ hash = "e9e7349819e94ff26ae500c0e986a22aa1e2d0d3238839514b04e7d83626d927"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/effect_check.mcfunction"
-hash = "d998dc78ca0d7acc603e7fec15f2528417a75d34cf1795163d2b6176b25ad51f"
+hash = "6ab991e511bc0d6d8b4bd5fb8954e8aca867aa4ffd952ce4583ffbcbeaa364e1"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/effects.mcfunction"
-hash = "c1aa08716a40108149423f548fcfdf4a3396de58d74dd303a2a3456621d6bbff"
+hash = "d16f83bd14ebfbf5eede4d082053e77314c7900ffebbc6efca70dca482a8f907"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/effects_clear.mcfunction"
-hash = "28778bf8d7f0361cfaea1b3dfc26c5ff2dbf4a93e92fa50baa333daafac46fe6"
+hash = "ca51e35403687e8449fe31fa6af62791d3143b13bb0f45c910930fa352d3a060"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/island.mcfunction"
