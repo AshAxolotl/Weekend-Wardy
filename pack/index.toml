@@ -58,7 +58,7 @@ hash = "0ce5a209870e0673c14f68d4581de2cefc67a3c37aa7071c943b711a69835775"
 
 [[files]]
 file = "config/default_files/config/fog/config.json"
-hash = "40b5deea03174c6e26e2c58fc5b7d57bb65a261e3e0b5c89780536fec28c821c"
+hash = "46eb9573196760777f216525c6d21da37b9f06555322fc2076ed6e676a766a1b"
 
 [[files]]
 file = "config/default_files/config/lootr-client.toml"

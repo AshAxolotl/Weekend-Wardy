@@ -1,16 +1,24 @@
 {
-	"disableMod": false,
+	"enableMod": true,
 	"disabledBiomes": [
 		"minecraft:nether_wastes",
 		"minecraft:crimson_forest",
 		"minecraft:warped_forest",
 		"minecraft:soul_sand_valley",
-		"minecraft:basalt_deltas"
+		"minecraft:basalt_deltas",
+		"pastel:black_langast",
+		"pastel:crystal_gardens",
+		"pastel:deep_barrens",
+		"pastel:deep_dripstone_caves",
+		"pastel:dragonrot_swamp",
+		"pastel:howling_spires",
+		"pastel:noxshroom_forest",
+		"pastel:razor_edge"
 	],
-	"disableRaininessEffect": false,
-	"disableUndergroundFogMultiplier": false,
-	"disableBiomeFogColour": false,
-	"disableCloudWhitening": true,
+	"rainFogMultiplier": 0.9,
+	"undergroundFogMultiplier": 0.5,
+	"enableBiomeSpecificFogColors": true,
+	"enableCloudWhitening": false,
 	"initialFogStart": 0.25,
 	"initialFogEnd": 0.85,
 	"raininessTransitionSpeed": 0.005,
@@ -21,10 +29,10 @@
 	"fogColorTransitionSpeed": 0.025,
 	"startMultiplierTransitionSpeed": 0.0075,
 	"endMultiplierTransitionSpeed": 0.0075,
-	"disableMoonPhaseColorTransition": false,
+	"enableMoonFogColorInfluence": true,
 	"newMoonColor": -16777216,
-	"disableSunsetFog": false,
-	"enableHighAltitudeFog": true,
-	"prioritizePolytoneFogColors": false,
-	"disableWhenIrisActive": true
+	"enableSunFogColorInfluence": true,
+	"enableHighAltitudeFogColorInfluence": true,
+	"prioritizePolytoneFogDefinitions": true,
+	"disableModWhenIrisShaderPackIsEnabled": true
 }
