@@ -1004,13 +1004,17 @@ hash = "d610540ab8d81af8b6aa292aed319c7cb7bb60c55b56ecf8b2af889e4ca327a3"
 metafile = true
 
 [[files]]
-file = "mods/partytrick.pw.toml"
-hash = "bca11cc48084a089398f49b08a276c90b7bb2a8d2cacf5c8f348d8a7ea1a68dd"
-metafile = true
+file = "mods/partytrick-3.0.0-ALPHA.jar"
+hash = "49f60cf25550246cf8ecd31ff68c750045efcbe02a6bc7a874bc07af958ad10c"
 
 [[files]]
 file = "mods/pastel-mod.pw.toml"
 hash = "53f6bd232f7f504d99d060e111a28513c401a4372d1a946d10f7ab54c5d6a618"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "c83705becd548879473132552de960f9d5975fa0edaeeb2d4665a4e35457423e"
 metafile = true
 
 [[files]]
@@ -1228,6 +1232,11 @@ hash = "e103e134083c1f541cf3142483cc781b1985a3f21fd7bce3d6cd1788e683902d"
 metafile = true
 
 [[files]]
+file = "mods/the-mad-hatter.pw.toml"
+hash = "318bf8a7abbd0805286776036cfbb49d2063d7f425a192872738add78e9640ab"
+metafile = true
+
+[[files]]
 file = "mods/tmrv.pw.toml"
 hash = "cf627ec0600bbd92d94d80971f82391d4f671c4b3b2014233e53aa7d645a5d07"
 metafile = true
@@ -1442,19 +1451,23 @@ hash = "9e251678aaadc504bb94e987a8caced5b81102265ddf463fd8d49c564d3eb1fc"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/check_trigger.mcfunction"
-hash = "e9e7349819e94ff26ae500c0e986a22aa1e2d0d3238839514b04e7d83626d927"
+hash = "960d69a0778cf49adda790f2265bf01d79df6c8db9570e30c1ae5ec71c89fdc0"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/effect_check.mcfunction"
-hash = "6ab991e511bc0d6d8b4bd5fb8954e8aca867aa4ffd952ce4583ffbcbeaa364e1"
+hash = "750b5375ee6957f520038f588359e0f200f8054bf28d19e84fe26a60ed5257d5"
+
+[[files]]
+file = "resources/legacies/data/the_child/function/effect_schedule.mcfunction"
+hash = "8f8ddb71441f8c063bec3682e4862ed376816061fe439af1c277d4c1867f6d42"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/effects.mcfunction"
-hash = "d16f83bd14ebfbf5eede4d082053e77314c7900ffebbc6efca70dca482a8f907"
+hash = "f6f8e26bd31fa4ea29d825fb8f0c258b8beefa0fcecb7ebbcac681113be18c36"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/effects_clear.mcfunction"
-hash = "ca51e35403687e8449fe31fa6af62791d3143b13bb0f45c910930fa352d3a060"
+hash = "0890edfdcc1af55c0004f4b09d357c36cc521675163cb724b047ca17e1e12766"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/island.mcfunction"
@@ -1462,7 +1475,7 @@ hash = "ba10e77c36d5164c9241e5eaffeee0263b177545cf20423f37926705f3042227"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/load.mcfunction"
-hash = "66be68efda4d46e03b7891ee72cc655a9509cc6cfbe724206ca72d1af5321525"
+hash = "620c2d7c829de02b6385620e0ad4597020d421dfa6bdc9c61057b7763c682b00"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/managing.mcfunction"
@@ -1470,7 +1483,7 @@ hash = "3c39933d08d4c441500f22897439ef8fb593b257f4153f49cae570e152aadb47"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/portal.mcfunction"
-hash = "a3ef32a00961780e9cfcb87753a986fe4ba041d2ea56a8bced4c99e51cd0e0ee"
+hash = "5c55a5a236ec6f2475a9017fe7a606454cc8ab146fd0f82ba731eaef7e9afe2b"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/portal_close.mcfunction"
@@ -1478,11 +1491,11 @@ hash = "48ee550186406668b3e4822744f0b2a853b602842d986ab092c5beb8ad4c241f"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/portal_math.mcfunction"
-hash = "d40b7a2252a438620a6b455c929f339ff62b194f0d46d477d0ca1bc439db515d"
+hash = "5b8c6d9aaa30f1c54c5d3f2b83d98e440aa5b1a6d3e519652ed75ea12d2c3d1f"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/portal_shift.mcfunction"
-hash = "90a50b6a2b71937600cf026962914644177e8979c17ad70bf0f5bf8e543d8630"
+hash = "efb99f603d14f7a4d1dffc4633c7076fe84b357bc199e2791c7e22a8dcbbe655"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/switch_sides.mcfunction"
@@ -1498,7 +1511,7 @@ hash = "a940c9b3b12199ef72ec6e53182d87ad05deed2e2db783e2fcf6bd246e2d23a7"
 
 [[files]]
 file = "resources/legacies/data/the_child/function/tick.mcfunction"
-hash = "30eb10821553d6faaef3288e9dcf6cae44182bf16001dab75895635771ac9cdb"
+hash = "fa7b14f9e00684b270a38c3b792311bcf3c94aa644a05b88dbf8150451b6f677"
 
 [[files]]
 file = "resources/legacies/data/the_child/structure/other_island.nbt"

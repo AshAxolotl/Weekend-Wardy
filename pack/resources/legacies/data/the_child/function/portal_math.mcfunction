@@ -11,16 +11,15 @@ kill @e[type=marker,name="otherPortalMarker"]
 scoreboard players set CenterX OtherPortal 2150
 scoreboard players set CenterY OtherPortal 2130
 scoreboard players set CenterZ OtherPortal 2050
-scoreboard players set CenterScale OtherPortal 3
 
 
 scoreboard players operation MarkerX OtherPortal -= CenterX OtherPortal 
 scoreboard players operation MarkerY OtherPortal -= CenterY OtherPortal 
 scoreboard players operation MarkerZ OtherPortal -= CenterZ OtherPortal 
 
-scoreboard players operation MarkerX OtherPortal *= CenterScale OtherPortal
+scoreboard players operation MarkerX OtherPortal *= @s portalTravelScale
 
-scoreboard players operation MarkerZ OtherPortal *= CenterScale OtherPortal
+scoreboard players operation MarkerZ OtherPortal *= @s portalTravelScale
 
 execute store result storage child:portal destX float 0.01 run scoreboard players operation MarkerX OtherPortal += OutOriginX OtherPortal
 execute store result storage child:portal destY float 0.01 run scoreboard players operation MarkerY OtherPortal += OutOriginY OtherPortal
