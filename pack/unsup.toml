@@ -122,6 +122,8 @@ flavors = "presence_footsteps_on"
 flavors = "fresh_animations_on"
 [metafile.rabbit-villager-fresh]
 flavors = "fresh_animations_on"
+[metafile.vanilla-backport-x-fresh-animations]
+flavors = "fresh_animations_on"
 [metafile.dressme-up-fresh]
 flavors = "fresh_animations_on"
 [metafile.dressme-up-vanilla]

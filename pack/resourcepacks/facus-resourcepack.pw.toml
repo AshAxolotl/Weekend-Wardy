@@ -1,0 +1,13 @@
+name = "Facu's Resourcepack"
+filename = "Facu's Resourcepack 1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7ZCTAyxA/versions/QQivxAdI/Facu%27s%20Resourcepack%201.0.zip"
+hash-format = "sha512"
+hash = "bcd7ce3118030bf8fd7ee4650201dd062af234e48e6608d290706be7ac0f5187117edd9d2d8b2e11a2379cdee306cc1c9b1e12e85a4b02aee1c20dd6bc25699a"
+
+[update]
+[update.modrinth]
+mod-id = "7ZCTAyxA"
+version = "QQivxAdI"

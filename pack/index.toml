@@ -1031,6 +1031,11 @@ hash = "53f6bd232f7f504d99d060e111a28513c401a4372d1a946d10f7ab54c5d6a618"
 metafile = true
 
 [[files]]
+file = "mods/platform.pw.toml"
+hash = "ce6e210ac63b92f3255c4896d116f35b0af8c57a1f84dab744d939535ea528ce"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "c83705becd548879473132552de960f9d5975fa0edaeeb2d4665a4e35457423e"
 metafile = true
@@ -1200,11 +1205,6 @@ hash = "66f3e982c29d4204afc8593f050f3fe3478f286b639e1404bbdb64bda3ad0406"
 metafile = true
 
 [[files]]
-file = "mods/spring-to-life-backport.pw.toml"
-hash = "e89cc68722b5e8a52baa44e9cb31c61b4ccd7fc0de8a61a0bb9a9c8ffccfc709"
-metafile = true
-
-[[files]]
 file = "mods/spyglass-astronomy.pw.toml"
 hash = "b95ce16789bdf41c767f5ee53502626eff959274ddd8a8c811d92a2705f1b561"
 metafile = true
@@ -1295,6 +1295,11 @@ hash = "0127ae9fda0c4d22c1bb339b1c45d2805aadb2e1961f6c652d1707995416934d"
 metafile = true
 
 [[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "b278c479cc1d50ffbcf27e3514bcdb0995471eb11e2335c54255edc459b3462e"
+metafile = true
+
+[[files]]
 file = "mods/waterframes.pw.toml"
 hash = "a255c29cb611f60aaad313b223bc424721be5998673002da6b589b2862912621"
 metafile = true
@@ -1340,6 +1345,11 @@ hash = "7628722f78de626cdcfb22f673115b9af21bc25534290b2af02243c8be0d080e"
 [[files]]
 file = "resourcepacks/dressme-up-vanilla.zip"
 hash = "301dba24f453ff7cbf469691538c855880cef004d15853400ccae47d18d09dce"
+
+[[files]]
+file = "resourcepacks/facus-resourcepack.pw.toml"
+hash = "fa7594bc8fcd38a76e721d1eb8fdd320b1ac4547594d0d7b336fdfb55015013d"
+metafile = true
 
 [[files]]
 file = "resources/Ghastly Jackson.zip"
@@ -1820,5 +1830,10 @@ hash = "b24a2ef39d8e82e196d5548e4f6c30ffe253cd927bf58fd6cd8d2dbd9b8fa38b"
 metafile = true
 
 [[files]]
+file = "resources/vanilla-backport-x-fresh-animations.pw.toml"
+hash = "92582b5a76e548fa4d64f72b569b5c7bf06026c3642526d35c9f1102e73f4c3a"
+metafile = true
+
+[[files]]
 file = "unsup.toml"
-hash = "9a8de11871cd0b4fa70501822ef36546e4e706fd9bf4ccf4ee415cacd0c0a822"
+hash = "c7178d2affd6f72f10ad12f3ed464cad924841d18813f38db72e9ea6d4e1ed39"
