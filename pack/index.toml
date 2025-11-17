@@ -5,6 +5,10 @@ file = "DO-NOT-UPDATE.txt"
 hash = "03c00548a2866e95a99da2d089834f4ae4ac88684bfbefe8d540eee3b8aaa932"
 
 [[files]]
+file = "KNOWN-ISSUES-THAT-IM-NOT-FIXING.txt"
+hash = "3c4ba7e42b173dd92c3961d201e1d49a9fc2186a72f3524f2cafc3ac4b3fb108"
+
+[[files]]
 file = "config/audioplayer/audioplayer-server.properties"
 hash = "7ef4d8abfd9f56f61ff9c0f5722b6768e09b9a2a31ac73ba330791ded2d0a43c"
 
