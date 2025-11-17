@@ -1,13 +1,13 @@
 name = "ForgedPaginatedAdvancements"
-filename = "ForgedPaginatedAdvancements-0.0.1+1.21.1.jar"
+filename = "ForgedPaginatedAdvancements-0.0.2+1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/CV3BPuYF/versions/pTi6Wa0G/ForgedPaginatedAdvancements-0.0.1%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/CV3BPuYF/versions/aAD33IiT/ForgedPaginatedAdvancements-0.0.2%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "9032fb4f93ad1ed7a6fdf49e79f207d074672e0cde6e4e5b09f26a995eec82122257a918fd5eed2159441028b78e5fcb8f1f35b66cf0dcce588e1d68ed1a78d9"
+hash = "5b0cd0974cacc92509869fe847754ee4842ebedc32eaa708faace3903db47521e54443209cb52ddb5bcd7ad178ca196ece271942b226022c544fd1d7bd560f5f"
 
 [update]
 [update.modrinth]
 mod-id = "CV3BPuYF"
-version = "pTi6Wa0G"
+version = "aAD33IiT"

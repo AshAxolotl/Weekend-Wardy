@@ -1,0 +1,6 @@
+- more barrel variants (data loss on update) 
+- Simple voice chat to the neoforge version. Will break audioplayer
+- tectonic. Using an older version that the world is the same as an old server.
+- Waterframe the newer version is an early aplha!
+- Connector & Forgified Fabic API. Causes crashs
+- Create and Addons. This includes sophiscitated backpacks and exposure as well as they need 6.0.7
