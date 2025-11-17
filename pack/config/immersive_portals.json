@@ -36,7 +36,7 @@
   "regularPortalLengthLimit": 64,
   "scaleLimit": 30,
   "easeCreativePermission": true,
-  "easeCommandStickPermission": false,
+  "easeCommandStickPermission": true,
   "portalsChangeGravityByDefault": false,
   "portalWandUsableOnSurvivalMode": false,
   "portalSearchingRange": 128,

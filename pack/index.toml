@@ -98,7 +98,7 @@ hash = "377cf0a4c8f384ee6d5fa593ab0c52e7a4ef30baf5c0f770d9b630869d38b6b9"
 
 [[files]]
 file = "config/immersive_portals.json"
-hash = "1cbfa31208f4460a438830cd0e4b5f23cdf2ade45c39e4eb5e2b49efc10691ec"
+hash = "29e4345d758f21c6f2f49b1ae27849da67120b411eddbb0646019f68bae8bea8"
 
 [[files]]
 file = "config/knightlib.toml"
