@@ -137,18 +137,18 @@ file = "config/transmog.json"
 hash = "32dc3ac1fa365cdb995745924a850b8f36c11621e092d305ded2cb780dad7f0f"
 
 [[files]]
-file = "mods/accessories-cc-layer.pw.toml"
-hash = "8f90a500df28d497fe7e323b40ee55640bc63141284ce2189a7766c976a91378"
+file = "mods/accessories-compat-layer-fabric.pw.toml"
+hash = "0c3e9bfc898c6402a36c15757dd73079c14bf9b8d03eac3ef46ce9667144939a"
 metafile = true
 
 [[files]]
-file = "mods/accessories-tc-layer.pw.toml"
-hash = "2392fac629717417a29744e66f001a494304309b7742cf0cf54368278d3bf5c7"
+file = "mods/accessories-compat-layer.pw.toml"
+hash = "9f3abbba0805d021f4fec52693732de1c098ab6049f6065b9be494e9c339eeee"
 metafile = true
 
 [[files]]
 file = "mods/accessories.pw.toml"
-hash = "9f0b2ddbcc7fabdae4496613136a5b3ea5a4ca049579b247528d7e25de16f76d"
+hash = "5b786ab7a57e37ec4b8f888157f79608e871653fc4b6a8cba0296690fe863704"
 metafile = true
 
 [[files]]
@@ -434,6 +434,11 @@ metafile = true
 [[files]]
 file = "mods/critters-and-companions.pw.toml"
 hash = "96a87e8bb594c5aca42b33e45bd02027a1e59bce29975d657b8eb3d764455111"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
@@ -1250,6 +1255,11 @@ metafile = true
 [[files]]
 file = "mods/trickster.pw.toml"
 hash = "db0306af280a7691f4127f8fe853d7924c7a741fcd31e878c3e61f28d0f585f2"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
 metafile = true
 
 [[files]]
