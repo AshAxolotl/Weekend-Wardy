@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "DO-NOT-UPDATE.txt"
-hash = "26d5cde640404ed1fe89589637840c3bf1ce21b4efa36f5cf81ad15cef9ba112"
+hash = "662f5683bb134d6a03c823f2a59ce74bf196b23479a5590d5fa9512e1ed44a77"
 
 [[files]]
 file = "KNOWN-ISSUES-THAT-IM-NOT-FIXING.txt"
@@ -410,17 +410,17 @@ metafile = true
 
 [[files]]
 file = "mods/create-framed.pw.toml"
-hash = "fe314943675dbe95eca9c16139b049b5e6f94f1e9ac1c78c04a16024bba34f89"
+hash = "0bfd51544f3b3f14e371edf38526a6f36227d660f00070adcd31b2a0db40b18e"
 metafile = true
 
 [[files]]
 file = "mods/create-mobile-packages.pw.toml"
-hash = "2142b2087a06d5cf1b56ca22b7c924ab7724dffa089c80352a070c4e5df8def2"
+hash = "7cbcc68274747ac4ffb9f4a88f87c2fbcda7a2c267098173a279781ced0e25b6"
 metafile = true
 
 [[files]]
 file = "mods/create-more-package-couriers.pw.toml"
-hash = "c24c293a9ea338928977a4502f244facb702d2cb30e2035dab6b9507e758767d"
+hash = "11ee941c5cf125189d545240d162e6ec0bbfe90d78a7c4aab71493295e658212"
 metafile = true
 
 [[files]]
@@ -430,7 +430,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "7f25446123f66f57e7cc8e148155a3da39d85b31963c663b5b9be77fc1bacbe6"
+hash = "d6043c928c34ce1f4ada544a49193f95c281665cf88d4931e73370ea02870bed"
 metafile = true
 
 [[files]]
@@ -554,11 +554,6 @@ hash = "ff029ee6fc50f2696e96cdbcc696f42e75b483c9d7b83f2b1447dcf5c865e664"
 metafile = true
 
 [[files]]
-file = "mods/emi-for-create-stock.pw.toml"
-hash = "f21db79fbece8a79b44ce930abc18c51daba189f8a5dbed210ea982148b9ecd1"
-metafile = true
-
-[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "bbf03bec2bd4927ace16eef106c45b0f3ec53c48d5f43119520123ad98f3fdf1"
 metafile = true
@@ -635,7 +630,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "10ec5a4494ad86a474216b089765476bbb53b2c66cbcaac7ed2a2f400c2dcc91"
+hash = "c22010071589a36869a478fda1eae893adcc15fc9ab9996a195cc6f54333891b"
 metafile = true
 
 [[files]]
@@ -1151,7 +1146,7 @@ metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "f070e2ab660e9eae0105d416942cce82a0bc592e82660f61fe0d9fcd08e4e1e1"
+hash = "6b100c6847b82f48ac150816c2e9ce8fd590a4dc92a49e38634b7f6c6b5a2e71"
 metafile = true
 
 [[files]]
@@ -1166,17 +1161,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks-create-integration.pw.toml"
-hash = "5d18a281e163b2291f5e6dec16466241e39455ef53899bd479484004e5618dde"
+hash = "98894c50922dfad36e4313d798d4497a61c42ce855b44fd63aea79b4990cac5d"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "c3b518b0d44385c86cd6f21b066f3a4a06c14eeb718f5ee6fcc966cab990d820"
+hash = "a2028f1fdc803760a29877b07b2958cecdc6402eb946f9d5a0fff9fe72b8671d"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "56fd1abf9d6f1241d25eb35281fd27deec88cdd989859fe4426711d41acc1f0e"
+hash = "8ed3c58f23d9255343a590b90e1216ac58142b920c9bffdd14c7fdc32e3ee002"
 metafile = true
 
 [[files]]
