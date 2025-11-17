@@ -464,11 +464,6 @@ hash = "a832de493f31251061455e1a473471d115ff875400ddeae78e35ae8c7868c3c1"
 metafile = true
 
 [[files]]
-file = "mods/default-components.pw.toml"
-hash = "64e964d14a41968ac3ba4549100f0055c9837b1f4f0c30d410139f27938a0f9f"
-metafile = true
-
-[[files]]
 file = "mods/default-files.pw.toml"
 hash = "55078861f033521e0b31923e0ed415f44a48600718e806b0aeaac4bd3df6733c"
 metafile = true
@@ -1777,10 +1772,6 @@ hash = "f2e9c174d68c14a9b5cea8688e58922008bfddcaab483d96e7fe9b58af62c965"
 [[files]]
 file = "resources/pack_resources/data/malum/tags/worldgen/biome/has_weeping_well.json"
 hash = "9d4cb81ececcf4ade08fe580fbbb500bc70d6d1f13f3f5f9fa22e9c074f73aeb"
-
-[[files]]
-file = "resources/pack_resources/data/pastel/default_components/kindling_head.json"
-hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
 
 [[files]]
 file = "resources/pack_resources/data/sophisticatedbackpacks/recipe/iron_backpack_from_copper.json"
