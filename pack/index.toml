@@ -101,6 +101,10 @@ file = "config/default_files/options.txt"
 hash = "9dc0a869e6fe7ea286ae1d8d02cc3aa2962ca53bebe051ab943ddf221da9a0d8"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "ba766c60de3f0f300a8853d7c513c68834695bde973dc74855e27083adde926f"
+
+[[files]]
 file = "config/headpats.json"
 hash = "377cf0a4c8f384ee6d5fa593ab0c52e7a4ef30baf5c0f770d9b630869d38b6b9"
 
@@ -741,6 +745,11 @@ metafile = true
 [[files]]
 file = "mods/illagers-wear-armor.pw.toml"
 hash = "7fdc80c6250ba6feee62da887f7877f983a9342cc02591712c7b34a9ba68ccd3"
+metafile = true
+
+[[files]]
+file = "mods/illusionist.pw.toml"
+hash = "1f8cd3cbc0c837c957dd24bcab07888593cea0bc5d12ad65d7991a0d1e6e7b8d"
 metafile = true
 
 [[files]]
