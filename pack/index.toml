@@ -1017,8 +1017,9 @@ hash = "d610540ab8d81af8b6aa292aed319c7cb7bb60c55b56ecf8b2af889e4ca327a3"
 metafile = true
 
 [[files]]
-file = "mods/partytrick-3.0.0-ALPHA.jar"
-hash = "49f60cf25550246cf8ecd31ff68c750045efcbe02a6bc7a874bc07af958ad10c"
+file = "mods/partytrick.pw.toml"
+hash = "d25902b93235ccbae18439039932d3312ddd9988edbfef565ca28c48ae75009b"
+metafile = true
 
 [[files]]
 file = "mods/pastel-mod.pw.toml"
@@ -1126,8 +1127,8 @@ hash = "33ca75fe81ded60a2459af53f89dca2079fcda62ffe49b9f2138a84c19c99505"
 metafile = true
 
 [[files]]
-file = "mods/sheepish-10.2.1.jar"
-hash = "ceaf00386f784370172f365a319a96744db1b666755cca2a0d90de387ec0a40c"
+file = "mods/sheepish-10.10.3.jar"
+hash = "10ffe082b1268b68c0ef0f11334422be6108c2437a36e503c88577892b0b2792"
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
@@ -1265,9 +1266,8 @@ hash = "882158c17af560d7798e85bee9b34c4665e5b2497d677574b48ef8edecd82ade"
 metafile = true
 
 [[files]]
-file = "mods/trickster.pw.toml"
-hash = "db0306af280a7691f4127f8fe853d7924c7a741fcd31e878c3e61f28d0f585f2"
-metafile = true
+file = "mods/trickster-2.0.0-beta.34-with-pinpoint.jar"
+hash = "d35497704d3a8f61665d4354290331c7050d1f358692bdda19214056520b8a19"
 
 [[files]]
 file = "mods/trinkets.pw.toml"
