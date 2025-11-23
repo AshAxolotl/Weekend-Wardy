@@ -847,8 +847,8 @@ hash = "ee7786026fb270b31b018efd166afff9f91de67369a50832ca33644d2bc32722"
 metafile = true
 
 [[files]]
-file = "mods/lodestonelib.pw.toml"
-hash = "3dce7f2be23f7a342547aa023d8b5bf0155849548f854c8692b14c160fbf7426"
+file = "mods/lodestone.pw.toml"
+hash = "5d6204e4b226d11cec89ae45147bb722ac7619f476fdc48c949d73ad48fdabed"
 metafile = true
 
 [[files]]
@@ -888,7 +888,7 @@ metafile = true
 
 [[files]]
 file = "mods/malum.pw.toml"
-hash = "1858795b29ea460ed655c1981cd738e1faa94176584e4bd6b58e471ae627b6db"
+hash = "a0f76b41336e306f4fe336229b9ceb76fc06c4f88c30e7eb567d336eb58b8e0c"
 metafile = true
 
 [[files]]
@@ -1749,11 +1749,11 @@ hash = "f7a92785f2abf7dcd44156c46ef2337d118e3b73dc000a99f6d255552da1139f"
 
 [[files]]
 file = "resources/pack_resources/data/custom/recipe/void_hat.json"
-hash = "05811a5cb3ad67b75ca8f63d4674d9cb6f410bb5e0111a8a4f200f5dc54344e2"
+hash = "a5738a9dfc08957d8a5ea3a21417996a7b434f485af2d0af35d77af4c3968404"
 
 [[files]]
 file = "resources/pack_resources/data/custom/recipe/void_phantom_membrane.json"
-hash = "b3f6a24f6484355770fb2cac0af27c0776503325de0a46506208c44bf336de85"
+hash = "aabe1e2dc4fa78d1ad4c40b26a4ecaefe105ddbe23ed579d053aa13e4304448e"
 
 [[files]]
 file = "resources/pack_resources/data/custom/tags/item/xp_items.json"

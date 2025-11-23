@@ -1,9 +1,9 @@
 {
-  "type": "malum:favor_of_the_void",
-  "ingredient": {
+  "type": "malum:void_favor",
+  "input": {
     "item": "minecraft:leather"
   },
-  "output": {
+  "result": {
     "count": 1,
     "id": "minecraft:phantom_membrane"
   }
