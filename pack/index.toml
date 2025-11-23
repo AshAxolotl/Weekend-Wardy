@@ -264,11 +264,6 @@ hash = "a5122c5ecc0e36da4f60474cc8ecaff590aaeae8be545ffddfe2c25db89816e7"
 metafile = true
 
 [[files]]
-file = "mods/bookshelf-inspector.pw.toml"
-hash = "07dc1cf44308781821a2a96cacacc343c9669e75d13f963ac32b865f228d8af9"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "6cd235030774b3cfab54145cf616ab47b0afa57cacab75ede94c2682c9450ce9"
 metafile = true
@@ -1113,6 +1108,11 @@ metafile = true
 [[files]]
 file = "mods/runiclib.pw.toml"
 hash = "83108a6c53c80936870d7c44a83395d0bf48842f5c38e8ef25b42e4b8d80be9b"
+metafile = true
+
+[[files]]
+file = "mods/scholar.pw.toml"
+hash = "4adae9f3dde808548906bc5b01c2b103145641c892095c92300c3777fbcead7a"
 metafile = true
 
 [[files]]
